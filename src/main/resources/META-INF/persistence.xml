@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+  <persistence-unit name="vocab" transaction-type="RESOURCE_LOCAL">
+    <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+
+   
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+    <properties>
+      <property name="hibernate.archive.autodetection" value="class, hbm" />
+      <property name="javax.persistence.jdbc.driver" value="org.sqlite.JDBC" />
+      <property name="javax.persistence.jdbc.url" value="jdbc:sqlite:vocab.sqlite" />
+      <property name="javax.persistence.jdbc.user" value="" />
+      <property name="javax.persistence.jdbc.password" value="" />
+      <property name="hibernate.show_sql" value="true" />
+      <property name="format_sql" value="true" />
+      <property name="hibernate.dialect" value="com.enigmabridge.hibernate.dialect.SQLiteDialect" />
+    </properties>
+  </persistence-unit>
+</persistence>

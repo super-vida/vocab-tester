@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="400.0" spacing="20.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.prague.vida.vocab.NewLessonFromFileWindow">
+   <children>
+      <HBox alignment="CENTER" prefHeight="50.0" prefWidth="200.0" spacing="20.0">
+         <children>
+            <Label text="Název lekce:" />
+            <TextField fx:id="newLessonTextField" />
+         </children>
+      </HBox>
+      <TextArea fx:id="newLessonTextArea" prefHeight="450.0" prefWidth="200.0" />
+      <Button fx:id="createButton" mnemonicParsing="false" onAction="#createLesson" text="Vytvořit lekci" />
+   </children>
+</VBox>
