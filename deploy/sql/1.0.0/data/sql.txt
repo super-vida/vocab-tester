@@ -1,0 +1,13 @@
+select count(*) from word where w_language = 'en';
+
+select lc.lt_time, lc.lt_correct_count from lesson_check lc where lc.lt_time = (select max(lt_time) from lesson_check where lt_l_id = lc.lt_l_id)  group by lc.lt_time, lc.lt_correct_count ;
+select * from lesson_check lc where lc.lt_time = (select max(lt_time) from lesson_check where lt_l_id = lc.lt_l_id);
+
+with group_by_max as (
+select lc.lt_time, lc.lt_correct_count from lesson_check lc where lc.lt_time = (select max(lt_time) from lesson_check where lt_l_id = lc.lt_l_id)  group by lc.lt_time, lc.lt_correct_count
+) 
+select sum(lt_correct_count) from group_by_max ;
+
+select l_name,count(distinct(wg.wg_w1_id)) from lesson l
+inner join word_group wg on l.l_id = wg.wg_l_id
+group by l_name order by l_name;
