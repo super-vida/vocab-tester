@@ -1,0 +1,134 @@
+affair;poměr, událost, aféra, věc
+aristocracy;šlechta, aristokracie
+barley;ječmen
+basis;základ, báze
+beetle;brouk
+betray;zradit
+betrayal;zrada
+bind;přivázat, svázat, upevnit, opruz
+blackberry;ostružina
+bond;slepit, pouto, svazek, vazba, dluhopis
+bone;kost
+broadcast;vysílat
+brush;kartáček, kartáč, štětka, štětec
+bunch;svazek, trs, hrozen
+burst;prasknout, puknout, propuknout
+cabbage;zelí, kapusta
+calf;tele, lýtko
+canary;kanár
+cancer;rakovina
+cautious;opatrný, obezřetný
+chassis;šasi, kostra, podvozek
+civil;občanský, zdvořilý
+claw;dráp
+clay;hlína, jíl
+cloudburst;liják, průtrž mračen
+clove;stroužek, hřebíček
+conifer;jehličnan
+constellation;souhvězdí
+courageous;odvážný, statečný, udatný
+crawfish;rak
+dam;hráz, přehrada
+dark;tmavý, temný, temno, tma
+deer;vysoká zvěř, jelen
+deranged;šílený, vyšinutý
+dice;kostka
+disgusting;odporný, nechutný, hnusný
+dizziness;závrať
+drizzle;mrholení
+dutiful;svědomitý, pečlivý
+eagle;orel
+economical;úsporný, šetrný, ekonomický, hospodárný
+elder;starší, stařešina
+eldest;nejstarší
+eleventh;jedenáctý
+environment;prostředí
+explosion;výbuch
+eyelid;víčko
+fang;tesák
+fascination;fascinace, okouzlení
+fearless;nebojácný, odvážný, neohrožený
+fiend;démon, ďábel
+flower;květina, květ, kvést
+foliage;listí, listoví
+frenzy;zuřivost, běsnění
+frog;žába, žabožrout, frantík
+gem;drahokam, klenot
+ginger;zázvor
+gloom;temno, šero
+goodness;laskavost
+gooseberry;angrešt
+greenfly;mšice
+hamster;křeček
+handsaw;pilka, pila
+heartless;bezcitný, nemilosrdný
+hippo;hroch
+hurl;mrštit, vrh, vrhnout, hození, hodit, hod
+inattentive;nepozorný
+innocence;nevinnost
+insincere;neupřímný
+island;ostrov, ostrůvek, ostrovní
+joint;kloub, spoj, společný, špek
+kneel;klečet, pokleknout
+lifetime;životnost, celoživotní, doživotní
+loaf;bochník
+lunacy;šílenství
+lynx;rys
+magic;kouzlo, kouzelný
+marsh;bažina, mokřad, mokřina
+merciless;bezcitný, nemilosrdný
+monarch;panovník, vládce, monarcha
+murder;zavraždit, vražda
+nausea;nevolnost
+navel;pupek, pupík
+nuclear;jaderný, atomový
+numbness;otupělost
+oats;oves
+older;starší
+oyster;ústřice, nemluva
+penguin;tučňák
+pitchfork;vidle
+plate;talíř, tác, štítek, destička
+pliers;kleště
+plum;švestka
+prick;propíchnout, probodnout, debil, hajzl, píchnout
+radish;ředkvička
+reservoir;přehrada, nádrž
+rib;žebro, provokovat, popichovat
+rock;skála, kámen
+rogue;darebák, lump, zločinný, samotář, odpadlický
+scarf;šátek, šála
+scorpion;štír
+selfish;sobecký
+shake;třást, zatřást, otřes, třást se
+shell;škeble, skořápka, ulita, mušle, náboj, patrona, granát, lastura, krunýř
+silver;stříbro
+sing;zpívat
+slay;zabít
+slope;svah, úbočí, stráň, sklon
+sneak;plížit se
+spade;rýč, negr
+spice;koření
+split;rozdělit
+sprout;pučet, rašit
+superfluous;přebytečný, nadbytečný
+swamp;močál, bažina
+sweep;mést, zametat
+swell;otéct
+temperature;teplota
+tendon;šlacha
+throat;hrdlo
+thunderbolt;blesk
+tie;pouto, kravata, svázat, přivázat, spoutat, remíza
+tongue;jazyk
+tooth;zub
+treason;zrada
+tuna;tuňák
+uncle;strýc
+vertigo;závrať
+viper;zmije
+weakness;slabost, slabina
+weed;plevel
+whale;velryba
+widower;vdovec
+zodiac;zvěrokruh

@@ -1,0 +1,97 @@
+June;červen
+October;říjen
+able;šikovný
+add;dodat, přidat
+admit;vpustit, uznat, připustit
+advice;rada
+airport;letiště
+allow;umožnit
+already;už, již
+answer;odpověď
+arm;ruka
+arrange;uspořádat, sjednat, zařídit
+as;zatímco, jako
+backup;záloha
+bath;koupat se, vana, koupel
+begin;začít
+boat;člun
+cafeteria;jídelna
+car;vůz, vozidlo
+certain;jistý, určitý, jistý si
+coffee;káva
+cold;chladný, studený, zima
+company;podnik, společnost
+consist;skládat se, sestávat
+cost;cena
+cup;hrníček, hrnek
+cut;krájet, říznout se
+dark;temný
+day;den
+end;závěr, konec
+enjoy;užívat si
+everybody;všichni
+example;příklad
+except;kromě
+factory;továrna
+fast;rychle, rychlý
+favorite;oblíbený
+fight;bojovat, zápas, boj
+flow;téci
+foot;noha
+fresh;čerstvý
+garage;garáž
+garden;zahrada
+get;dostat, získat
+health;zdraví
+help;pomoc
+her;její
+hobby;záliba
+if;když
+illness;choroba, nemoc
+improve;zlepšit, vylepšit
+influence;vliv, ovlivnit
+it;ono, to
+journey;výprava, cesta
+knife;nůž
+lack;nedostatek
+level;plochý, rovný, úroveň, vodorovný, stupeň
+lie;lež, lhát, lhát
+lift;výtah
+load;náklad, načíst, nahrát, nabít, naložit, zátěž
+loud;hlučný, hlasitý
+mean;mínit
+meet;potkat se
+national;celostátní, národní
+nice;pěkný
+notice;všimnout si
+owe;dlužit
+past;minulost
+present;dárek, dar
+pull;táhnout, tah, tahat
+quiet;tichý
+real;skutečný, pravý
+reality;realita, skutečnost
+really;opravdu, doopravdy
+right;pořádně, vpravo, správně
+sell;prodávat, prodat
+she;ta
+shoes;obuv
+show;ukázat, předvést, přehlídka
+silly;hloupý
+sink;potopit se, dřez, klesat, potopit, umyvadlo
+sixty;šedesát
+somebody;někdo, kdosi
+sound;zvuk
+sour;kyselý
+source;zdroj
+spring;jaro
+square;náměstí
+steal;krást
+terrible;hrozný, strašný
+there;tam
+unite;spojit, spojit se, sjednotit
+urgent;bezodkladný, urgentní, naléhavý
+waste;mrhat
+with;společně
+wonderful;báječný
+word;slovo

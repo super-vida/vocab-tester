@@ -1,0 +1,103 @@
+actress;herečka
+airline;aerolinie, letecká společnost
+albeit;třebaže, ačkoliv, i když
+alternate;střídat, každý druhý
+alternative;možnost, alternativní, alternativa, jiný
+amaze;ohromit, udivit
+amongst;mezi
+annoy;obtěžovat, štvát
+armor;brnění, zbroj
+armored;obrněný
+armour;brnění, zbroj
+assassin;atentátník, vrah
+assassination;atentát, zavraždění
+astonish;ohromit, udivit
+beauty;krása, nádhera, krasavice
+bomb;bomba, bombardovat, fiasko, rachotina, kraksna, ranec, propadák
+bomber;bombardér, atentátník
+bother;otrava, obtíž, obtěžovat, rušit
+caretaker;školník, domovník, údržbář, správce, opatrovník
+change;změna, změnit, změnit se, střídat, převléknout se, přestoupit, drobné
+commonplace;všední, běžný
+compromise;kompromis
+conscience;svědomí
+convoy;konvoj, kolona
+counter;pult, přepážka
+crack;prasknout, prasklina, rozbít, trhlina, puklina, puknout
+cynical;cynický
+dedicated;oddaný, jednoúčelový
+demonstrate;demonstrovat, předvést, protestovat, ukázat
+departure;odjezd, odlet, odchod
+desk;stůl, recepce, přepážka
+detonate;vybouchnout, explodovat
+dialogue;rozhovor, dialog
+disc;disk, kotouč
+disgusting;odporný, nechutný, hnusný
+distance;vzdálenost
+emotion;emoce, cit
+endanger;ohrozit
+envision;představit si
+everyday;všední, každodenní
+exhausted;unavený, vyčerpaný
+fall;padat, spadnout, podzim, vodopád, pád
+film;film, filmový, natočit
+foreigner;cizinec
+foul;faul, faulovat, hnusný, odporný
+generosity;velkorysost, štědrost
+glimpse;zahlédnout, zahlédnutí
+gross;hrubý, drsný, veletucet
+gunman;střelec
+headquarters;velitelství, ústředí, sídlo, centrála
+honor;čest, pocta, vyznamenání, uctívat, ctít
+honour;čest, pocta, vyznamenání, uctívat, ctít
+illuminate;osvítit, osvětlit
+industrial;průmyslový
+inflate;nafouknout, nahustit
+inhabitant;obyvatel
+irresponsible;nezodpovědný
+irritate;štvát, dráždit
+janitor;školník, domovník, vrátný
+loathsome;odporný, hnusný, nechutný
+maniac;maniak, šílenec
+martyr;mučedník
+mathematics;matematika
+measurement;měření
+midday;poledne, polední
+milestone;milník
+mirror;zrcadlo, odrážet, zrcadlit
+nationality;národnost
+northeastern;severovýchodní
+ordinary;obvyklý, obyčejný, běžný, všední
+overestimate;přecenit
+overseas;zámořský
+participate;zúčastnit se, podílet se
+precede;předcházet
+primary;prvořadý, primární, hlavní
+proceed;postupovat, pokračovat, výtěžek
+record;záznam, zápis, zaznamenat, nahrávat, nahrát, natočit, rekord
+reel;cívka, špulka, naviják, navinout, svinout, stočit, vrávorat, potácet se, vrávorání
+reflect;odrážet
+reliable;spolehlivý
+reporter;zpravodaj, reportér
+roll;kutálet, kutálet se, valit, valit se, koulet, koulet se, stočit, svinout, kotouč
+sadden;zarmoutit, rozesmutnit
+scandal;skandál, aféra
+screenplay;scénář
+script;scénář, rukopis, skript, předpis, recept
+shoot;střílet, střelit, natočit
+single-purpose;jednoúčelový
+situation;situace
+stuck;uvíznutý, zaseknutý
+suicide;sebevražda, sebevražedný
+text;text, poslat SMS
+ton;tuna
+tourist;turista
+traveler;cestující, cestovatel, turista
+traveller;cestující, cestovatel, turista
+unclear;nejasný
+underestimate;podcenit
+uniform;uniforma, stejnokroj
+unnecessary;nepotřebný, nadbytečný, zbytečný
+unpopular;neoblíbený, nepopulární
+weigh;vážit, zvážit
+worship;uctívat, zbožňovat, vyznávat 

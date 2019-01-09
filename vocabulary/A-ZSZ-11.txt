@@ -1,0 +1,116 @@
+accident;nehoda, neštěstí, havárie
+ache;bolet
+advice;rada, doporučení
+age;věk
+air;vzduch, vzdušný
+all;všechno, všichni, vše
+amount;množství, částka, obnos
+and;a
+another;jiný, další, ještě jeden
+bit;trocha, kousek
+blood;krev
+boss;vedoucí, šéf
+cafe;kavárna
+café;kavárna
+call;nazývat, volat, zavolat, výzva, svolat, nazvat, pojmenovat, hovor
+cat;kočka
+chair;židle, křeslo, předsedat
+check;ověřit, prověřit, šach, šek, účet, kontrola
+convince;přesvědčit
+dangerous;nebezpečný
+darkness;tma, temnota, temno
+decision;rozhodnutí, usnesení
+describe;popsat, vylíčit
+directly;přímo, rovnou, rovně
+disagree;nesouhlasit
+dive;potápět se, skočit, skok
+east;východ
+easy;lehký, snadný, jednoduchý
+empty;prázdný, vyprázdnit
+exhibition;výstava
+expect;očekávat, čekat
+fly;letět, moucha
+forbid;zakázat
+forgive;odpustit, prominout
+four;čtyři
+fourteen;čtrnáct
+girl;děvče, holčička, dívka, holka
+give;dát, dávat, poskytnout, darovat
+gone;pryč
+government;vláda
+hall;hala, chodba, síň, sál
+hardly;stěží, sotva
+horrible;hrozný, strašný, otřesný
+hour;hodina
+how;jak
+hundred;sto, stovka
+intention;úmysl, záměr
+interest;zájem, záliba, úrok
+jump;skočit, vyskočit, skok, skákat
+kill;zabít, usmrtit
+lady;dáma, paní
+late;pozdě, pozdní
+later;později, pozdější
+leg;noha
+light;světlo, lehký, zapálit, světlý
+little;malý, krátký, málo
+live;bydlet, žít, živý
+local;místní, zdejší
+manage;spravovat, řídit, vést, zvládnout
+mine;můj, důl, mina, šachta, těžit
+must;muset
+november;listopad
+ocean;oceán
+offer;nabídnout, nabídka
+one;jeden, jedna
+only;jen, pouze, jenom, jediný
+opinion;názor, stanovisko
+origin;prapůvod, původ, zdroj
+original;původní, prvotní, originál
+pack;balit, sbalit, smečka
+particularly;hlavně, zvláště, zejména, především
+pause;pauza, přestávka, pozastavit, odmlka
+place;náměstí, místo, umístit, rozmístit
+probably;pravděpodobně
+product;výrobek, produkt
+promise;slíbit, přislíbit, slib
+public;veřejnost
+purple;fialový
+quickly;rychle
+rest;zbytek, odpočívat, odpočinek
+right;vpravo, pravý, správně, pořádně, právo, správný, přímo, rovnou, nárok
+ring;prsten, kruh, zvonit, zavolat
+rod;tyč, prut, bouchačka
+scare;vyděsit, vystrašit
+second;sekunda, vteřina, druhý, za druhé
+shift;posunout, posun, zvrat, přesunout, směna
+silent;tichý, mlčící
+since;od, jelikož, od té doby
+sixteen;šestnáct
+size;velikost
+skill;dovednost, zručnost
+smart;chytrý
+south;jih
+supper;večeře
+sweet;sladký, lahodný
+tall;vysoký
+then;tehdy, tenkrát, pak, potom, tedy, tehdejší
+thirsty;žíznivý
+three;tři
+throw;hodit, vrhnout, mrštit, vrh
+top;vrchol, horní, vrchní
+total;součet, celkový, úplný, naprostý
+towards;k, ke, směrem k, směrem ke
+traffic;provoz, doprava
+truth;pravda
+tub;vana
+twice;dvakrát
+two;dva, dvě
+type;typ, psát, druh
+usually;obvykle, běžně
+victim;oběť
+way;způsob, cesta
+whole;celý, celek
+winter;zima
+worker;pracovník, dělník
+your;tvůj, váš

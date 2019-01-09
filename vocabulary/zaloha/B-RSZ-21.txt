@@ -1,0 +1,104 @@
+abuse;zneužití, zneužívání, týrání, zneužít, zneužívat
+activate;spustit, aktivovat
+additional;dodatečný, další
+aerial;vzdušný, letecký
+artificial;umělý
+association;sdružení, asociace
+banned;zakázaný
+beneficial;prospěšný, blahodárný
+blend;směs, smísit, smíchat
+brand;značka
+bribe;úplatek, podplatit, uplatit
+bribery;úplatkářství, korupce
+broken;zlomený, rozbitý
+carve;vyřezat, vyrýt
+coalition;koalice, sdružení
+community;komunita
+corrupt;zkorumpovaný, zkažený, úplatný
+corruption;úplatkářství, korupce
+crop;plodina, úroda, sklizeň
+daily;denní, deník, každodenní
+deliberate;úmyslný, záměrný
+desperate;zoufalý
+detrimental;škodlivý, neblahý
+disarm;odzbrojit
+domestic;domácí
+dry;suchý, sušit, na suchu, žíznivý
+dump;skládka, smetiště
+dusty;prašný, zaprášený
+embassy;velvyslanectví, ambasáda
+engrave;vyrýt
+equation;rovnice
+exactly;přesně
+exploit;využít, zneužívat
+farmer;farmář, sedlák
+fuel;palivo
+glass;sklo, sklenice
+global;globální, celosvětový
+harvest;sklizeň, úroda, sklízet, těžit
+heap;hromada, kraksna, rachotina
+heighten;zvýšit
+holder;držitel, držák
+horn;roh, klakson
+hotel;hotel
+impulse;impuls, podnět
+incentive;motivace, podnět, stimul
+incursion;vpád, nájezd, invaze
+ineffective;neúčinný, neefektivní
+inefficient;neefektivní, nevýkonný
+initiative;podnět, iniciativa
+intentional;úmyslný, záměrný
+intimidation;zastrašování
+involvement;účast, poměr, vztah
+launch;spustit, vyslat, uvést
+limited;omezený
+luxurious;luxusní
+luxury;luxusní, luxus, přepych
+magnificent;velkolepý
+mix;míchat, směs, mix, smíchat, smísit
+mixture;směs
+mount;nasednout, kůň, držák, nasadit, pasparta
+negotiate;vyjednávat, jednat, sjednat
+participation;účast
+particular;konkrétní, zvláštní
+pasture;pastvina, pastva
+pattern;vzor
+peril;riziko, nebezpečí
+persist;vytrvat, přetrvávat
+personal;osobní, soukromý
+pointless;nesmyslný, zbytečný
+positive;pozitivní, kladný
+pressure;tlak, nátlak
+priority;priorita
+prohibited;zakázaný
+putrid;zkažený, shnilý
+raid;zátah, razie, nájezd, vtrhnout, vpadnout, přepadnout
+rebel;vzbouřenec, rebel, vzbouřit se, povstalec
+region;oblast, region
+relief;reliéf, úleva
+risk;riskovat, riziko, nebezpečí, risk
+rocket;raketa, raketový
+rotten;zkažený, shnilý
+sample;vzorek, ukázka, ukázkový
+search;hledat, vyhledávat, prohledat, pátrání
+significantly;významně, značně
+solution;řešení, roztok
+spectacular;velkolepý
+spoiled;zkažený, rozmazlený
+spoilt;zkažený, rozmazlený
+stability;stabilita
+strain;tlak, nápor, zátěž
+strategic;strategický
+sufficient;dostatečný
+survey;anketa, průzkum, šetření
+thorough;důkladný
+tough;těžký, tvrdý, tuhý
+traditionally;tradičně
+tribe;kmen
+truce;příměří
+vaccination;očkování
+valuable;cenný, hodnotný
+vegetation;vegetace
+visualize;představit si, vizualizovat
+weapon;zbraň
+worldwide;celosvětový, globální, celosvětově, globálně

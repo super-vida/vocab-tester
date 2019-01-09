@@ -1,0 +1,134 @@
+abandon;zanechat
+adolescent;dospívající, mladistvý
+agreeable;příjemný
+anaemia;chudokrevnost, anémie
+annoying;otravný, protivný
+attentive;pozorný, zdvořilý, laskavý
+axe;sekyra
+ball;míč, koule, kulička
+base;základ, úpatí, základna, báze
+beef;hovězí, stížnost, svaly
+beige;béžový
+bet;vsadit, vsadit se, sázka, sázet
+birth;porod, narození, vznik
+bison;bizon, zubr
+blackbird;kos
+blow;vanout, vát, rána, úder, foukat, rozfofrovat, prošvihnout, prozradit, odjet, odejít, chlubit se
+branch;větev, odvětví, pobočka
+bumblebee;čmelák
+burn;pálit, shořet, hořet, popálenina, spálit
+buttock;hýždě
+calm;klidný, poklidný, uklidnit, utišit
+carrot;mrkev
+cast;hodit, odlít
+cheek;tvář, drzost, troufalost
+cling;lpět, lnout
+cocky;domýšlivý, namachrovaný
+cold;chlad, chladný, studený, zima
+coldness;chlad
+collide;srazit se, narazit, střetnout se, kolidovat
+coma;kóma
+comic;komik
+comical;komický
+conflagration;velký požár, požár, vzplanutí
+consideration;uvážení, ohleduplnost
+continent;světadíl, kontinent
+cotton;bavlna, vata
+courteous;zdvořilý
+cow;kráva
+cramp;křeč
+crown;koruna
+curious;zvědavý, zvídavý
+diagnosis;diagnóza
+dill;kopr
+donkey;osel
+downpour;liják, průtrž mračen
+drought;sucho
+duck;kachna
+epilepsy;epilepsie
+equator;rovník
+faintness;slabost, mdloba
+fall;padat, spadnout, podzim, vodopád, pád
+fatigue;únava, vyčerpání
+feast;svátek, hostina
+female;žena, samice
+fennel;fenykl
+fist;pěst
+flee;uprchnout, utéct, prchat, utíkat
+flour;mouka
+flowerpot;květináč
+freedom;svoboda, volnost
+fruit;ovoce, plod, šílenec, buzík, teplouš, rapl, ovocný
+fungus;houba
+furious;zuřivý, vzteklý
+galaxy;galaxie
+gale;vítr
+generation;generace
+girlfriend;přítelkyně
+grain;zrno, obilí, zrnko
+hang;viset, zavěsit, oběsit
+hemp;konopí
+hilarious;legrační, komický, směšný
+hit;udeřit, uhodit, narazit, zasáhnout, zásah, úder, praštit
+hundredth;stý
+indecision;nerozhodnost, váhavost
+indirect;nepřímý
+judgement;posouzení, úsudek, rozsudek
+keen;horlivý, nadšený, ostrý
+knave;darebák, lump
+leaf,list
+lavender;levandule
+light;světlo, lehký, zapálit, světlý
+lion;lev
+lizard;ještěr, ještěrka
+lord;šlechtic, lord, pán
+madman;blázen, šílenec
+maize;kukuřice, kukuřičný
+male;muž, samec
+meridian;poledník
+mosquito;moskyt, komár
+nephew;synovec
+niece;neteř
+noble;šlechtic
+orbit;oběžná dráha, orbita, obíhat
+pack;balit, zabalit, smečka
+paw;tlapa, pracka, pazoura, osahávat
+pigeon;holub
+pike;štika, kopí
+predict;předpovědět, předpovídat
+purify;čistit
+readiness;připravenost
+ridiculous;směšný, absurdní
+ruffian;darebák, lotr, lump, násilník, rváč
+rye;žito
+saliva;slina
+scythe;kosa
+seahorse;mořský koník
+seaside;přímořský
+self-important;domýšlivý
+sharpen;brousit, nabrousit, naostřit
+shine;svítit, zářit, záře, lesknout se
+shore;pobřeží, břeh
+shut;zavřít
+solar system; sluneční soustava
+sphere;koule
+stale;oschlý, zvětralý
+star;hvězda
+strike;narazit, stávka, úder, udeřit, praštit
+strive;usilovat, snažit se
+stump;pahýl, pařez
+sweat;potit se, pot
+tablet;destička, tabletka, pilulka
+tail;ocas, ohon
+territory;území, oblast, teritorium
+think;myslet, myslet si, přemýšlet, uvažovat, domnívat se
+tomato;rajče
+tornado;smršť, tornádo
+tray;tác, podnos
+treachery;zrada
+twin;dvojče
+violet;fialový
+vortex;vír
+walnut;vlašský ořech
+walrus;mrož
+wing;křídlo, letka

@@ -1,0 +1,131 @@
+abdomen;břicho
+about;o, ohledně, přibližně, asi, zhruba
+absurd;nesmyslný, absurdní, směšný
+antiquity;starověk, dávnověk
+bear;medvěd, nést
+beard;vous, vousy
+bid;nabídka, přihodit, nabídnout
+blackberry;ostružina
+block;kostka, kvádr, blokovat, blok, kebule
+brilliant;vynikající, skvělý, brilantní, briliant
+broadcast;vysílat
+brutality;brutalita, surovost
+bunch;trs, svazek, hrozen
+caterpillar;housenka
+central;prostřední, ústřední, střední, centrální
+channel;kanál
+cheat;podvod, podvádět, podvést
+chest;hruď, bedna, truhla, truhlice
+cleanliness;čistotnost
+cleanness;čistota
+cloud;oblak, mrak
+cod;treska
+comprehend;pochopit, chápat
+corn;obilí, zrno, zrnko, kukuřice, kukuřičný
+cranberry;brusinka
+crane;jeřáb
+creep;lézt, úchyl, plížit se, patolízal, plazit se
+daze;oslnit, omámení, zmást, omámit
+deliver;doručit, dodat, porodit
+devoted;oddaný, věrný, loajální
+diligent;pracovitý, pilný, svědomitý
+disagreeable;nepříjemný, protivný
+discretion;taktnost, uvážení
+ear;ucho
+earthquake;zemětřesení
+eel;úhoř
+egoistic;sobecký, egoistický
+fig;fík
+flea;blecha
+forehead;čelo
+foresee;předvídat, tušit
+freeze;mráz, mrznout, zmrazit
+fun;zábava, legrace
+grapefruit;grep
+grudge;zášť
+gut;střevo
+heart;srdce
+hip;kyčel, bok
+hoof;kopyto
+hornet;sršeň
+host;hostitel
+hurricane;hurikán, uragán
+impossible;nemožný
+including;včetně
+indecisive;nerozhodný, váhavý
+insanity;šílenství, nepříčetnost, duševní choroba
+insect;hmyz
+insincere;neupřímný
+iris;duhovka, kosatec
+jellyfish;medúza
+knee;koleno
+lead;vést, olovo, stopa, vodítko
+lean;opírat se, naklánět se
+liver;játra
+loyal;oddaný, věrný, loajální
+moor;pustina, zakotvit
+nebula;mlhovina
+neck;krk, výstřih, líbat se, drzost, cicmat se
+negligence;nedbalost
+neurosis;neuróza
+nobility;šlechta, panstvo, aristokracie
+nonsensical;nesmyslný, absurdní
+nut;cvok, blázen, ořech, oříšek
+offspring;potomek
+olive;oliva
+onion;cibule
+ostrich;pštros
+oyster;ústřice
+peel;oloupat, loupat
+perforate;propíchnout, prorazit, perforovat
+pierce;prorazit, propíchnout
+pig;prase, vepř
+plague;mor, zamořit, nepříjemnost
+platter;tác, podnos
+pointed;špičatý
+pour;nalít, vylít
+prick;probodnout, propíchnout
+prudent;rozumný, prozíravý
+radius;poloměr, dosah, dolet
+rainbow;duha
+rake;hrábě, hrabat
+range;dosah, dolet
+record;záznam, zápis, zaznamenat, nahrávat, nahrát, natočit, rekord
+redundant;nadbytečný, přebytečný
+rid;zbavit se
+rodent;hlodavec
+root;kořen
+scale;rozsah, škála, stupnice, šupina
+scraper;škrabka
+seashell;lastura, mušle
+seed;semeno, zrno, osít
+sensible;rozumný
+sew;šít
+side;strana, bok
+sky;obloha, nebe
+slab;krajíc, deska, destička
+slay;zabít
+snail;šnek, hlemýžď
+spade;negr, rýč
+spell;hláskovat, kouzlo, čáry, zakletí
+spice;koření
+spiky;ostnatý
+spinach;špenát
+splinter;tříska, tříštit
+sprout;pučet
+stink;páchnout, zapáchat, smrdět, zápach
+strawberry;jahoda
+summit;vrchol, jednání, špička
+tear;trhat, trhat se, slza, trhlina
+tempest;bouře, vichřice
+thermometer;teploměr
+tiredness;únava
+tortoise;želva
+toss;hodit, vrhnout, vrh
+treetop;koruna, koruna stromu
+tulip;tulipán
+typhoon;tajfun
+weather forecast;předpověď počasí
+weep;brečet, plakat
+widow;vdova, vdovský
+wine;víno

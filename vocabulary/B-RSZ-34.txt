@@ -1,0 +1,130 @@
+adoption;adopce, osvojení
+adventure;dobrodružství
+aggressor;útočník, agresor
+aid;pomoc, pomoct
+animate;oživit, animovat
+assist;pomoct
+assistance;pomoc
+athlete;atlet
+attitude;přístup
+backdrop;pozadí
+bar;bar, hospoda, prut, tyč, cihlička, tabulka, kostka, laťka
+belt;pás, opasek, pásek, řemen
+boycott;bojkot, bojkotovat
+bronze;bronz, bronzový
+build;stavět, postavit, konstituce
+champion;bojovník, šampión, přeborník, mistr
+championship;mistrovství, šampionát
+change;změna, změnit, změnit se, střídat, převléknout se, přestoupit, drobné
+chaotic;chaotický
+check;ověřit, prověřit, šach, šek, účet, kontrola
+claim;tvrdit, tvrzení, prohlašovat, prohlášení, vyžádat si, domáhat se, nárokovat
+clarification;vysvětlení, objasnění
+closure;uzavírka
+co-founder;TODO, spoluzakladatel
+colonize;kolonizovat
+comfortably;pohodlně, snadno
+compete;soutěžit
+conservative;konzervativní
+constitution;ústava, konstituce, stanovy
+court;dvořit se, dvůr, hřiště, kurt, soud
+delay;zdržení, prodleva, zpoždění, prodlení, odložit, přesunout, pozdržet
+delivery;dodání, doručení, rozvoz, porod
+denial;popření, odmítnutí, odepření
+deport;vyhostit, deportovat
+depository;depozitář
+designer;projektant, návrhář, designér, značkový
+devil;ďábel
+discriminatory;diskriminační, diskriminující
+disqualify;diskvalifikovat
+dissatisfaction;TODO, nespokojenost
+distracting;rušivý
+drastically;drasticky
+draw;nakreslit, kreslit, tasit, remíza
+dumb;hloupý, němý
+efficient;výkonný, efektivní, účinný
+engaging;poutavý
+entrance hall;vestibul
+expire;propadnout, vypršet
+explore;probádat, prozkoumat
+explorer;průzkumník
+exposition;výstava
+external;externí, vnější
+fade;vadnout, slábnout, blednout
+fight;bojovat, boj, zápas, potyčka
+football;fotbal
+form;dotazník, formulář, forma, druh
+founder;zakladatel, ztroskotat, potopit se, slévač, zhroutit se
+goal;branka
+goalkeeper;brankář
+goaltender;brankář
+hooligan;chuligán
+ice cream;zmrzlina
+idly;líně, nečinně
+imitate;napodobovat, imitovat
+immobilize;ochromit, znehybnit
+inconvenience;nepříjemnost, potíž
+infant;dítě, nemluvně
+inner;vnitřní
+insecurity;nejistota
+inspection;kontrola
+kit;souprava, sada
+legend;legenda, pověst
+lesbian;lesbický, lesba, lesbička
+liberal;liberální, svobodomyslný, liberál
+mechanical;mechanický
+medal;medaile
+minor;nezletilý, menší, drobný, mladistvý
+model;model, maketa, modelka
+mug;šálek, hrníček, hrnek
+mute;ztlumit, němý
+narrow;úzký, zužovat se, zúžit, těsný
+norm;norma
+obstacle;překážka
+offend;urazit
+order;pořadí, pořádek, objednat, přikázat, nařídit, rozkaz, příkaz, objednávka
+outer;vnější
+padlock;zámek
+paralyze;paralyzovat, ochromit
+paralyzed;paralyzovaný
+parliament;parlament
+pay;platit, zaplatit, plat, výdělek, mzda, uhradit
+percentage;procento
+persecution;pronásledování, perzekuce
+physique;konstituce, postava
+point;bod, ukázat, pointa, špička, hrot
+powerful;silný, výkonný, mocný
+quarter;čtvrt, čtvrtina, čtvrť, čtvrtletí, kvartál
+questionnaire;dotazník
+recall;vzpomenout si, stáhnout, vzpomínat
+regulate;regulovat
+rejection;odmítnutí
+repay;splatit, oplatit
+right;nárok
+rival;protivník, soupeř, konkurent, rival
+rod;prut, bouchačka, tyč
+rose;růžový
+rosy;růžový
+scales;váhy, váha
+segment;segment, část
+seller;prodávající, prodavač, prodejce
+shipment;přeprava, zásilka, dodávka, expedice
+shortage;nedostatek
+slip;uklouznout, lístek, sklouznout
+soccer;fotbal
+specify;určit, specifikovat, upřesnit
+strap;řemínek, řemen, ramínko, popruh, připásat
+study;pracovna, studovat, studovna
+suspicion;podezření
+swift;rychlý
+tale;pověst
+teaspoon;lžička
+teenager;náctiletý, dospívající, mladistvý
+treasury;pokladnice, státní pokladna
+uncertainty;nejistota
+underage;nezletilý
+unfamiliar;neznámý, cizí
+van;dodávka
+wallpaper;tapeta
+weaken;oslabit, slábnout
+while;kdežto, zatímco, když

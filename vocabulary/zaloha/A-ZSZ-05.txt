@@ -1,0 +1,99 @@
+abandon;opustit, zanechat, bezstarostnost, zříct se
+accept;přijmout
+actually;opravdu, doopravdy, skutečně, ve skutečnosti, vlastně
+against;proti
+aid;pomoc
+allow;dovolit, povolit, umožnit, vpustit
+almost;téměř, skoro, málem
+arrest;zatknout
+available;k dispozici, dostupný
+away;pryč
+bag;pytel, taška, vak
+beautiful;krásný, pěkný, nádherný
+bed;postel
+border;hranice, hraničit
+box;krabice, krabička, bedna, rakev, telka
+bury;zahrabat, zakopat, pohřbít
+business;podnikání, obchod, byznys, obchodní, podnik, obchodování
+central;ústřední, prostřední, střední, centrální
+claim;tvrdit, tvrzení, prohlašovat, prohlášení, vyžádat si, domáhat se, nárokovat
+damage;poškodit, poškození, škoda, újma
+dance;tančit, tancovat, tanec
+defend;bránit, chránit, hájit, obhajovat
+demand;žádat, požadovat, vyžadovat, poptávka, domáhat se
+dislike;nemít rád, odpor
+drive;jet, řídit
+earth;Země, zeměkoule
+event;událost, případ
+exclude;vyloučit, nezahrnovat
+exit;východ, výstup, vystoupit, odejít
+far;daleko, daleký
+fear;strach, obava
+fill;nalít, naplnit, plnit
+find;najít, objevit, zjistit
+flavor;příchuť, chuť
+follow;následovat, sledovat, řídit se
+go;jít, chodit, běžet
+half;půl, půlka, polovina
+hit;udeřit, uhodit, narazit, zasáhnout, zásah, úder, praštit
+hungry;hladový
+invite;pozvat
+keep;zůstat, udržovat, udržet, bašta, tvrz
+kind;typ, druh, milý, hodný, laskavý
+laugh;zasmát se, smát se
+lead;vést, olovo, stopa, vodítko
+leave;odejít, odjet, opustit, zanechat, dovolená
+lend;půjčit
+less;méně
+let;nechat, pustit, nechť
+letter;dopis, písmeno
+love;milovat, mít rád, láska
+make;udělat, vyrobit, učinit
+memory;paměť, vzpomínka
+mend;spravit, opravit
+miss;minout, chybět, slečna
+month;měsíc
+mother;matka
+move;pohnout se, hýbat, hýbat se, posunout se, posunout, tah, přesunout, přestěhovat se
+my;můj
+need;potřebovat
+neighbor;soused, sousedka
+neighbour;soused, sousedka
+next;další, následující, příští
+noise;hluk, rámus
+north;sever
+observe;pozorovat, sledovat
+open;otevřít, otevřený
+ordinary;obvyklý, obyčejný, běžný, všední
+pass;míjet, minout, soutěska
+piano;klavír
+postpone;odložit, oddálit
+protect;chránit, bránit, střežit
+provide;dodat, poskytnout
+quite;dosti, docela
+reach;dorazit, dostat se, dosáhnout
+recommendation;doporučení
+record;záznam, zápis, zaznamenat, nahrávat, nahrát, natočit, rekord
+red;červený, rudý
+repair;opravit, spravit, spravovat, oprava
+report;oznámit, ohlásit, nahlásit
+require;žádat, požadovat, vyžadovat
+rob;okrást, oloupit
+seem;zdát se, vypadat
+seldom;zřídka, málokdy
+side;strana, bok
+someone;někdo, kdosi
+son;syn
+space;prostor, plocha, mezera, vesmír, místo
+strong;silný, pevný
+suit;oblek
+surely;jistě, určitě
+take;vzít, brát
+tired;unavený
+touch;dotknout se, dotyk, styk, sáhnout
+trip;cesta, výlet, zakopnout, klopýtnout
+tuesday;úterý
+use;použít, používat, užít
+wash;mýt, prát, mýt se, umýt
+wise;moudrý
+year;rok, ročník

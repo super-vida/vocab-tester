@@ -1,0 +1,120 @@
+accurately;přesně
+accusation;obvinění
+aching;bolavý
+admire;obdivovat
+affect;ovlivnit, postihnout
+agile;hbitý, mrštný
+alarmed;znepokojený
+ancient times;starověk
+artwork;umělecké dílo
+aspire;usilovat
+backstage;zákulisí
+bald;plešatý
+breakthrough;průlom, přelomový
+bright;chytrý, jasný, světlý, bystrý
+cardboard;lepenka
+chest;hruď, bedna, truhla, truhlice
+classical;klasický
+classmate;spolužák
+cleric;duchovní, klerik
+competitor;konkurent, soutěžící
+composition;kompozice, skladba
+consideration;uvážení, ohleduplnost
+crack;prasknout, prasklina, rozbít, trhlina, puklina, puknout
+crazed;vyšinutý, šílený
+creativity;kreativita
+damage;poškodit, poškození, škoda, újma
+derangement;nepříčetnost
+derive;odvodit
+disinterest;nezájem
+distort;překroutit, zkreslit
+divine;božský, boží
+dominant;dominantní
+dramatic;dramatický
+edit;upravit, editovat
+elect;zvolit
+erect;vztyčit, postavit, vzpřímený
+excess;přebytek, nadbytek, přebytečný, nadbytečný
+exhibit;projevovat, exponát
+flower;květina, květ, kvést
+frame;rám, rámeček, rámec, bouda, kostra
+gentle;něžný, šetrný, mírný
+godly;božský, zbožný
+harm;ublížit, poškodit, škoda, újma
+illustrate;ilustrovat
+impolite;neslušný, nezdvořilý
+increasingly;čím dál tím víc
+indecent;nemravný, neslušný
+ineligible;nezpůsobilý
+insecure;nejistý, nezabezpečený
+intimate;důvěrný, intimní
+justification;ospravedlnění
+largest;největší
+lawn;trávník
+lengthy;vleklý, zdlouhavý
+lifespan;životnost, délka života
+literary;literární
+manhood;mužství
+manliness;mužnost
+mark;značit, značka, znak, známka, označit
+masculinity;mužnost
+misunderstand;špatně pochopit
+monotonous;jednotvárný, monotónní
+mood;nálada, atmosféra
+moot;sporný
+motivate;motivovat
+navel;pupek, pupík
+notorious;nechvalně známý
+nudity;nahota
+opportunist;prospěchář, oportunista
+painting;malba, obraz
+paperboard;lepenka
+parachute;padák
+pave;dláždit, vydláždit
+performer;umělec
+pound;libra, mlátit
+prick;propíchnout, probodnout, debil, hajzl, píchnout
+prolonged;dlouhotrvající
+prominent;přední, prominentní
+protracted;vleklý, zdlouhavý
+punish;potrestat
+questionable;pochybný, sporný
+rake;hrábě, hrabat
+recurrent;opakující se
+reflection;odraz, zrcadlení
+replacement;náhrada, náhradní, náhradník
+restless;neklidný, neposedný
+scholar;učenec
+sensitivity;citlivost
+shell;škeble, skořápka, ulita, mušle, náboj, patrona, granát, lastura, krunýř
+skeleton;kostlivec, chcípák, vyžle, kostra
+slave;otrok
+soar;prudce stoupnout
+stomach;žaludek, břicho
+strict;přísný, důsledný
+strongbox;trezor
+substitute;nahradit, vyměnit, zaměnit, náhradník, náhražka, náhrada
+sunstroke;úžeh, úpal
+suppress;potlačit, potlačovat
+tact;takt, taktnost
+tactfulness;taktnost, ohleduplnost
+tedious;nudný, jednotvárný
+temporarily;dočasně
+tender;něžný, tendr, křehký, bolavý
+thoughtfulness;ohleduplnost
+ticket;lístek, vstupenka, jízdenka, los
+traditional;tradiční
+transmit;přenášet, vysílat
+tread;šlápnout, kráčet
+troubled;ustaraný, neklidný
+tyre;pneumatika
+uncertain;nejistý
+undamaged;nepoškozený
+underbelly;podbřišek
+unfit;nezpůsobilý
+unhurt;nezraněný
+unspoken;nevyřčený
+unsuitable;nevhodný
+work;pracovat, práce, dílo
+worried;znepokojený, ustaraný
+wrestle;zápasit

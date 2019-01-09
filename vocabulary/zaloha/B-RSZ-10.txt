@@ -1,0 +1,102 @@
+abort;přerušit, zrušit
+academy;akademie
+accident;nehoda, neštěstí, havárie
+act;jednat, konat, činit, čin, hrát, předstírat, dějství, jednání, chovat se
+ascend;stoupat, vystoupat
+ashamed;zahanbený
+assault;útok, útočný, napadnout, útočit, zaútočit, přepadení
+battlefield;bitevní pole, bojiště
+battleground;bitevní pole, bojiště
+benefit;výhoda, prospěch, užitek, mít užitek, mít prospěch
+blackmail;vydírání, vydírat
+bladder;měchýř, vak
+call;nazývat, volat, zavolat, výzva, svolat, nazvat, pojmenovat, hovor
+catholic;katolický
+challenge;výzva, vyzvat
+charm;šarm, kouzlo, okouzlit, půvab
+chase;pronásledovat, hon, lov, lovit, honit
+check;ověřit, prověřit, šach, šek, účet, kontrola
+checkmate;mat, šachmat
+chess;šachy, šach
+chilly;studený, chladný
+completely;úplně, zcela, naprosto
+crash;havárie, narazit, náraz, havarovat
+crew;posádka, personál, mužstvo
+dark;tmavý, temný, temno, tma
+dehydration;dehydratace
+destruction;ničení, zničení, zkáza
+dexterity;obratnost, zručnost
+dilemma;dilema
+display;zobrazit, ukázat, přehlídka, výstava
+doom;zkáza, záhuba, zhouba
+durability;trvanlivost, odolnost
+eliminate;odstranit
+endurance;výdrž, odolnost
+entirely;úplně, zcela, naprosto
+eventually;nakonec
+experience;zkušenost, praxe, zažít, zážitek
+extort;vydírat
+extortion;vydírání
+faith;víra, důvěra
+fascinate;okouzlit, fascinovat
+fascinating;fascinující, úchvatný
+figurine;figurína, figurka, soška
+fleet;flotila
+flight;let, letka, útěk
+focus;ohnisko, zaostřit, zaměřit se, soustředit se
+fort;pevnost, tvrz
+fortress;pevnost, tvrz
+gay;homosexuál
+graduate;promovat, vystudovat, absolvent
+headache;bolest hlavy
+heel;pata, podpatek
+homosexual;homosexuál
+hunt;hon, lov, lovit, honit
+intelligence;inteligence, rozvědka
+joyful;veselý, radostný
+keep;zůstat, udržovat, udržet, bašta, tvrz
+knight;jezdec, rytíř
+lifelong;doživotní, celoživotní
+longevity;životnost, trvanlivost, dlouhověkost
+machine;stroj, strojový, zařízení
+magical;kouzelný
+member;člen, členský
+merry;veselý, radostný
+neck;krk, výstřih, líbat se, drzost, cicmat se
+pathetic;ubohý
+pawn;pěšák, pěšec, zastavit
+perception;vnímání
+perseverance;vytrvalost
+personnel;personál, posádka
+piece;kousek, kus, figurka
+preach;kázat
+prowess;zdatnost, obratnost
+queen;královna, dáma, buzík, teplouš
+reception;příjem, recepce, vnímání
+rook;věž
+sensation;pocit, vnímání, senzace
+sequence;sled, sekvence, pořadí
+serpent;had, hadí
+shame;stud, hanba, ostuda, škoda
+shopping;nakupování, nákupní
+shyness;plachost, ostýchavost, nesmělost, stydlivost, ostych
+social;sociální, společenský
+stable;stabilní, stáj, ustájit, stálý
+staff;hůl, personál, berla, notová osnova
+stall;stáj, ustájit, pozdržet, pozastavit, otálet
+stamina;vytrvalost, výdrž
+strength;síla, houževnatost, pevnost
+sturdiness;odolnost, statnost, zdatnost, houževnatost
+surrender;vzdát, vzdát se
+team;tým, mužstvo
+tenacity;výdrž, odolnost, houževnatost
+time;čas, doba, načasovat
+totally;úplně, zcela, naprosto
+toughness;tuhost, houževnatost
+tower;věž, tyčit se
+wander;toulat se, putovat, vandrovat
+wasteland;pustina
+weakest;nejslabší
+wholly;úplně, zcela
+wilderness;divočina, pustina
+women;ženy

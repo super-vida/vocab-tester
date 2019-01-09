@@ -1,0 +1,138 @@
+August;srpen
+I;já
+January;leden
+Saturday;sobota
+Thursday;čtvrtek
+able;schopný
+across;napříč, přes
+add;dodat
+advice;doporučení
+along;po
+angry;naštvaný
+arm;odjistit
+army;armáda, vojsko
+back;hřbet, záda
+basic;základní
+beside;vedle
+beyond;za
+boat;loď
+bottom;dno
+bus;autobus
+bye;nashle, ahoj
+cafeteria;jídelna
+cause;důvod, příčina
+certain;jistý
+child;dítě
+coffee house;kavárna
+come;přijít
+competition;hospodářská soutěž
+confuse;splést, splést si
+corn;osít, kukuřice, zrno
+course;kurz, směr, běh
+court;dvůr
+coward;zbabělec
+custom;obyčej, zvyk
+depend;záviset, záležet
+dog;pes
+drink;pít
+early;časně, brzy, časný
+eight;osm
+elevator;výtah
+enjoy;užít si
+especially;hlavně, zejména, zvláště
+excuse;výmluva, záminka, omluva
+explain;objasnit, vysvětlit
+face;obličej
+fair;spravedlivý
+father;otec
+favorite;oblíbený
+field;pole
+fine;kvalitní
+firm;firma, pevný
+fork;vidlička
+friend;kamarád, přítel
+front;předek, přední
+full;plný
+funny;zábavný, komický, divný
+gap;otvor, díra, mezera
+hate;nenávidět
+hold;držet, sevření, držení
+home;doma, domů, domov
+hope;doufat
+hospital;nemocnice
+however;nicméně, avšak, však
+huge;ohromný
+hundred;sto
+ill;nemocný
+improve;vylepšit
+in;uvnitř
+influence;ovlivnit
+interesting;zajímavý
+invent;vynalézt
+journey;cesta
+know;vědět, znát
+left;vlevo
+line;linka
+lose;prohrát, ztratit
+miss;chybět, minout
+mouth;ústa, pusa
+new;nový
+night;noc, večer
+notice;oznámení
+or;nebo, či, anebo
+pair;pár, dvojice
+park;parkovat
+past;za
+pay;platit, výdělek, mzda, zaplatit
+point;ukázat, bod
+present;přítomný, aktuální, současnost, prezentovat
+problem;hádanka, problém
+rain;déšť, pršet
+rather;spíše
+reality;realita
+really;doopravdy
+rescue;zachránit
+river;řeka
+save;zachránit
+school;škola
+secret;tajný
+sell;prodat
+separate;oddělený, samostatný
+seventy;sedmdesát
+several;pár, několik
+shame;stud
+show;představení
+snail;hlemýžď, šnek
+soft;měkký
+somebody;kdosi
+something;něco
+somewhere;někam, někde
+sour;kyselý
+start;start, začátek, začít
+stay;zůstat
+steal;ukrást, odcizit
+style;styl, způsob
+sweeten;osladit
+teacher;učitelka, učitel
+ten;deset
+terrible;hrozný
+thirty;třicet
+this;toto, tenhle
+thousand;tisíc
+town;město
+train;cvičit, trénovat, vlak
+up;nahoru
+urgent;bezodkladný
+vertical;svislý, vertikální
+waste;mrhat
+watch;dívat se, sledovat
+we;my
+weekend;víkend
+well;dobře
+west;západ
+what;co
+wide;rozlehlý
+within;v
+wonderful;báječný
+you;vy, ty
+young;mladý

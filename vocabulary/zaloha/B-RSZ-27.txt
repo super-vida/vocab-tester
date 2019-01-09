@@ -1,0 +1,100 @@
+act;jednat, konat, činit, čin, hrát, předstírat, dějství, jednání, chovat se
+amazed;udivený, ohromený, užaslý
+appetite;chuť, apetyt
+astonished;udivený, ohromený
+award;cena, ocenění, udělit
+band;skupina, kapela, stuha, pentle, páska, pás, pruh
+base;základ, úpatí, základna, báze
+basement;sklep, suterén
+beneath;pod, vespod, dole
+biography;životopis
+blanket;deka, přikrývka
+bride;nevěsta
+bridegroom;ženich
+carpet;koberec
+catch;chytit, dopadnout, zádrhel, háček
+coil;cívka, kotouč, stočit se, svinout, stočit
+colonization;osídlování, kolonizace
+comb;česat, hřeben
+connection;spojení, spojitost, vztah, souvislost
+consider;považovat, zvážit, uvažovat, zvažovat, uvážit, pokládat
+contradictory;rozporuplný, protichůdný
+cover;krýt, přikrýt, pokrývka, pokrývat, víko, úkryt, deka, přikrývka, krytí, krytka
+crossroad;křižovatka
+crossroads;rozcestí, křižovatka
+dim;tlumený, matný, temný, hloupý
+doormat;rohožka
+edge;hrana, pokraj, ostří, výhoda, kraj, okraj
+fashion;móda, módní
+fence;plot, oplocení, ohrada, šermovat
+flash;záblesk, blesk
+foam;pěna, molitan
+glare;záře, zářit
+groom;ženich, hřebelcovat, podkoní, štolba
+gunshot;výstřel
+happiness;štěstí, spokojenost
+heat;teplo, žár, vedro, bouchačka, nátlak
+heir;dědic
+hence;proto, tudíž
+hillside;svah, úbočí, stráň
+hitchhike;stopovat
+hook;hák, háček, zaháknout
+hostile;nepřátelský
+hostility;nepřátelství
+illegal;nelegální, protiprávní, nezákonný
+illicit;nezákonný, zakázaný
+inaccuracy;nepřesnost
+inclination;sklon, náchylnost
+inconsistent;nedůsledný, nekonzistentní, nestálý, proměnlivý, nestabilní, rozporuplný
+intersection;křižovatka, křížení, průsečík
+junction;uzel, spojení, křižovatka, křížení
+knot;uzel, suk, hlouček
+labile;labilní
+loose;volný, uvolněný
+loosen;povolit, uvolnit
+magnate;magnát
+mat;rohož, rohožka, podložka, tácek, žíněnka, pasparta
+meditate;rozjímat, přemýšlet, uvažovat
+metropolitan;metropolitní
+mist;mlha, opar, kouřmo
+moody;náladový
+mountainside;svah, úbočí, stráň
+mushroom;houba
+node;uzel
+onwards;dále, dopředu, vpřed
+opposed;protichůdný
+opposing;protichůdný, opačný
+outfit;oděv, oblečení, výstroj
+overly;příliš
+pad;podložka, chránič, bejvák
+passage;chodba, průchod, pasáž, úryvek, cesta, průjezd
+passageway;chodba, průchod, pasáž, cesta, průjezd
+psychologist;psycholog
+rainstorm;liják, průtrž mračen
+recreation;rekreace, odpočinek
+red;červený, rudý
+reel;cívka, špulka, naviják, navinout, svinout, stočit, vrávorat, potácet se, vrávorání
+regime;režim, životospráva
+relax;uvolnit, relaxovat
+reportedly;údajně
+rest;zbytek, odpočívat, odpočinek
+rug;koberec, kobereček, deka
+rush;spěch, spěchat, shon
+senate;senát
+settlement;osada, osídlování, kolonizace, úhrada, vyrovnání, dohoda
+shine;svítit, zářit, záře, lesknout se
+shot;výstřel, pokus, fotka, panák, frťan, injekce
+sleeve;rukáv
+sometime;někdy, jednou
+spool;špulka, cívka, kotouč, navinout
+stableman;podkoní, štolba
+subway;podchod, metro
+surprised;překvapený
+surround;obklopit, obehnat, obklíčit
+testimony;svědectví, výpověď
+thus;tudíž, tedy
+too;též, i, také, příliš
+unstable;nestálý, proměnlivý, nestabilní
+unsuccessfully;neúspěšně
+variable;proměnlivý, nestálý, variabilní, proměnná
+volatile;nestálý, proměnlivý, nestabilní, těkavý, přelétavý, náladový, vrtošivý

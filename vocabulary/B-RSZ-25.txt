@@ -1,0 +1,88 @@
+accidental;nahodilý, neúmyslný, náhodný
+alongside;podél
+appeal;apelovat, žádat, odvolat se, odvolání, přitažlivost, půvab
+behaviour;chování
+blade;čepel, ostří, nůž
+bra;podprsenka
+cancellation;odvolání, zrušení
+character;postava, znak, charakter
+clasp;spona, svorka
+climate;klima, podnebí
+coastal;přímořský, pobřežní
+collection;sbírka, soubor, inkaso
+column;sloup, sloupek
+component;složka, součást, komponenta, součástka
+conditional;závislý, podmíněný
+contamination;zamoření, znečištění, kontaminace
+criminal;kriminálník, trestný, zločinec, kriminální, zločinný
+defense;obrana, ochrana, obhajoba
+delight;potěšení, radost
+dependent;závislý, podmíněný
+differ;různit se, lišit se
+distant;odlehlý
+edge;hrana, pokraj, ostří, výhoda, kraj, okraj
+elaborate;propracovaný, složitý
+empire;impérium, říše, císařství
+endless;nekonečný
+exclusive;výluční, exkluzivní, nezahrnující, výhradní
+faraway;odlehlý, vzdálený
+figure;číslo, počet, údaj, ilustrace, postava
+file;soubor, spis, záznam, složka, kartotéka, pilník
+folder;složka
+ghost;duch, přízrak
+gravitation;přitažlivost, gravitace
+guide;příručka, návod, průvodce, provádět
+heaven;nebe, ráj, nebesa
+infinite;neomezený, nekonečný, bezmezný
+ingenious;důmyslný
+kingdom;království, říše
+lab;laboratoř
+library;knihovna
+lunar;měsíční, lunární
+magazine;časopis
+mail;pošta, kroužková zbroj
+manual;příručka, manuál, návod
+mere;pouhý
+monitor;obrazovka, sledovat, monitorovat, varan, monitor
+monthly;měsíční, měsíčně, měsíčník
+namely;a to, a sice, jmenovitě
+nature;povaha, příroda, podstata
+navigation;navigace, plavba
+neverending;nekonečný
+optimism;optimismus
+palace;palác, zámek
+paradise;ráj
+part;díl, část, kus, součást, součástka
+pile;hromada, pilíř, pilota, štos, balík, majlant
+pillar;pilíř, sloup, sloupek
+pole;hůl, tyč, stožár, sloup, kůl, pól
+pollute;znečistit, kontaminovat
+pollution;znečištění
+possibly;možná
+post office;pošta
+post;místo, pozice, sloup, stanoviště, poslat, sloupek, pošta
+presence;účast, přítomnost, prezence, duch
+professor;profesor
+program;program, programovat
+random;nahodilý, náhodný
+realm;království, oblast, říše, doména
+remote;odlehlý, vzdálený
+review;posoudit, recenze, posouzení, zhodnocení, kritika, recenzovat, zopakovat si, zkontrolovat
+screen;obrazovka, síto, plátno, monitor
+slightly;trochu, trošku, nepatrně
+sole;podrážka, výhradní, výluční, chodidlo
+some;nějaký, několik, trocha
+somewhat;trochu, trošku, poněkud
+southwestern;jihozápadní
+specifically;konkrétně
+spirit;duch, duše
+stack;spousta, štos, hromada
+station;stanice, nádraží, stanoviště
+strategy;strategie
+structure;osnova, budova, stavba, struktura, strukturovat
+television;televize
+unintentional;nechtěný
+unlimited;bezmezný
+vary;různit se, kolísat, lišit se
+version;verze
+voyage;cesta, plavba, plavit se

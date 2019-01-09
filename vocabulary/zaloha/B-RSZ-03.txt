@@ -1,0 +1,131 @@
+acne;akné
+amusing;zábavný
+angina;angína
+attentive;zdvořilý, pozorný, laskavý
+aunt;teta
+beach;pláž
+beak;zobák
+bee;včela
+belt;pás, řemen, pásek, opasek
+birth;narození, porod, vznik
+blossom;květ, kvést
+bowel;střevo
+bruise;modřina, podlitina, pohmoždit
+brutal;brutální
+bug;chyba, brouk
+bull;býk
+cave;jeskyně
+chestnut;kaštan
+chicken;posera, srágora, ustrašenec, kuře, podělaný, zbabělý
+christening;křest, křtiny
+coconut;kokos
+conflagration;TODO, požár, velký požár, vzplanutí
+cramp;křeč
+crocodile;krokodýl
+cube;kostka, krychle
+cunning;lstivý, mazaný
+curry;kari
+damp;vlhký
+data;údaj
+decent;ucházející, slušný, řádný
+desert;poušť, opustit, pustina, pouštní
+dream;zdát se, snít, sen
+dreamer;snílek
+drop;klesat, pustit, upustit, položit, kapka, pokles, pád
+drunkard;pijan, opilec
+elbow;loket
+equator;rovník
+eruption;erupce, výbuch
+eyelash;řasa
+favour;přízeň, náklonnost, laskavost
+fish;ryba, rybařit
+flaw;nedostatek, vada
+flee;utéct
+flu;chřipka
+fool;oklamat, šašek, blázen, hlupák, pošetilec
+foretell;předpovědět, předpovídat
+frank;upřímný, přímý
+frightened;vyděšený
+gentleness;jemnost, mírnost
+germ;bakterie, mikrob
+glue;lepidlo, slepit, lepit, přilepit
+gold;zlato, zlatý
+golden;zlatý
+goose;husa
+grandchild;vnouče
+grandpa;dědeček
+hate;nenávidět, zášť
+herd;stádo
+indifference;TODO, lhostejnost, nezájem, netečnost
+inertia;setrvačnost
+jaw;čelist
+kindred;příbuzný, kmen, klan
+lad;chlapec, mladík
+lagoon;laguna
+lentil;čočka
+lettuce;salát, hlávkový salát
+mainland;pevnina
+maple;javor
+melon;meloun
+mint;máta, mincovna, razit, majlant, skvělý, zbrusu nový
+modesty;skromnost
+moss;mech
+mouse;myš
+move;pohnout se, hýbat, hýbat se, posunout se, posunout, tah, přesunout, přestěhovat se
+nectarine;nektarinka
+nerve;nerv
+nose;nos
+oak;dub
+oblong;obdélník, protáhlý, podlouhlý
+oval;oválný, ovál
+painful;bolavý, bolestivý
+pale;bledý
+partner;partner, partnerka
+peeler;škrabka, striptérka, policajt
+pepper;paprika, pepř
+peppermint;máta
+perpendicular;kolmý, svislý, kolmice
+perspire;perspirovat, potit se
+pineapple;ananas
+pitched;šikmý
+powder;pudr, prášek, prach, posypat
+prejudice;předpojatost, předsudky, zaujatost
+prostitute;prostitutka
+prudence;opatrnost, rozvážnost
+puppy;štěně
+quit;skončit, zanechat, dát výpověď
+ram;beran
+raspberry;malina
+reed;rákos
+regular;pravidelný, řádný
+saw;pila, pilka, řezat
+scandalmonger;drbna, klepna
+screwdriver;šroubovák, vodka s džusem
+seizure;záchvat
+sheep;ovce
+shelf;police
+shrink;srazit se, zmenšit se, cvokař
+sixth;šestý
+slice;krájet, krajíc, plátek
+sore;bolavý
+sow;sít, osít
+sparrow;vrabec
+stag;jelen
+stale;oschlý, zvětralý
+stalk;stopka, stéblo, lodyha
+starfish;hvězdice
+state;stav, stát
+stony;kamenitý
+strive;usilovat, snažit se
+sultan;sultán
+sweetheart;drahoušek, zlatíčko, miláček, zlato, miláčku
+thrive;vzkvétat
+thumb;palec
+tobacco;tabák
+torrent;proud, příval
+triangle;trojúhelník
+visionary;vizionář, jasnovidec, snílek
+wet;mokrý, mokro
+whirlwind;vichřice, větrný vír, smršť, vzdušný vír
+worn;opotřebovaný, opotřebený
+zero;nula

@@ -1,0 +1,106 @@
+about;o, ohledně, přibližně, asi, zhruba
+animal;zvíře
+anyone;kdokoliv
+approve;schvalovat, souhlasit, schválit
+arrive;přijet, přistát, dorazit
+attack;útok, útočit, zaútočit, napadnout, přepadení
+back;záda, hřbet, zpátky, zpět
+bake;upéct, péct
+because;protože, jelikož, neboť
+bell;zvonek
+blow;vanout, vát, rána, úder, foukat, rozfofrovat, prošvihnout, prozradit, odjet, odejít, chlubit se
+brave;statečný, odvážný, udatný
+build;stavět, postavit, konstituce
+but;ale, však, avšak
+butter;máslo
+clever;chytrý, bystrý
+comfortable;pohodlný, příjemný
+compare;porovnat, srovnat, přirovnat
+complain;stěžovat si
+continue;pokračovat
+count;hrabě, počítat, počet
+dead;mrtvý
+depart;odjet, odjíždět
+dig;kopat, hrabat, vykopat, milovat, žrát
+disturb;rušit, vyrušit, narušit
+door;dveře
+effort;úsilí, snaha, námaha
+enough;dost, dostatek
+family;rodina, rod, příbuzní, příbuzenstvo
+few;málo
+figure;číslo, počet, údaj, ilustrace, postava
+final;závěrečný, finále
+floor;podlaha, podlaží, patro
+fly;letět, moucha
+for;pro, k, na, protože
+friday;pátek
+grow;růst, vyrůst, narůstat
+hang;viset, zavěsit, oběsit
+have;mít, vlastnit
+healthy;zdravý
+hear;slyšet
+hill;kopec
+hole;díra, jáma, otvor, nora
+human;lidský, člověk
+imagine;představit si
+independent;nezávislý, samostatný, svobodný
+industry;průmysl, odvětví
+instead;místo, namísto
+july;červenec
+kind;typ, druh, milý, hodný, laskavý
+lately;nedávno
+maintain;udržovat, udržet
+many;mnoho
+match;zápas, utkání
+may;květen, smět, moct
+meet;potkat, potkat se, seznámit se, setkat se
+might;mohl by, síla, moc
+minute;minuta
+moon;měsíc
+more;víc, více
+necessary;potřebný, nutný, nezbytný
+nine;devět
+occupy;obývat
+otherwise;jinak
+peace;mír, klid, pokoj
+platform;plošina, pódium, platforma, nástupiště
+possible;možný
+recently;nedávno
+refuse;odmítnout
+remove;vyjmout, vyndat, odebrat, odstranit, sundat, sesadit, svrhnout
+result;výsledek, následek, důsledek
+right;vpravo, pravý, správně, pořádně, právo, správný, přímo, rovnou, nárok
+rise;zvednout se, povstat, vstát, stoupat, stoupání, vzestup
+road;cesta, silnice
+sad;smutný, nešťastný
+scratch;škrábat, poškrábat, škrábnutí, škrábat se, rýha
+sea;moře, mořský
+shop;obchod, nakupovat, prodejna
+sign;znak, podepsat, cedule, znamení
+sit;sedět, sednout si, posadit se
+smell;cítit, čichat, pach, vůně
+spoon;lžíce, lžička
+stage;scéna, pódium, úsek, etapa, fáze
+straight;přímo, přímý, rovný, rovně, rovnou, heterosexuál, heterosexuální
+summer;léto
+support;podporovat, podpěra, podpora, podpořit
+swim;plavat
+tear;trhat, trhat se, slza, trhlina
+that;ten, to, tamten, tamto
+think;myslet, myslet si, přemýšlet, uvažovat, domnívat se
+ticket;lístek, vstupenka, jízdenka, los
+today;dnes, dnešek
+toilet;toaleta, wc
+treat;léčit, jednat, zacházet
+try;vyzkoušet, zkusit, pokusit se, pokus, snažit se
+upper;horní, vrchní
+useless;zbytečný, nepoužitelný
+value;hodnota, cena
+want;chtít
+wealthy;bohatý, majetný
+week;týden
+when;kdy, když
+why;proč
+without;bez
+write;psát, napsat
+yesterday;včera

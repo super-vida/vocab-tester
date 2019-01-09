@@ -1,0 +1,109 @@
+aboard;na palubu, na palubě
+acrobatics;akrobacie
+aggressiveness;agresivita, útočnost
+area;oblast, území, plocha, rozloha
+barbecue;grilovat, gril
+baseless;nepodložený
+battleship;bitevní loď
+bloody;krvavý, strašně, zatraceně, zatracený, hrozně, podělaný
+bubble;bublina, bublat
+burn;pálit, shořet, hořet, popálenina, spálit
+chamber;síň, komora
+cheating;nevěra, podvádění
+childish;dětinský
+collapse;kolaps, zkolabovat, zřícení, sesutí, zřítit se, zhroucení, propadnout se
+companion;společník
+compare;porovnat, srovnat, přirovnat
+compel;donutit, nutit
+corrupt;zkorumpovaný, zkažený, úplatný
+creature;tvor
+crust;kůrka, krusta, kůra
+dairy;mlékárna, mléčný
+decisive;rozhodující, rozhodný
+defect;vada, defekt
+discreet;diskrétní, nenápadný
+effectively;fakticky, účinně
+elite;elitní, elita
+equipment;vybavení, výstroj
+expand;rozšířit, rozvinout, rozpínat se
+extremely;nesmírně, extrémně
+feverish;horečný, horečnatý
+flesh;maso, dužina
+flip;obrátit, obrátit se, převrátit, převrátit se
+former;bývalý, dřívější, první jmenovaný
+graduation;promoce, ukončení studia, absolvování
+grill;grilovat, gril
+groundless;bezdůvodný, nepodložený
+happiness;štěstí, spokojenost
+imprisonment;uvěznění, věznění
+improper;nesprávný, nevhodný, nepatřičný
+inevitable;nevyhnutelný, neodvratný
+infant;dítě, nemluvně
+inheritance;dědictví, pozůstalost
+institute;institut, ústav
+institution;instituce, zařízení, ústav
+integrate;integrovat, integrovat se, začlenit, začlenit se
+intense;intenzivní
+invader;vetřelec, útočník
+invisible;neviditelný
+latter;druhý jmenovaný, pozdější
+layout;rozložení, rozvržení, dispozice, rozmístění, uspořádání
+lead;vést, olovo, stopa, vodítko
+liberate;osvobodit
+litter;odpadky, smetí, nosítka
+loser;tragéd, nýmand, poražený
+manners;mravy, chování
+mask;maska
+mild;jemný, mírný
+mold;plíseň
+mould;plíseň
+mysterious;tajemný, záhadný
+myth;mýtus
+notable;významný, pozoruhodný, význačný
+noteworthy;významný, pozoruhodný, význačný
+organic;organický
+outfit;oděv, oblečení, výstroj
+overturn;převrátit, převrátit se
+party;večírek, oslava, slavit, strana
+peacekeeper;mírotvůrce
+politeness;slušnost, zdvořilost
+portion;část, díl, kus
+poverty;bída, chudoba
+praise;pochvala, chvála, chválit
+predator;dravec, predátor
+pressing;naléhavý, bezodkladný, urgentní
+primitive;primitivní, primitiv
+purchase;nakoupit, koupit, koupit si, koupě
+race;závod, rasa
+rainstorm;liják, průtrž mračen
+rear;zadní
+regard;považovat
+regarding;ohledně
+representative;zástupce, představitel, reprezentant, zmocněnec
+repression;represe, utlačování
+retreat;ústup, ustoupit, stáhnout se, útočiště, úkryt
+review;posoudit, recenze, posouzení, zhodnocení, kritika, recenzovat, zopakovat si, zkontrolovat
+riverside;břeh, poříčí
+rubbish;odpad, blbost, odpadky, smetí, nekvalitní, mizerný, aušusový, hovadina, kravina, brak
+sacrifice;obětovat, oběť
+satisfaction;uspokojení, satisfakce, spokojenost
+security;bezpečnost, ostraha, bezpečnostní, cenný papír
+service;služba, servis, obsluha
+severe;vážný, závažný
+shuttle;raketoplán
+space shuttle;raketoplán
+stream;říčka, potok, tok, proud, proudit
+strengthen;posílit, zpevnit
+stripe;pruh, proužek
+substantial;značný
+supply;dodávat, zásobovat, zásoba, nabídka
+surprisingly;překvapivě
+talent;talent, nadání
+teen;teenager, puberťák
+tempting;lákavý
+tense;napjatý, vypjatý, nervózní, napnutý, čas
+testify;svědčit
+unavailable;nedostupný
+unavoidable;nevyhnutelný, neodvratný
+unfounded;nepodložený
+wisdom;moudrost

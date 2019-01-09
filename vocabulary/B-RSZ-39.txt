@@ -1,0 +1,139 @@
+adorable;roztomilý, rozkošný
+airy;vzdušný
+aproachable;přístupný
+aquarium;akvárium
+attractive;přitažlivý, atraktivní
+bad luck;smůla
+balcony;balkón
+barbarian;barbar, divoch
+barbaric;barbarský, divošský
+beast of prey;dravec
+beverage;nápoj
+brew;pivo, uvařit
+briefs;spodky, slipy
+buffet;švédský stůl, bufet
+chamber;síň, komora
+characteristic;charakteristický
+cheerful;veselý, radostný
+chemist;chemik, lékárník
+chocolate;čokoláda
+color;barva, obarvit
+commit;spáchat, dopustit se, zavázat se
+compose;složit, komponovat
+concentrate;soustředit se
+conserve;zachovat, zavařenina, zakonzervovat
+contest;soutěž
+control;řízení, kontrola, ovládat, řídit, ovládání
+correct;správný, korektní, napravit
+cover;krýt, přikrýt, pokrývka, pokrývat, víko, úkryt, deka, přikrývka, krytí, krytka
+creative;tvořivý, tvůrčí
+credible;věrohodný
+cutlery;příbor, nožířství, příbory
+deduction;odpočet, odečtení, dedukce
+delicate;delikátní
+download;stáhnout
+drone;dron, trubec
+eject;katapultovat se, vysunout
+escort;doprovod, eskorta
+essay;esej, slohová práce
+excrement;výkal, exkrement
+expected;očekávaný
+fantasy;fantazie, představivost, představa
+fellow;kolega, člověk, kamarád
+ferry;trajekt, přívoz, přepravovat
+ferryboat;trajekt, přívoz
+figurine;figurína, figurka, soška
+first-year;prvák
+focus;ohnisko, zaostřit, zaměřit se, soustředit se
+forest;les, lesní
+freshman;nováček, prvák
+friendship;přátelství
+fury;zuřivost
+garage;garáž, autoservis
+gas pipeline;plynovod
+greedy;chamtivý, nenasytný
+gym;tělocvična, posilovna
+harsh;drsný, krutý
+head;hlava, vedoucí, ředitel
+headmaster;ředitel
+housemaid;služebná
+immunity;imunita, odolnost
+inadequate;nedostatečný
+indoors;dovnitř, uvnitř
+infringement;porušení
+keyboard;klávesnice, klaviatura
+kite;drak
+layout;rozložení, rozvržení, dispozice, rozmístění, uspořádání
+likelihood;pravděpodobnost
+literally;doslova
+mat;rohož, rohožka, podložka, tácek, žíněnka, pasparta
+meaningful;smysluplný
+mock;zesměšňovat, posmívat se, vysmívat se
+nanny;chůva
+notably;zejména
+noticeable;znatelný, patrný
+nurse;sestra, chůva
+odd;lichý, divný
+offensive;útočný, urážlivý, ofenziva, útok
+opponent;oponent, protivník, soupeř, odpůrce
+optimistic;optimistický
+parade;přehlídka, průvod
+patch;záplata
+patience;trpělivost
+peep;nakouknout, pípnout, pípnutí, pípat
+pigment;pigment, barvivo
+pipeline;potrubí, plynovod, ropovod
+placement;umístění, rozmístění
+polar bear;lední medvěd
+pop;pop, tatík, nealko, prasknutí
+precise;přesný
+preserve;zachovat, zavařenina, zakonzervovat
+principal;ředitel
+prose;próza
+psychiatrist;psychiatr
+rainforest;deštný prales
+refill;dolít, doplnit
+remind;připomenout
+rider;jezdec
+sailor;námořník
+sane;duševně zdravý, příčetný, rozumný
+sanitary napkin;vložka
+savage;divoch, divoký, divošský
+scary;děsivý, strašidelný
+sculpture;socha, sochařství
+serve;sloužit, podávat, servírovat
+sheet;prostěradlo, list
+shocked;šokovaný, otřesený
+shopping;nakupování, nákupní
+shyness;plachost, ostýchavost, nesmělost, stydlivost, ostych
+skin;slupka, kůže, ošidit, podvést, pornografický, pleť
+snap;hračka, brnkačka, fotka, momentka, prasknutí, prasknout
+sneakers;tenisky
+soak;máčet
+soda water;soda
+soft drink;nealko
+soul;duše
+span;rozpětí, píď, překlenovat
+spare tyre;rezerva
+spoils of war;válečná kořist
+squad;oddíl, jednotka
+steamship;parník
+sunny;slunečný
+symptom;příznak, symptom
+temple;chrám, spánek, svatyně
+thereafter;poté
+tick;chvilička, tikat, klíště
+tie;pouto, kravata, svázat, přivázat, spoutat, remíza
+torch;pochodeň, svítilna, baterka
+towel;ručník, osuška
+travel;cestovat, cestování, putovat
+triple;trojitý
+undermine;podrývat
+underwater;podvodní
+upload;nahrát
+vague;nejasný, vágní
+virus;virus, vir
+watchman;hlídač
+whenever;vždycky když, kdykoliv
+wounded;zraněný
+youth;mládí, mládež

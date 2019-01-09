@@ -1,0 +1,98 @@
+adviser;poradce, rádce
+advisor;poradce, rádce
+amateur;amatér, amatérský
+apology;omluva
+archive;archiv, archivovat
+bicycle;kolo, bicykl
+bigger;větší
+bike;motorka, motocykl, kolo
+blender;mixér
+bowl;mísa, miska
+bucket;vědro, kbelík
+cart;vozík
+chainsaw;řetězová pila, pila
+chopper;sekáček, sekačka, vrtulník, motorka
+circulation;cirkulace, koloběh, oběh
+collection;sbírka, soubor, inkaso
+complex;složitý, komplexní, komplex
+confuse;splést si, splést, zaměnit, zmást
+consultant;poradce, konzultant
+cooker;vařič, sporák
+counsellor;poradce, právní zástupce
+courtyard;dvůr, nádvoří
+cutter;sekáček, kráječ
+cycle;cyklus, kolo, koloběh
+dipper;naběračka, sběračka, potápěč, kapsář
+dish;pokrm, jídlo, miska, mísa, talíř
+diver;potápěč
+drier;sušička, fén
+dryer;sušička, fén
+educational;výukový
+enthusiast;nadšenec
+entire;celý
+famous;slavný, věhlasný, proslulý
+field;pole, obor, hřiště
+freezer;mrazák, mraznička
+fridge;lednička, lednice
+fund;fond, financovat
+furniture;nábytek
+glory;sláva
+glove;rukavice
+hair drier;fén
+hair dryer;fén
+helicopter;vrtulník
+hoover;vysavač, luxovat, vysávat
+hose;hadice, punčocha
+icebox;lednička, lednice
+implement;implementovat, nástroj
+instrument;nástroj
+iron;železo, železný, žehlička, žehlit
+kingdom;království, říše
+ladder;žebřík
+laddle;naběračka, sběračka, nabrat
+ladle;naběračka, sběračka, nabrat
+larger;větší
+laundrymaid;pradlena
+lime;limetka, lípa, vápno, vápenatý
+link;spojení, vztah, odkaz, spojitost, vazba, propojení, spojit
+lottery;loterie
+media;média, sdělovací prostředky
+meter;metr
+microwave;mikrovlna, mikrovlnná trouba, mikrovlnka, mikrovlnný
+minister;ministr
+mixer;mixér, šlehač
+motorcycle;motocykl, motorka
+network;síť
+oven;pec, trouba, kamna
+pan;pánev, pánvička, kritika, ksicht, kritizovat
+picture;obraz, obrázek, představit si
+pot;hrnec
+preservation;zachování, uchování, ochrana
+pump;pumpa, čerpadlo, čerpat, pumpovat
+rail;zábradlí, kolej, železnice
+railway;železnice
+reader;čtenář, čtečka
+refrigerator;lednička, lednice, mrazák, mraznička
+rely;spoléhat se, spoléhat
+ruin;zkazit, pokazit, zničit, kazit, ničit
+saucer;podšálek
+sawmill;pila
+scoop;naběračka, sběračka, nabrat
+site;místo, internetová stránka, areál
+slicer;kráječ
+sport;sport
+sprayer;rozprašovač, rozstřikovač, postřikovač
+stove;vařič, sporák, pec
+thought;myšlenka, nápad
+tool;nástroj
+tools;náčiní, nářadí
+track;cesta, stopa, stezka, sledovat, stopovat, závodní okruh, dráha
+tram;tramvaj, tramvajový
+trolley;vozík, tramvaj
+utensil;nástroj
+utensils;nádobí, náčiní
+village;ves, vesnice
+visitor;návštěvník, host
+washer;myčka, pračka
+whipper;šlehač
+yard;dvůr, dvorek

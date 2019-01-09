@@ -1,0 +1,112 @@
+afford;dovolit si
+angel;anděl
+astronaut;astronaut, kosmonaut
+basket;koš, košík
+beer;pivo
+binding;závazný
+broom;koště, smeták
+catapult;katapult
+cleaner;čistírna, uklízeč, čistič, vysavač
+cleaning shop;čistírna
+cliff;útes, skála
+coke;cola
+comment;komentář, komentovat
+compulsory;povinný
+congratulations;blahopřání, gratulace
+cross;přejít, překročit, kříž, křížit se
+cub;mládě
+cutlery;příbor, nožířství, příbory
+daemon;démon
+darling;drahoušek, miláček, miláčku, zlato
+dear;drahý, milý, drahoušek, miláček
+defective;závadný, vadný
+demon;démon
+deviate;odchýlit se
+diet;dieta, strava, dietní
+digestive;trávicí, zažívací, digestivum
+dip;ponořit, ukrást, kapsář, hlupák
+dishes;nádobí
+disorder;porucha, onemocnění, nepořádek
+dollar;dolar
+dot;tečka, puntík, bod
+drown;topit se, utopit se, utopit
+drycleaner;čistírna
+dust;prach
+engaged couple;zasnoubený pár
+engaged;zadaný, zasnoubený, obsazený
+entry;záznam, vstup, zápis, položka, vchod
+examination;zkouška, vyšetření, prohlídka
+excuse;omluva, výmluva, omluvit, omluvit se, záminka
+faulty;závadný, vadný
+fiance;snoubenec, snoubenka
+flawed;vadný, špatný
+flush;spláchnout
+foreword;úvod, předmluva
+gal;dívka
+glitter;třpyt, jiskřit, třpytit se, blyštět se
+goggles;brýle
+headphones;sluchátka
+heat;teplo, žár, vedro, bouchačka, nátlak
+honey;med, drahoušek, miláček, miláčku, zlato
+hug;obejmout, objetí
+inferior;špatný, méněcenný, horší
+inspection;inspekce, prohlídka, kontrola
+introduce;představit, představit se, uvést
+introduction;úvod, představení se, uvedení
+jealous;žárlivý
+jewish;židovský
+knock;ťukat, klepat, zaklepat
+landing;přistání
+late;pozdě, pozdní
+laundry;prádelna, prádlo
+lemonade;limonáda
+lieutenant;poručík
+mandatory;povinný
+marry;oženit se, vdát se
+massage;masáž
+merry;veselý, radostný
+movie theater;kino
+movie;film, filmový
+napkin;ubrousek
+need;potřebovat, potřeba
+officer;důstojník, strážník, policista, referent
+optional;volitelný
+overlook;přehlédnout
+period;tečka, období, doba
+pie;koláč, dort
+plentiful;hojný
+plunge;ponořit, potopit
+pole;hůl, tyč, stožár, sloup, kůl, pól
+pope;papež
+preliminary;předběžný
+prelude;předehra
+prescription;předpis, recept
+pretext;záminka
+protocol;protokol, zápis
+question;otázka, dotaz, zpochybňovat
+set;sada, souprava, množina, nastavit, příbor
+setting;příbor, nastavení
+shepherd;pastýř, pastevec
+soap;mýdlo
+soup;polévka, hustá mlha
+spark;jiskřit, jiskra
+sparkle;jiskřit, jiskra, třpyt
+speaker;reproduktor, mluvčí, řečník
+spiral;spirála
+spot;místo, flek, uvidět, tečka, puntík
+stare;civět, zírat
+steep;strmý, příkrý
+stroll;procházka, procházet se
+subject;předmět, subjekt, věc
+suit;oblek, vyhovovat, hodit se, kostým
+tableware;nádobí
+treatable;léčitelný
+urinal;pisoár
+urinate;močit
+urine;moč
+utensils;nádobí, náčiní
+vacuum cleaner;vysavač
+vacuum;vakuum, vysavač, luxovat, vysávat
+warmth;teplo
+weird;divný, zvláštní
+whereas;zatímco, kdežto

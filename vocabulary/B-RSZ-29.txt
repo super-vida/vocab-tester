@@ -1,0 +1,106 @@
+blunt;tupý, ztupit, otupit
+carpenter;tesař
+castle;hrad, zámek
+complaint;stížnost, reklamace
+cottage;chata
+couch;pohovka
+crumble;drobit, drobit se, rozdrobit se, drolit se, rozpadat se
+cultivate;pěstovat, kultivovat, obdělávat
+cure;vyléčit, lék, léčba
+deck;paluba
+defend;bránit, chránit, hájit, obhajovat
+delusion;blud, klam
+density;hustota
+discrimination;diskriminace
+donate;darovat
+donation;dar, dárcovství, darování
+doorkeeper;vrátný
+doorman;vrátný, dveřník
+efficient;výkonný, efektivní, účinný
+elementary;jednoduchý, základní, elementární
+enthusiasm;nadšení
+establish;zřídit, založit
+esteem;úcta, uznávat, vážit si
+evident;zřejmý
+excel;vynikat
+excellent;skvělý
+expression;výraz
+fallacy;blud, klam
+farm;farma, statek, farmařit, hospodářství
+fate;osud, úděl
+fireplace;krb
+found;odlít, zřídit, založit
+fragrance;vůně, voňavka, parfém
+gatekeeper;vrátný, strážný
+genius;génius
+gift;dárek, dar, darovat
+give;dát, dávat, poskytnout, darovat
+grandchildren;vnoučata
+grandfather;dědeček
+grandmother;babička
+grandson;vnuk
+handsome;pěkný, hezký, pohledný
+horror;hrůza, děs
+infrastructure;infrastruktura
+instruction;instrukce, vyučování, pokyn, příkaz
+insult;urážka, urazit
+intolerable;nesnesitelný, neúnosný
+isolated;izolovaný, osamělý, ojedinělý
+janitor;vrátný, školník, domovník
+justify;ospravedlnit
+lifestyle;životní styl
+lonesome;osamělý, osamocený
+master;mistr, pán
+modify;změnit, upravit
+necessity;nutnost
+neighboring;sousední, sousedící
+neighbouring;sousední, sousedící
+nervous;nervózní
+none;žádný, nikdo
+objection;námitka
+occasion;příležitost, událost
+occasionally;příležitostně
+odour;pach, odér
+overcrowding;přelidnění
+overpopulation;přelidnění
+overtake;předjet, předstihnout, předběhnout
+overworked;přepracovaný
+pace;tempo, rychlost, krok
+performance;výkon, představení, scéna, cavyky
+perfume;parfém, voňavka
+physician;lékař, doktor
+plain;jednoduchý, prostý, pláň, planina
+polish;leštit, leštidlo
+populous;lidnatý
+poultry;drůbež
+practitioner;lékař, doktor
+pray;modlit se
+prayer;modlitba
+prize;cena, ocenění, výhra, vážit si
+probability;pravděpodobnost
+probable;pravděpodobný
+professional;odborný, profesionál, profesní, odborník
+promote;podporovat, prosazovat, povýšit, propagovat
+publicity;publicita, propagace
+pulse;pulzovat, pulz, tep
+reconstruct;obnovit, přestavět, zrekonstruovat
+revenge;msta, pomsta, odplata, pomstít
+scent;vůně, parfém, voňavka
+sect;sekta
+serviceman;údržbář, opravář, voják
+shallow;mělký, povrchní
+shed;kůlna, bouda, přístřešek
+sofa;pohovka
+souvenir;suvenýr
+spiritual;duchovní, náboženský
+stair;schod
+staircase;schodiště, schody
+suffering;utrpení, bolest
+swallow;spolknout
+tart;koláč, trpký, coura, běhna, prostitutka
+teaching;učení, vyučování, výuka
+terror;hrůza, děs, teror, otravka
+treacherous;zrádný, zákeřný
+treat;léčit, jednat, zacházet
+unbearable;nesnesitelný, neúnosný
+unusual;neobvyklý

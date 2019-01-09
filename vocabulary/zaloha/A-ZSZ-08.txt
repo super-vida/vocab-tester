@@ -1,0 +1,104 @@
+acquire;získat, nabýt
+any;nějaký, kterýkoliv
+area;oblast, území, plocha, rozloha
+art;umění
+bathroom;koupelna
+better;lépe, lepší
+bleed;krvácet
+blow;vanout, vát, rána, úder, foukat, rozfofrovat, prošvihnout, prozradit, odjet, odejít, chlubit se
+bottle;láhev
+boy;kluk, chlapec
+bread;chléb, prachy
+break;pauza, přestávka, rozbít, zlomit, rozbít se
+buy;koupit, nakoupit, koupit si, koupě
+carry;nosit, nést, dopravit, dopravovat
+celebrate;slavit, oslavit
+cellar;sklep
+center;střed, centrum
+cheese;sýr
+clean;čistý, čistit
+close;zavřít, uzavřít, blízký, těsně
+control;řízení, kontrola, ovládat, řídit, ovládání
+cross;přejít, překročit, kříž, křížit se
+daughter;dcera
+deal;obchod, obchodovat
+deliver;doručit, dodat, porodit
+divide;dělit, rozdělit
+effect;účinek, následek, vliv, efekt
+eleven;jedenáct
+elsewhere;jinde
+every;každý
+feed;krmit, nakrmit
+food;jídlo, strava
+forty;čtyřicet
+future;budoucnost, budoucí
+group;skupina, seskupit, seskupit se
+guest;host
+happy;šťastný, spokojený
+head;hlava, vedoucí, ředitel
+hesitate;váhat, zaváhat
+his;jeho
+horizontal;vodorovný, horizontální
+husband;manžel, muž
+increase;zvýšit, zvýšení, vzestup
+keep;zůstat, udržovat, udržet, bašta, tvrz
+last;minulý, poslední, trvat
+law;právo, zákon
+learn;učit se, naučit se
+list;seznam
+look;vypadat, vzhled, hledět, dívat se
+lower;dolní, spodní, nižší, snížit
+main;hlavní
+major;hlavní, významný
+market;trh, tržiště, tržnice, tržní
+most;většina, nanejvýš, nejvíce
+near;blízko, nedaleko, blízký, poblíž
+nearby;blízko, blízký, nedaleký, nedaleko, poblíž
+note;zpráva, poznámka, vzkaz
+out;venku, ven
+permit;dovolit, povolení, povolit
+poor;chudý, chabý, ubohý
+practise;cvičit, procvičovat, trénovat
+prefer;upřednostňovat, preferovat
+private;soukromý
+proposal;návrh, nabídka
+proud;hrdý, pyšný
+put;dát, položit
+quality;kvalita, kvalitní, jakost
+rather;spíše, dosti, poněkud
+reduce;zmenšit, snížit
+release;uvolnit, propustit, uvolnění, vydat
+rent;pronajmout, pronajmout si, nájem, nájemné
+required;potřebný, nutný, nezbytný
+restaurant;restaurace
+restroom;toaleta
+return;vrátit se, návrat, návratnost, zisk
+run;běžet, utíkat, běh, průběh, chod, vést
+satisfy;uspokojit, vyhovět
+serious;vážný
+share;sdílet, akcie
+slow;pomalý, pomalu
+solitary;samotný, osamělý
+sort;druh, typ
+speed;rychlost
+state;stát, stav
+suggest;navrhnout
+surprise;překvapit, překvapení
+table;stůl, stolek, tabule
+teach;naučit, učit
+tell;říct, říci, sdělit, oznámit
+test;prověřit, ověřit, test, zkouška
+tomorrow;zítra, zítřek
+trade;obchod, obchodovat, obchodní
+try;vyzkoušet, zkusit, pokusit se, pokus, snažit se
+twelve;dvanáct
+understand;rozumět, pochopit, chápat
+upset;rozrušený, rozčilený, podrážděný
+velocity;rychlost
+wall;stěna, zeď
+war;válka, válečný
+window;okno
+work;pracovat, práce, dílo
+worry;znepokojovat se, obávat se, obava, starost
+worsen;zhoršit, zhoršit se, zhoršovat se
+wound;zranění, rána, zranit, poranit

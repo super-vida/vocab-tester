@@ -1,0 +1,104 @@
+affect;ovlivnit, postihnout
+agreement;dohoda, úmluva, smlouva, soulad, souhlas, ujednání
+alert;bdělý, ostražitý, varovat, varování
+anniversary;výročí, výroční
+appearance;vzhled
+aware;bdělý, vědomý si
+battle;bitva, boj, bojový, bitevní
+blackout;výpadek, okno
+chaos;zmatek
+clue;vodítko
+combat;souboj, boj, bojový, bitevní
+conclusion;závěr, úsudek
+confusion;zmatek
+conscious;vědomý, vědomý si, úmyslný, při vědomí
+copy;kopie, kopírovat
+critical;kritický
+dame;dáma
+degree;stupeň, titul
+deliberate;úmyslný, záměrný
+disrupt;narušit
+district;oblast, čtvrť, okrsek, okres
+document;dokument, listina, dokumentovat
+eastern;východní
+emphasize;zdůraznit
+escape;utéct, uniknout, útěk
+evade;vyhnout se
+extreme;extrémní, krajní, extrém, krajnost
+factor;faktor
+finally;nakonec, konečně
+flight;let, letka, útěk
+grade;známka, stupeň, třída, ročník, kvalita, jakost
+growth;růst
+identical;stejný, shodný
+image;obrázek, obraz, představa
+indication;známka, náznak, znamení
+information;informace
+irrigate;zavlažovat, zavlažit
+jam;marmeláda, džem
+laundrywoman;pradlena
+lead;vést, olovo, stopa, vodítko
+lung;plíce
+manager;manažer
+marmelade;marmeláda
+massive;masivní, obrovský
+middle;střed, střední, prostřední, prostředek
+misdemeanor;přestupek, prohřešek
+misdemeanour;přestupek, prohřešek
+offence;urážka, přečin, provinění, delikt, prohřešek, přestupek
+outage;výpadek
+pathway;chodník, cesta
+patient;pacient, trpělivý
+pavement;chodník
+pointy;špičatý
+potential;potenciál, potenciální
+prisoner;vězeň, trestanec
+proof;důkaz
+proper;řádný, vlastní, správný, korektní
+prosecution;obžaloba, trestní stíhání
+punch;udeřit
+reaction;reakce, odezva, ohlas
+reactor;reaktor
+reminder;připomínka, upomínka
+replace;nahradit, vyměnit
+resist;odolat, odolávat
+resistant;odolný, rezistentní
+response;odezva, reakce, odpověď
+restore;obnovit
+revolution;revoluce, otáčka
+route;cesta, trasa
+severely;vážně, těžce
+shameful;ostudný, hanebný
+shock;šok, šokovat, náraz, otřes
+shocking;šokující, otřesný, strašný, hrozný
+sidewalk;chodník
+sign;znak, podepsat, označit, cedule, znamení
+signal;signál, znamení, signalizovat
+stain;skvrna
+standard;běžný, standardní, obvyklý, standard, norma
+stress;napětí, stres, zdůraznit, důraz
+substitute;nahradit, vyměnit, zaměnit, náhradník, náhražka, náhrada
+suspense;napětí
+swiftly;rychle
+tension;napětí
+terrorism;terorismus
+theme;téma, námět, motiv
+therapy;léčba, terapie
+title;titul
+trail;trasa, stopa
+transgression;přestupek, prohřešek
+tremendous;obrovský, ohromný
+trick;trik, lest, podvod, napálit
+ultimately;nakonec, konečně
+unaware;netušící
+unfortunately;bohužel, naneštěstí
+unit;jednotka
+unsuspecting;netušící
+verbal;slovní, verbální
+verify;ověřit, potvrdit
+vigilant;bdělý, ostražitý
+violent;násilný
+violently;násilně
+vulnerable;zranitelný
+wrongdoing;přečin, provinění, delikt
+year;rok, ročník

@@ -1,0 +1,103 @@
+above;nad, výše
+absorb;vstřebat, absorbovat
+accelerate;zrychlovat, akcelerovat
+adjustment;úprava, valorizace
+alleged;údajný, domnělý
+amusement;zábavní, pobavení, zábava
+analyst;analytik
+announcement;oznámení
+assert;tvrdit, prohlašovat
+awaken;probudit, vzbudit
+bright;chytrý, jasný, světlý, bystrý
+business;obchod, podnik, podnikání, byznys, obchodování, obchodní
+cargo;náklad
+cash;hotovost
+circular;kulatý, kruhový
+claim;tvrzení, prohlášení, prohlašovat, tvrdit, vyžádat si, domáhat se, nárokovat
+clarify;objasnit, vysvětlit
+classified;tajný, utajovaný
+cloth;tkanina, textilie, látka
+collaboration;kolaborace, součinnost, spolupráce
+commitment;oddanost, závazek, věrnost, povinnost
+commonly;běžně, obvykle
+competent;schopný, kompetentní
+complete;naprostý, úplný, dokončit, dodělat
+completed;hotový, dokončený
+conduct;vést, provádět, chování, chovat se
+consequence;výsledek, důsledek, následek
+contents;obsah
+cooperation;kooperace, spolupráce, součinnost
+core;jádro, podstata
+correct;správný, korektní, napravit
+credit;kredit
+dauntless;neohrožený, nebojácný
+debt;dluh
+decisively;rozhodně
+declaration;deklarace, prohlášení
+declare;deklarovat, prohlašovat, vyhlásit
+definitely;určitě, rozhodně, definitivně
+disembark;vystoupit
+dishonest;nečestný, nepoctivý
+diverse;rozmanitý, různorodý
+division;dělba, dělení, oddělení, divize
+drug;lék, léčivo, droga
+editor;editor, redaktor, vydavatel
+elevate;zvýšit, zvednout
+employee;zaměstnanec
+employer;zaměstnavatel
+entertainment;zábava, zábavní
+expose;odhalit, odkrýt, obnažit
+fabric;látka, tkanina, textilie
+feeling;pocit, tušení
+field;obor, hřiště, pole
+finished;hotový, dokončený
+foil;překazit, fólie, alobal, staniol
+foolish;bláhový, bláznivý, hloupý
+goods;zboží
+grasp;sevření, uchopit, pochopit
+grip;sevření, uchopit, rukojeť
+handy;užitečný, praktický
+hold;držet, sevření, držení
+hopefully;snad
+hunch;tušení, pocit, předtucha
+insert;vložit
+intelligent;chytrý, inteligentní
+irritating;otravný
+light;světlo, lehký, zapálit, světlý
+meaning;význam, smysl
+narcotic;droga
+notice;oznámení, upozornění, všimnout si
+notification;oznámení, upozornění
+outcome;výsledek
+outlook;výhled, vyhlídka
+plenty;dostatek, spousta, dost, velmi, hojnost
+pointless;nesmyslný, zbytečný
+practice;praxe, postup, cvičení, trénink
+proposition;výrok, tvrzení, návrh
+prospect;vyhlídka, šance, naděje, výhled
+publisher;nakladatel, nakladatelství, vydavatel
+quality;kvalita, kvalitní, jakost
+quantity;veličina, množství, kvantita, počet
+reading;čtení, četba
+result;výsledek, důsledek, následek
+secret;tajný, tajemství, utajovaný
+shaft;násada, šachta, rukojeť, jáma, hřídel
+shoplift;krást
+soft;jemný, měkký, hebký
+someplace;někam, někde
+stand;obstát, stát, postavit se, stánek, snést, stanoviště, pozvat, vystát, vstát
+statement;tvrzení, výrok, výpověď
+substance;podstata, látka, hmota, substance
+textile;textilní, textil, textilie, tkanina, látka
+tinfoil;staniol, alobal
+training;trénink, cvičení, výcvik, školení
+transportation;doprava, přeprava
+trunk;kmen, trup, kufr
+unconcerned;lhostejný
+unfair;nepoctivý, nefér, nečestný, nespravedlivý
+varied;pestrý, rozmanitý, různorodý
+view;stanovisko, názor, prohlédnout si, nahlížet, pohled, výhled
+virgin;zelenáč, panenský, nováček, panna, panic
+warning;varování, upozornění
+wheel;kolo
+workout;cvičení, trénink

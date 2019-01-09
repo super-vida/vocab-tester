@@ -1,0 +1,107 @@
+aggressive;agresivní, útočný
+attic;půda, podkroví
+bandage;obvaz, bandáž, obinadlo
+bars;mříže
+biscuit;sušenka, suchar
+blond;blond, blondýna
+blonde;blond, blondýna
+breakup;rozchod
+burial;pohřeb, pohřební
+campground;tábořiště
+campsite;tábořiště
+chimpanzee;šimpanz
+collaborate;spolupracovat, kolaborovat
+conspiracy;spiknutí, komplot
+cook;uvařit, upéct, vařit, péct, kuchař
+cotton wool;vata
+cotton;vata
+countess;hraběnka
+crayon;pastelka, voskovka
+cult;kult, sekta
+curse;klít, nadávat, proklínat, kletba
+dawn;úsvit, svítání
+daybreak;úsvit, svítání
+deduct;odečíst
+delay;zdržení, prodleva, zpoždění, prodlení, odložit, přesunout, pozdržet
+determined;odhodlaný, určený
+diligent;pracovitý, pilný, svědomitý
+dismantle;rozebrat, rozložit
+doll;panenka
+droplet;kapka, kapička
+duchess;vévodkyně
+dutiful;svědomitý, pečlivý
+elegance;elegance
+ending;konec, závěr, zakončení
+endure;vydržet, snést
+enemy;nepřítel, protivník, nepřátelský
+family;rodina, rod, příbuzní, příbuzenstvo
+fitness;kondice, vhodnost, zdatnost
+flock;hejno, stádo
+flyer;leták, letec, cestující
+funeral;pohřeb, pohřební
+gallery;galerie, ochoz
+getaway;útěk
+given;určený, daný, stanovený
+gravitation;přitažlivost, gravitace
+haircut;účes
+hijack;unést
+hostage;rukojmí
+hunch;tušení, předtucha, pocit
+identity;identita, totožnost
+inception;vznik
+insurgency;povstání
+judgment;posouzení, rozsudek, úsudek
+jug;džbán, basa, lapák
+killer;zabiják, vrah
+killing;zabíjení
+kindred;příbuzný, klan, kmen
+leopard;levhart
+loft;půda, podkroví
+lord;pán, lord, šlechtic
+marksman;ostrostřelec, střelec
+mercenary;žoldák, žoldnéř
+naive;naivní
+nightfall;soumrak
+noble;šlechtic, ušlechtilý, urozený
+nonsense;hloupost, nesmysl, blbost
+novice;nováček, začátečník
+observant;pozorný, všímavý, dbalý
+outperform;předčit, překonat
+parrot;papoušek, papouškovat
+pass;míjet, minout, soutěska
+photo;fotografie, fotka
+pipe;trubka, trubice
+prestigious;prestižní
+pretense;přetvářka
+pronounce;vyslovit, prohlásit
+rage;běsnění, zuřivost
+rank;hodnost, postavení
+refinery;rafinerie
+refuge;útočiště, úkryt, útulek
+relatives;příbuzní, příbuzenstvo
+resemblance;podobnost
+risk-free;bez rizika
+rooftop;střech
+rumours;drby
+scale;rozsah, škála, stupnice, šupina
+self-important;TODO, nadutý
+shine;svítit, zářit, záře, lesknout se
+similarity;podobnost
+sleepy;ospalý
+subtract;odečíst
+suburban;předměstský, příměstský
+suitability;vhodnost
+superb;skvělý, vynikající
+suspicious;podezřelý
+sweatshirt;mikina
+tasty;chutný, lahodný
+things;věci
+thus;tudíž, tedy
+track;cesta, stopa, stezka, sledovat, stopovat, závodní okruh, dráha
+trick;trik, lest, podvod, napálit
+trophy;trofej, pohár
+unbelievable;neuvěřitelný
+unstoppable;nezadržitelný
+virgin;panna, panenský, nováček, zelenáč, panic
+wavy;vlnitý
+weepy;plačtivý, uplakaný

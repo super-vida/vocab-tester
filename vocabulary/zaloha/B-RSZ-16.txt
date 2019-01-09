@@ -1,0 +1,101 @@
+adapt;přizpůsobit, upravit
+address;adresa, oslovit
+adjust;přizpůsobit, upravit
+alter;změnit, upravit
+american;americký, Američan
+arena;aréna, stadion
+associate;spojovat, stýkat se, společník
+bang;rána, praštit
+barely;sotva, stěží
+briefly;krátce, stručně
+career;kariéra, profese
+catastrophe;neštěstí, pohroma, katastrofa
+certificate;certifikát, osvědčení, potvrzení
+champion;bojovník, šampión, přeborník, mistr
+click;cvaknout, kliknout
+club;klub, hůl, kyj, spolek
+combination;kombinace, spojení, propojení
+conservation;ochrana, zachování
+contribute;přispívat, přispět
+contribution;příspěvek
+creation;vytvoření, stvoření
+decimation;decimování
+decline;pokles, odmítnout, klesat, úpadek, upadat
+democratic;demokratický
+ditch;příkop, strouha
+diversity;rozmanitost, různorodost
+done;hotový
+edge;hrana, pokraj, ostří, výhoda, kraj, okraj
+effective;účinný, efektivní
+embryo;zárodek, embryo
+emerge;objevit se, ukázat se, vzejít, vzniknout
+encourage;povzbudit, podpořit
+ending;konec, závěr, zakončení
+ensure;zajistit, zaručit
+everything;vše, všechno
+excite;vzrušit, nadchnout, vyvolat
+exciting;vzrušující, strhující
+exist;existovat
+expedition;expedice, výprava
+failure;selhání, neúspěch
+familiar;známý, povědomý
+frequency;frekvence, kmitočet
+function;funkce
+gene;gen
+grab;chytit, popadnout
+habitat;prostředí, výběh
+individual;jedinec, individuální, jednotlivý, samostatný
+induce;indukovat, vyvolat, způsobit
+initial;výchozí, počáteční
+involve;obnášet, zahrnovat, týkat se
+kitten;kotě
+laboratory;laboratoř
+loss;ztráta
+mainly;hlavně, převážně, zejména, především
+medicine;medicína, lékařství
+method;metoda, způsob
+modern;současný, novodobý, moderní
+native;rodilý
+nature;příroda, podstata, povaha
+northern;severní
+novel;román, nový
+poach;pytlačit
+poacher;pytlák
+population;populace, obyvatelstvo
+possibility;možnost
+potentially;potenciálně
+principle;princip, zásada
+process;postup, proces, průběh
+profession;profese, povolání
+programming;programování
+prospect;vyhlídka, šance, naděje, výhled
+renowned;věhlasný, proslulý, renomovaný
+replacement;náhrada, náhradní, náhradník
+replicate;replikovat, zmnožovat, rozmnožovat
+represent;zastupovat, reprezentovat, představovat
+representative;představitel, zástupce, zmocněnec, reprezentant
+reproduce;reprodukovat, kopírovat
+republic;republika
+researcher;výzkumník, badatel
+rhino;nosorožec
+routine;rutinní, rutina
+seriously;vážně, těžce
+simply;jednoduše
+skin;slupka, kůže, ošidit, podvést, pornografický
+southern;jižní
+specialise;zaměřit se, specializovat se
+specialist;odborník, specialista
+squeeze;vymačkat, vmáčknout
+stock;vybavení, zásoby, akcie, vývar
+stroke;hladit, lichotka, vlichocovat se, pohladit
+successful;úspěšný, zdařilý
+suffer;trpět, prodělat
+survival;přežití
+survive;přežít
+technique;technika, metoda
+technology;technologie, technika
+threat;hrozba, výhružka
+transmit;přenášet, vysílat
+trial;soud, pokus, zkouška, soudní řízení
+undergo;prodělat, podstoupit
+underway;probíhající

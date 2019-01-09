@@ -1,0 +1,113 @@
+ability;schopnost
+absent;nepřítomný, chybějící
+actual;opravdový, skutečný
+advocate;advokát, obhajovat
+ancient;starověký, starobylý, dávnověký, dávný
+ankle;kotník
+anticipate;předvídat, tušit
+approximately;přibližně, asi
+arm;paže, ruka, zbraň, odjistit, vyzbrojit
+attend;zúčastnit se, docházet, navštěvovat
+available;k dispozici, dostupný
+avenue;třída, ulice
+bash;udeřit, mlátit, třísknout, praštit, rána, kritizovat, oslava
+boyfriend;přítel
+bulky;velký, objemný
+can;moci, umět, moct, konzerva, plechovka, toaleta, basa, lapák, loch, zadek
+canyon;kaňon
+careless;nedbalý, neopatrný
+charge;nabít, náboj, obžalovat, poplatek, účtovat si
+cheeky;drzý, troufalý
+cheque;šek
+class;přednáška, třída, hodina
+cling;lpět, lnout
+comeback;návrat
+comic;komik, komický
+condition;stav, kondice, podmínka
+conduct;vést, provádět, chování, chovat se
+confuse;splést si, splést, zaměnit, zmást
+content;spokojený, obsah
+contented;spokojený
+controls;ovládání
+counsel;rada
+count;počítat, počet, hrabě
+course;přednáška, běh, průběh, kurz, směr
+court;soud, dvůr, dvořit se, hřiště, kurt
+cry;plakat, brečet, křičet, volat, výkřik
+current;tok, aktuální, proud, současný
+daring;smělý, troufalý, odvážný
+descendant;potomek
+dive;potápět se, skočit, skok
+doubt;pochybnost, pochybovat
+emergency;nouze, pohotovost, nouzový
+figure;číslo, počet, údaj, ilustrace, postava
+fit;záchvat, zdravý, fit, v kondici, pasovat
+flaw;vada, nedostatek
+flow;proudit, téci, proud, tok, téct
+focus;ohnisko, zaostřit, zaměřit se, soustředit se
+further;dále, další, prosazovat, pokročit
+giant;obří, gigant, obr, obrovský
+give;dát, dávat, poskytnout, darovat
+guess;hádat, odhadovat, odhad, myslet si, předpokládat
+guilty;provinilý, vinný, vinen
+highlands;vysočina
+interrupt;přerušit
+kid;dítě, kůzle
+labor;práce, námaha, pracovat, dřina
+labour;práce, dřina, pracovat, námaha
+leave;odejít, odjet, opustit, zanechat, dovolená
+lecture;přednáška, přednášet
+likely;pravděpodobný, pravděpodobně
+load;nabít, načíst, náklad, nahrát, naložit, zátěž
+ludicrous;absurdní, směšný
+manage;spravovat, řídit, vést, zvládnout
+measure;měřit, poměřovat, meření, míra
+mind;mysl
+mine;můj, důl, mina, šachta, těžit
+narrow;úzký, těsný, zúžit, zužovat se
+needless;zbytečný, nepotřebný
+nightmare;noční můra
+obligatory;závazný, povinný
+operate;provozovat, spravovat, operovat
+pantry;spíž, spižírna
+persuade;přesvědčit
+petroleum;ropa
+pier;molo
+platform;plošina, pódium, platforma, nástupiště
+point;bod, ukázat, pointa, špička, hrot
+poll;hlasování
+pour;nalít, vylít
+profit;prospěch, zisk, profit, výnos
+purchase;nakoupit
+readiness;připravenost
+record;záznam, zápis, zaznamenat, nahrávat, nahrát, natočit, rekord
+rely;spoléhat se, spoléhat
+remainder;zbytek
+resources;prostředky;
+responsible;zodpovědný, odpovědný
+right;správný, rovnou, pořádně, právo, vpravo, pravý, přímo, nárok, správně
+role;postavení, funkce, role
+round;kulatý, kolo, runda, kolem, série, okolo
+run;běžet, utíkat, běh, průběh, chod, vést
+safe;bezpečný, bez rizika, sejf, trezor
+seashore;pobřeží
+shorts;kraťasy, trenýrky
+skillful;šikovný, zručný
+skin;slupka, kůže, ošidit, podvést, pornografický
+solid;pevný, tvrdý, těleso
+spoil;zkazit, zkazit se, rozmazlit
+still;nehybný, klidný, ještě, pořád, stále
+strive;usilovat, snažit se
+term;termín, období, výraz, pojem
+therefore;proto, tudíž
+third;třetí, za třetí, třetina
+tradition;zvyk, tradice
+transport;doprava, dopravovat, přepravovat, přeprava, spedice, dopravit, přepravit
+tread;šlápnout, kráčet
+tube;trubka, tuba, trubice, metro, telka, lahváč, bedna
+vast;obrovský, ohromný, rozsáhlý, rozlehlý
+watch;sledovat, pozorovat, dívat se, hlídka, strážný, stráž, hodinky
+waterfall;vodopád
+well;dobře, zdravý, studna
+whether;zdali, zda, jestli
+withdraw;stáhnout se

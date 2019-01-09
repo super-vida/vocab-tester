@@ -1,0 +1,99 @@
+abroad;za hranice, v zahraničí
+adult;dospělý
+advise;doporučit, poradit, radit
+anything;cokoliv, něco
+ask;ptát se, žádat, zeptat se, požádat, prosit
+bad;špatný, zlý
+blue;modrý
+bold;troufalý, statečný, odvážný, smělý
+brain;mozek
+break;pauza, přestávka, rozbít, zlomit, rozbít se
+brown;hnědý
+by;u
+catch;chytit, dopadnout, zádrhel, háček
+certainly;jistě, určitě
+chief;šéf, vedoucí
+children;děti
+city;velkoměsto, město
+clothing;oděv, oblečení
+color;barva, obarvit
+colour;barva, obarvit
+could;mohl, mohl by
+couple;pár, dvojice
+cousin;bratranec, sestřenice
+decrease;klesat, snížit se, snížit, zmenšit, snížení, pokles
+disappoint;zklamat
+discuss;diskutovat, jednat
+drug;lék, léčivo, droga
+envy;závist, závidět
+error;omyl, chyba
+even;vodorovný, vyrovnaný, sudý, dokonce, i
+everywhere;všude
+fact;fakt, skutečnost
+fall;padat, spadnout, podzim, vodopád, pád
+february;únor
+flat;byt, plochý
+form;forma, druh, formulář, dotazník
+free;zdarma, bezplatný, volný, svobodný
+frown;mračit se, zamračit se
+go;jet
+he;on
+higher;vyšší
+hire;najmout, najmout si, pronajmout si
+holiday;dovolená, svátek, prázdniny
+hurry;pospíchat, spěchat, spěch
+if;pokud
+into;do, dovnitř
+just;spravedlivý, právě, jen, jenom, pouze
+kitchen;kuchyň, kuchyně
+land;zem, půda, země, přistát, pozemek, pevnina
+lie;lež, lhát, ležet
+lock;zamknout, uzamknout, zámek, lokna, kadeř
+long;dlouhý, dlouho, toužit, dychtit
+low;nízký, nízko
+lower;dolní, spodní, nižší, snížit
+married;ženatý, vdaná
+message;zpráva, vzkaz
+middle;střed, střední, prostřední, prostředek
+nation;národ, lid
+nineteen;devatenáct
+office;kancelář, úřad, kancelářský
+order;pořadí, pořádek, objednat, přikázat, nařídit, rozkaz, příkaz, objednávka
+phase;etapa, fáze
+piece;kousek, kus, figurka
+play;hrát si, dovádět, hrát
+pleasant;příjemný, milý
+press;tisk, stisknout, přitisknout
+project;projekt
+race;závod, rasa
+resolve;řešit, vyřešit, odhodlání
+rich;bohatý, majetný
+rule;pravidlo, předpis, vládnout, válet, být nejlepší, být boží
+salt;sůl
+season;roční období, sezóna
+send;poslat, odeslat
+sentence;věta, trest, odsoudit
+set;sada, souprava, množina, nastavit, příbor
+skilful;šikovný, zručný
+some;nějaký, několik, trocha
+somehow;nějak
+space;prostor, plocha, mezera, vesmír, místo
+stand;stát, postavit se, vstát, stanoviště, obstát, snést, pozvat, vystát, stánek
+startle;zaskočit
+still;nehybný, klidný, ještě, pořád, stále
+strange;divný, zvláštní, cizí
+strike;stávka, úder, udeřit, narazit, praštit
+study;studovat, studovna, pracovna
+stupid;hloupý, stupidní
+sugar;cukr, osladit, osladit si
+take;vzít, brát
+tear;trhat, trhat se, slza, trhlina
+through;skrz, přes, napříč, prostřednictvím, pomocí
+tiny;drobný, nepatrný, maličký
+travel;cestovat, cestování, putovat
+type;typ, psát, druh
+vote;hlas, hlasovat, volit, hlasování
+well;dobře, zdravý, studna
+wonder;údiv, zázrak, divit se, div
+wood;les, dřevo, dříví, lesní
+yellow;žlutý, podělaný, zbabělý

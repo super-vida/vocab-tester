@@ -1,0 +1,111 @@
+agent;agent, činidlo, prostředek
+altitude;výška
+anyhow;tak či onak, každopádně
+apart;odděleně, stranou, od sebe
+apparent;zdánlivý, zřejmý, patrný, očividný
+applause;potlesk, aplaus
+arm;paže, ruka, zbraň, odjistit, vyzbrojit
+australian;Australan, australský
+besides;krom toho, kromě
+block;kostka, kvádr, blokovat, blok, kebule
+boast;chlubit se, chvástat se, vytahovat se
+bow;luk, poklona, poklonit se, uklonit se, smyčec, příď, mašle
+brag;chlubit se, chvástat se, vytahovat se
+bravery;odvaha, statečnost
+brief;krátký, stručný, informovat
+bronze;bronz, bronzový
+checkpoint;stanoviště
+childhood;dětství
+clip;svorka, spona, připnout, zastřihnout, klip
+convincing;přesvědčivý
+coup;puč, převrat
+cultural;kulturní
+delegation;delegace, delegování
+dense;hustý, hloupý
+depressing;depresivní, skličující
+depression;deprese, splín
+depressive;depresivní, sklíčený
+destiny;osud, úděl
+dial;ciferník, vytočit
+disable;zneškodnit, vyřadit z provozu, ochromit
+disappointment;zklamání
+disassemble;rozebrat
+dismantle;rozebrat, rozložit
+estate;pozemek, půda, pozůstalost, kombík, kombi
+ethnic;etnický
+excessive;nadměrný, přílišný, nepřiměřený, horentní, přemrštěný
+fabulous;báječný, skvělý
+fairly;docela, dosti, pořádně, spravedlivě
+famous;slavný, věhlasný, proslulý
+fate;osud, úděl
+fiasco;fiasko
+footwear;obuv
+formal;formální, oficiální
+future;budoucnost, budoucí
+habitual criminal;notorický zločinec
+harmless;neškodný, nevinný
+hastily;narychlo, rychle
+heterosexual;heterosexuál, heterosexuální
+history;dějiny, historie, minulost
+illegitimate;nelegitimní, nezákonný, nemanželský
+immediately;okamžitě, ihned, hned, bezodkladně
+inconclusive;neprůkazný, nerozhodný, bezvýsledný
+incredible;úžasný, skvělý, neuvěřitelný
+infiltrator;špión, infiltrátor
+informal;neformální
+initially;zprvu, zpočátku, nejprve
+irritated;podrážděný
+jargon;žargon
+jeans;džíny, rifle
+lack;nedostatek, postrádat, chybět
+land;zem, půda, země, přistát, pozemek, pevnina
+lawmaker;zákonodárce
+leftist;levicový
+lengthily;zdlouhavě
+letdown;zklamání
+medieval;středověký
+moreover;krom toho
+mud;bláto, bahno
+notepad;blok
+nowadays;v současnosti
+nymphomaniac;nymfomanka
+obvious;zřejmý, jasný, patrný, očividný
+overcome;překonat, přemoci
+oversensitive;přecitlivělý
+pacifist;pacifista
+pad;podložka, chránič, bejvák
+partially;částečně, zčásti
+passable;ucházející, přijatelný, slušný
+polar;polární
+practical joke;žertík
+prank;žertík, kanadský žertík
+prankster;šprýmař
+protector;strážce, chránič
+pure;čistý, ryzí
+raincoat;pršiplášť
+recidivist;recidivista
+repeatedly;opakovaně, znovu a znovu
+rightist;pravicový
+roughly;přibližně, zhruba, asi
+shield;štít, ochránit
+short;krátký, malý, nakrátko
+snapshot;momentka
+stingy;pichlavý, lakomý, škudlivý
+stubborn;tvrdohlavý, paličatý, neústupný
+suited;vhodný
+sword;meč
+tattoo;tetování
+thick;tlustý, silný, hustý, hloupý, natvrdlý
+training;trénink, cvičení, výcvik, školení
+tramp;vandrák, tulák
+tricycle;tříkolka
+trivial;bezvýznamný, triviální
+unreal;nereálný, neskutečný, fantastický, skvělý
+upset;rozrušený, rozčilený, podrážděný
+vanilla;vanilka, vanilkový, obyčejný, tuctový, základní
+voluntary;dobrovolný
+willing;ochotný
+willingness;ochota
+wink;mrknout, mrkat, šlofík
+witness;svědek, svědčit, být svědkem
+wrinkle;vráska

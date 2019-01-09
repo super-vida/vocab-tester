@@ -1,0 +1,109 @@
+abbey;opatství
+accused;obviněný, obžalovaný
+addiction;závislost
+adopt;osvojit si, adoptovat
+advance;pokrok
+advanced;pokročilý, vyspělý
+advocate;advokát, obhajovat
+anxious;úzkostný, úzkostlivý
+arrangement;dohoda, úmluva, uspořádání
+attorney;advokát, prokurátor, právní zástupce
+bash;udeřit, mlátit, třísknout, praštit, rána, kritizovat, oslava
+burnt;spálený
+buttocks;hýždě
+cable;kabel, lano, kabelová televize
+candle;svíčka, svíce
+cap;čepice, víčko, krytka
+capacity;kapacita, objem, schopnost
+charge;nabít, náboj, obžalovat, poplatek, účtovat si
+charged;obviněný
+charred;spálený
+civilization;civilizace, kultura
+cloister;klášter
+correctly;správně
+cover;krýt, přikrýt, pokrývka, pokrývat, víko, úkryt, deka, přikrývka, krytí, krytka
+culture;kultura
+curiosity;zvědavost, kuriozita
+dance;tančit, tancovat, tanec
+danger;nebezpečí
+dart;šipka
+defender;obránce
+delightful;rozkošný, příjemný
+democracy;demokracie
+deny;popřít, popírat
+dependence;závislost
+dependency;závislost
+disclose;odhalit, odkrýt, prozradit
+disclosure;odhalení, odkrytí, prozrazení
+discontinue;přestat, ukončit, zastavit, ukončit výrobu
+discovery;objev, odhalení, odkrytí
+drool;slintat
+emerge;objevit se, ukázat se, vzejít, vzniknout
+emergency;nouze, pohotovost, nouzový
+entrance;vchod, vstup
+exceed;překročit, přesáhnout, převýšit
+exhaustion;vyčerpání
+expansion;expanze, rozpínání, rozšíření
+experiment;pokus, experiment
+experimentation;experimentování
+explicit;výslovný, explicitní
+fee;poplatek, vstupné
+fine;kvalitní, pokuta, pěkný, jemný, dobrý, drobný
+fitness;kondice, vhodnost, zdatnost
+genre;žánr
+grown-up;dospělý
+guard;střežit, stráž, hlídač, strážce, hlídka, strážný, chránič
+guardian;strážný, strážce, opatrovník, hlídač
+halt;zastavit, zastavit se
+ignite;zapálit
+interior;vnitřek, interiér
+kiss;polibek, líbat, pusa
+lamb;jehně, beránek, jehněčí, skopové
+license;licence, povolit, povolení
+lid;víčko, víko
+little finger;malíček
+madness;šílenství
+math;matematika
+mature;dospělý, zralý, dospět, vyspělý
+measure;měřit, poměřovat, opatření, míra
+monastery;klášter
+monk;mnich
+motion;pohyb, chod, návrh
+movement;pohyb, hnutí
+mystery;záhada, tajemství
+naked;nahý, nahatý
+nullify;zrušit, anulovat
+nun;jeptiška
+obvious;zřejmý, jasný, patrný, očividný
+offence;urážka, přečin, provinění, delikt, prohřešek, přestupek
+omit;opominout, vynechat, přehlédnout
+originate;vzniknout
+palette;paleta
+patrol;střežit, hlídka
+poison;jed, otrávit
+poisonous;jedovatý, otrávený
+progress;průběh, chod, pokrok, běh
+protect;chránit, bránit, střežit
+protector;strážce, chránič
+pyramid;pyramida, jehlan
+reveal;odhalit, odkrýt, prozradit
+riddle;hádanka
+ripe;zralý, uzrálý
+roommate;spolubydlící
+rope;lano, provaz
+science;věda
+scientist;vědec
+section;část, úsek, oddělení
+skip;přeskočit, vynechat
+stir;pohnout se, hýbat, hýbat se, pohyb, rozruch
+stranger;cizinec
+suspend;pozastavit, zastavit, zavěsit
+technical;odborný, technický
+toddler;batole
+toxic;toxický, jedovatý
+uncomfortable;nepohodlný, nepříjemný
+unicorn;jednorožec
+university;univerzita
+venom;jed
+venomous;jedovatý, otrávený
+wild;divoký, divočina

@@ -1,0 +1,117 @@
+acceptable;přijatelný
+acknowledge;přiznat, uznat, uznávat, potvrdit
+alike;podobný
+ammunition;munice, střelivo
+anger;vztek, zlost, rozčílit, rozzlobit
+arc;oblouk
+arch;oblouk, klenba
+band;skupina, kapela, stuha, pentle, páska, pás, pruh
+basically;v podstatě, v zásadě
+beam;paprsek, trám, nosník
+bolt;blesk, přišroubovat, šroub
+camp;tábor, kemp, ležení
+canal;kanál, průplav
+capture;zajmout, dobýt
+ceremony;obřad, ceremoniál
+coating;povlak, nátěr
+college;vysoká škola, fakulta, kolej
+comparison;srovnání
+concrete;beton, konkrétní
+construct;stavět, postavit
+context;kontext, souvislosti
+corrective;korekční, nápravný
+costume;kostým
+crypt;krypta
+curve;zatáčka, křivka, oblouk
+dedication;věnování, oddanost
+delivery;dodání, doručení, rozvoz, porod
+description;popis
+deserted;opuštěný
+dirt;hlína, špína, zemina
+district;oblast, čtvrť, okrsek, okres
+dreaming;snění
+eager;nedočkavý, dychtivý
+echo;ozvěna
+educated;vzdělaný
+elegant;elegantní
+elk;los, jelen
+empty;prázdný, vyprázdnit
+encampment;tábor, ležení
+encyclopedia;encyklopedie
+engineer;inženýr, strojvůdce, technik
+evacuate;evakuovat, vystěhovat
+evacuation;vystěhování
+exact;přesný
+faculty;fakulta
+fallen;padlý
+fold;přeložit, složit, ohyb, záhyb
+forest;les, lesní
+gate;brána
+gentle;něžný, šetrný, mírný
+grand;velký, velkolepý
+homeless;bezdomovec
+hunter;lovec
+impatient;netrpělivý, nedočkavý
+incidentally;mimochodem
+intact;nedotčený, netknutý
+leak;prosakovat, unikat
+length;délka
+location;umístění, poloha
+lodging;ubytování, podnájem
+lynx;rys
+manner;styl, chování, způsob
+mental;duševní, mentální, psychický
+minority;menšina
+necessarily;nutně, nezbytně
+nonviolent;nenásilný
+northeast;severovýchod
+observer;pozorovatel
+outweigh;převážit
+overall;celkový, overal
+overlay;překrýt, potah, vrstva, povlak
+paint;malovat, natírat, nátěr, barva, lak
+passion;vášeň
+passionate;vášnivý, náruživý
+percent;procento
+petition;petice, žádost, žaloba
+placement;rozmístění, umístění
+plank;prkno, deska
+plaque;plak, plaketa, pamětní deska
+portal;portál
+primarily;hlavně, zejména, především
+purse;peněženka, kabelka, našpulit
+raw;nezpracovaný, syrový
+reckless;neopatrný, bezhlavý
+reinforced;vyztužený, zpevněný
+reinforcements;posily
+renewal;obnova
+renovation;oprava, renovace
+restoration;obnova, restaurování
+ribbon;stuha, pentle
+savings;úspory
+screw;přišroubovat, šroub, vrut
+shiny;lesklý
+singing;zpěv
+stairway;schodiště
+stimulate;stimulovat, povzbudit, podnítit
+stimulating;povzbuzující
+street person;bezdomovec
+struggle;zápasit, usilovat, zápas
+sublease;podnájem
+suit;oblek, vyhovovat, hodit se, kostým
+superior;nadřízený, vynikající
+surgeon;chirurg
+surgical;chirurgický
+tactic;taktika
+tactics;taktika
+tomb;hrobka
+transform;přeměnit, transformovat
+trap;past, léčka
+turn;otočit, otočit se, obrátit, otáčet, zvrat, zatáčka
+unfortunate;nešťastný, politováníhodný
+untidy;nepořádný
+vanish;zmizet
+vault;klenba, hrobka, trezor, krypta
+visible;viditelný, zřejmý
+vocal;zpěv, hlasitý
+waver;váhat

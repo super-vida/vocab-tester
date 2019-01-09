@@ -1,0 +1,128 @@
+acceleration;akcelerace, zrychlení
+affordable;cenově dostupný
+amazement;údiv, úžas
+apartment;byt
+apply;požádat, ucházet se
+architect;architekt
+architecture;architektura
+astonishment;údiv, úžas
+band;skupina, kapela, pruh, pás, pentle, stuha, páska
+bankrupt;zkrachovalý, v úpadku
+bean;bob, fazole
+bookmark;záložka
+born;narozený, rozený
+box;krabice, krabička, bedna, rakev, telka
+cheater;podvodník
+chimney;komín
+church;kostel, církev
+classroom;třída, učebna
+consent;souhlas, svolení
+constant;stálý, konstantní
+contrast;kontrast
+country;země, venkovský, venkov, stát
+countryside;venkov
+crate;bedna
+decorative;ozdobný
+default;výchozí, implicitní, nedodržet závazek
+defeat;porážka, porazit
+desirable;žádoucí
+diagonal;úhlopříčný
+dignity;důstojnost
+dominate;ovládnout
+dormitory;kolej
+drag;táhnout, vléct
+dwell;žít, bydlet
+electronics;elektronika
+empower;umožnit, oprávnit
+extensive;rozsáhlý, značný, široký
+fellow;kolega, člověk
+fluent;plynulý
+fortune;jmění, štěstí, štěstěna
+gas;plyn, benzín, palivo
+hazard;nebezpečí, riziko
+hood;kapuce, kápě, čtvrť
+hospitality;pohostinnost
+implicit;implicitní
+independence;nezávislost
+instability;nestabilita
+lash;řasa, bičovat, přivázat
+ledge;římsa
+liability;přítěž, závazek, ručení
+lodger;nájemník
+manufacture;vyrobit, vyrábět, výroba
+melt;tát, roztát
+moral;morálka, morální, ponaučení
+narrow;úzký, těsný, zúžit, zužovat se
+numerous;početný
+occasional;příležitostný, občasný
+occupant;nájemník, uživatel
+oppressive;represivní
+organ;varhany, orgán
+outskirts;předměstí, periferie, okraj
+overtime;prodloužení, přesčas
+pen;pero, psát, ohrádka, ohrada, lapák, basa, loch
+periphery;předměstí, periferie
+permanent;stálý, permanentní
+prestige;prestiž
+rapid;rychlý
+rate;rychlost, ohodnotit, sazba
+recount;přepočítat, převyprávět, vylíčit
+refreshment;občerstvení
+regional;místní, regionální
+reinforce;zpevnit, vyztužit
+religious;náboženský, zbožný
+repressive;represivní
+requirement;požadavek, podmínka
+responsibility;odpovědnost, zodpovědnost
+restructure;restrukturalizovat
+rigid;pevný
+ritual;rituál, obřad
+roadway;silnice
+roof;střecha
+rural area;venkov
+rural;venkovský
+sac;vak
+sack;pytel, vak, propustit, vyhodit, vyhazov
+sale;sleva, prodej
+sales;obrat, tržby, odbyt
+satisfactory;uspokojivý
+sector;úsek, sektor
+seemingly;zdánlivě
+self;sebe, já
+senator;senátor
+settler;osadník
+short story;povídka
+slim;štíhlý, útlý
+southeast;jihovýchod
+spike;bodec, hrot
+steady;stálý, známost
+steel;ocel
+straighten;narovnat
+strengthened;zpevněný
+strip;pás, pruh, svléknout se
+suburbs;předměstí, periferie
+surroundings;okolí
+tale;pověst, příběh, povídka
+tape;páska, stuha
+tariff;sazba, tarif, clo
+taxpayer;daňový poplatník
+template;šablona
+temporary;dočasný, provizorní, přechodný
+tenant;nájemník, uživatel
+terrain;terén
+through;skrz, přes, napříč, prostřednictvím, pomocí
+timetable;plán, rozvrh, harmonogram
+toast;přípitek, toast
+transition;přechod, změna
+treasure;poklad
+tricky;složitý, obtížný, ošidný, lstivý
+understandable;pochopitelný, srozumitelný
+undress;svléknout se
+unwise;nerozumný, neuvážený
+user;uživatel
+using;pomocí
+via;přes, prostřednictvím, pomocí
+viewer;divák
+voluntarily;dobrovolně
+wherever;kdekoliv, kamkoliv
+width;šíře, šířka

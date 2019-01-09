@@ -1,0 +1,129 @@
+alcoholic;alkoholik
+almond;mandle
+amusing;zábavný
+anxiety;úzkost
+aristocracy;šlechta, aristokracie
+avalanche;lavina
+awake;vzbudit, vzbudit se, bdělý, probudit se
+bay;záliv, zátoka
+bear;medvěd, nést
+birch tree;bříza
+bishop;střelec, biskup
+bite;ukousnout, kousnout, štvát, sousto, kousat
+blueberry;borůvka
+bud;pupen, poupě, kámoš, kamarád, kámo
+care;starat se, péče, pečovat, opatrnost
+carelessness;nedbalost, bezstarostnost, nepozornost
+cattle;dobytek, skot
+caution;opatrnost, varování
+circle;kruh, kružnice
+civil;občanský, zdvořilý
+clan;klan, rod
+cloudburst;liják, průtrž mračen
+cloudless;bezmračný
+cluster;hlouček, trs, shluk, svazek
+consistent;důsledný, stálý
+corpse;mrtvola
+cough;kašlat, zakašlat, kašel
+courtesy;zdvořilost, slušnost, bezplatný
+crisis;krize
+cucumber;okurka
+diamond;diamant, kosočtverec
+dozen;tucet
+dragonfly;vážka
+drinker;pijan, opilec
+drip;kapat, kapka, ňouma, moula
+drizzly;sychravý
+drudge;dřít
+dutiful;svědomitý, pečlivý
+eczema;ekzém
+emphasis;důraz
+enjoyable;zábavný, příjemný
+favor;laskavost, přízeň, náklonnost
+fever;horečka
+firefly;světluška
+flock;hejno, stádo
+fourth;čtvrtý
+fox;liška
+frost;mráz
+gentleness;jemnost, mírnost
+girl;děvče, holčička, dívka, holka
+glacier;ledovec
+gossip;drbna, klepna, drb, drby
+grace;půvab, elegance
+gravel;štěrk
+graze;pást se, pastva, pást, odřenina, odřít
+gulf;záliv
+hedgehog;ježek
+heroine;hrdinka
+impartial;nestranný
+inattentive;nepozorný
+inclined;nakloněný, šikmý
+indulgent;shovívavý
+inertia;setrvačnost
+infection;infekce, nákaza
+influenza;chřipka
+joker;vtipálek, šprýmař, žolík
+kin;příbuzenstvo, klan, rod, rodina, příbuzní
+king;král
+leech;pijavice
+lemon;citrón
+limb;končetina
+lunatic;šílenec, blázen
+madam;dáma, paní
+may;květen, smět, moct
+migraine;migréna
+mouthful;sousto
+murderer;vrah
+nest;hnízdo
+ninth;devátý
+obedience;poslušnost
+orange;oranžový, pomeranč
+ought;měl by
+owl;sova, výr
+ox;vůl
+peach;broskev
+peninsula;poloostrov
+pickaxe;krumpáč
+pincers;kleště
+pine;borovice
+polite;zdvořilý, slušný
+rainy;deštivý
+rash;vyrážka, zbrklý
+revolve;otáčet se, obíhat, točit se
+rotate;točit se, otáčet se, otáčet
+salamander;mlok
+scandalmonger;drbna, klepna
+scratch;škrábat, poškrábat, škrábnutí, škrábat se, rýha
+search;hledat, vyhledávat, prohledat, pátrání
+seek;hledat, vyhledávat
+set;sada, souprava, množina, nastavit, příbor
+shellfish;měkkýš, korýš
+sincere;upřímný
+sling;hodit, mrštit, prak
+spider;pavouk
+stream;říčka, potok, tok, proud, proudit
+sweep;mést, zametat
+swelling;oteklina, otok
+switch;přepnout, vyměnit, vypínač, změnit
+swoon;omdlít
+system;systém, soustava
+talon;dráp
+thief;zloděj, lupič
+thrust;vrazit, tah
+tireless;neúnavný
+toe;prst
+tropics;tropy
+turf;drn
+turn;otočit, otočit se, obrátit, otáčet, zvrat, zatáčka
+twilight;šero, soumrak
+unrest;neklid, nepokoj
+waterspout;liják, průtrž mračen, vodní smršť, tornádo
+weariness;únava
+wedding;svatba
+wheat;pšenice
+whirl;vír, vířit
+whirlwind;vichřice, větrný vír, smršť, vzdušný vír
+wood;les, dřevo, dříví, lesní
+worst;nejhorší
+zone;zóna, oblast

@@ -1,0 +1,111 @@
+agenda;agenda
+alternative;možnost, alternativní, alternativa, jiný
+anonymous;anonymní
+apparent;zdánlivý, zřejmý, patrný, očividný
+appraise;ocenit, ohodnotit
+arouse;vzrušit
+barbed;ostnatý
+belch;krkat, říhat, říhnutí
+bond;slepit, pouto, svazek, vazba, dluhopis
+brook;říčka, potok
+captain;kapitán
+choice;volba, možnost
+circuit;obvod, okruh
+club;klacek, klub, hůl, kyj, spolek
+clumsiness;neobratnost, nemotornost, nešikovnost
+coarse;hrubý, drsný
+corner;roh, kout, koutek
+cruelty;krutost
+cut;řezat, říznout se, krájet, rozkrájet, seknout
+decision;rozhodnutí, usnesení
+decisiveness;rozhodnost
+determination;odhodlání, rozhodnost
+execute;vykonat, provést, popravit
+famous;slavný, věhlasný, proslulý
+fatal;osudný, smrtelný
+fire;oheň, požár, palba, vystřelit, střelit, střelba, propustit, vyhodit
+flourish;vzkvétat
+follower;stoupenec, přívrženec
+fool;pošetilec, hlupák, šašek, oklamat, blázen
+forthcoming;nadcházející, nastávající
+frighten;vyděsit, vystrašit
+glister;třpyt
+guarantee;zaručit, zajistit, záruka, ručení
+heavily;těžce
+immerse;ponořit, potopit
+inaction;nečinnost
+inactivity;nečinnost
+instant;okamžitý, okamžik, chvíle, moment
+instantaneous;okamžitý
+lethal;smrtelný, smrtící
+link;spojení, vztah, odkaz, spojitost, vazba, propojení, spojit
+linkage;vazba, spojení, propojení
+lorry;kamión, náklaďák
+metropolis;velkoměsto, metropole
+mine;můj, důl, mina, šachta, těžit
+mortal;smrtelný
+option;volba, možnost, alternativa, opce
+peace;mír, klid, pokoj
+peak;vrchol, vrcholit
+perform;vykonat, provést, provádět
+perimeter;obvod, hranice
+policy;politika
+politics;politika
+present;přítomný, aktuální, dar, dárek, současný, současnost, předložit, předvést, prezentovat
+produce;vytvořit, předložit, vyrobit
+prohibit;zakázat
+propose;navrhnout, požádat o ruku
+protection;ochrana
+punishment;trest
+railing;zábradlí
+read;přečíst, číst, načíst
+recreational;rekreační
+relatively;relativně, poměrně
+relic;relikvie, památka, pozůstatek, přežitek, vykopávka
+remarkable;pozoruhodný
+remnant;pozůstatek, zbytky
+resistance;odpor, vzdor
+resolution;usnesení, rezoluce, odhodlání, rozlišení
+resolve;řešit, vyřešit, odhodlání
+rough;hrubý, drsný
+safeguard;chránit
+salad;salát
+scientific;vědecký
+scuba;akvalung, dýchací přístroj
+seabed;mořské dno
+sealife;mořský život
+secure;zajistit, zabezpečit
+senior;starší, vrchní, nadřízený, senior
+shaft;šachta, jáma, hřídel, rukojeť, násada
+shooting;střelba
+significant;značný, významný
+sink;dřez, umyvadlo, klesat, potopit se, potopit
+skipper;kapitán
+society;společnost, spolek
+southwest;jihozápad
+sparkle;jiskřit, jiskra, třpyt
+stance;postoj, stanovisko
+straightforward;přímočarý
+straw;stéblo, sláma, brčko
+stretch;natáhnout, protáhnout, protáhnout se
+submerge;ponořit, potopit
+submit;podřídit se, předložit, odevzdat
+succumb;podlehnout
+surf;surfovat, příboj
+sweeten;osladit, osladit si
+throw;hodit, vrhnout, mrštit, vrh
+tourism;turistika, cestovní ruch
+tow;táhnout, odtah, vléct
+trial;soud, pokus, zkouška, soudní řízení
+unconcern;nezájem, lhostejnost
+undertake;vykonat, provést
+untangle;rozvázat, rozplést, rozmotat
+unveil;odhalit
+vehicle;vozidlo, vůz
+verge;pokraj, krajnice
+vessel;nádoba, plavidlo, loď, céva
+villain;darebák, lump, padouch
+vow;slib, přísaha, slíbit, přísahat
+warrant;zaručit
+whilst;zatímco
+yield;podlehnout, vzdát se, výnos

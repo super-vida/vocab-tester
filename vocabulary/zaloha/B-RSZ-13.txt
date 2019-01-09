@@ -1,0 +1,96 @@
+applicant;uchazeč, zájemce
+arab;arab, arabský
+arrival;příjezd, přílet, příchozí, příchod
+assume;předpokládat, zaujmout, domnívat se
+avoid;vyhnout se
+beforehand;předem, dopředu
+birthplace;rodiště
+bloodshed;krveprolití
+board;deska, prkno, tabule, nastoupit, představenstvo
+calculate;spočítat, vypočítat
+candidate;kandidát, uchazeč
+chapter;kapitola
+colleague;kolega, spolupracovník
+collide;srazit se, narazit, střetnout se, kolidovat
+command;příkaz, velet, ovládat, nařídit, rozkaz, přikázat
+commander;velitel
+compute;spočítat, vypočítat
+conflict;konflikt, střet, spor
+control;řízení, kontrola, ovládat, řídit, ovládání
+counselor;poradce, právní zástupce
+decade;dekáda, desetiletí
+delay;zdržení, prodleva, zpoždění, prodlení, odložit, přesunout, pozdržet
+determine;určit, stanovit
+dismiss;zavrhnout, vyloučit, propustit
+earlier;dřívější
+election;volby
+encounter;střet, střetnout se, setkat se, narazit
+enemy;nepřítel, protivník, nepřátelský
+evidence;důkaz, známka
+expel;vypudit, vyhnat, vyloučit
+explanation;vysvětlení
+fighter;bojovník, stíhačka
+formally;formálně, úředně
+forward;vpřed, dopředu, přeposlat
+govern;vládnout
+greet;pozdravit, přivítat
+headline;titulek
+hugely;obrovsky, ohromně
+indicate;naznačovat, značit, naznačit
+innocent;nevinný
+intend;zamýšlet, hodlat
+interview;rozhovor
+journalist;novinář, žurnalista, publicista
+judge;soudce, soudit, rozhodčí, hodnotit, posoudit
+lawsuit;proces, soudní řízení
+lawyer;právník, právní zástupce
+leadership;vedení
+legally;legálně, právně, soudně
+maid;služebná, pokojská
+mass;dav, masa, masový, hromadný, hmotnost
+meanwhile;mezitím, zatím
+military;vojenský, armáda
+mourn;truchlit
+nomination;nominace
+novelist;autor románů, spisovatel
+occur;stát se, nastat, napadnout
+officially;oficiálně, úředně
+opponent;oponent, protivník, soupeř, odpůrce
+opposition;opozice, odpor, protivník, soupeř
+passport;pas, cestovní pas
+photographer;fotograf
+political;politický
+president;prezident
+presidential;prezidentský
+publication;publikace, zveřejnění
+rape;znásilnění, znásilnit
+rapidly;rychle
+reconstruction;rekonstrukce, obnova, přestavba
+reign;vládnout
+related;související, příbuzný
+reputation;reputace, pověst
+request;požadavek, požádat
+rumor;zvěst, drb, fáma
+rumour;zvěst, drb, fáma
+runner;běžec, kurýr
+schedule;plán, rozvrh, harmonogram, program, naplánovat
+security;bezpečnost, ostraha, bezpečnostní, cenný papír
+seduce;svést
+seduction;svádění
+sex;sex, pohlaví, soulož
+sexual;sexuální, pohlavní
+sexually;sexuálně, pohlavně
+siege;dobývat, obléhat, obléhání
+sin;hřích
+socialist;socialista, socialistický
+soldier;voják
+spy;špión, vyzvědač
+stronghold;bašta, pevnost, tvrz
+suite;apartmá, sada, souprava
+supporter;stoupenec, přívrženec, zastánce
+supreme;nejvyšší, vrcholný
+taker;zájemce
+threaten;ohrozit, hrozit, vyhrožovat
+transitional;přechodný
+troops;vojáci, vojsko
+unknown;neznámý

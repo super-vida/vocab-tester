@@ -1,0 +1,95 @@
+abuse;zneužití, zneužívání, týrání, zneužít, zneužívat
+access;přístup
+activist;aktivista
+addition;přídavek, přírůstek
+agency;agentura
+aim;usilovat, záměr, cíl, mířit, snažit se, účel
+ambassador;velvyslanec, ambasador
+ambush;přepadení, přepadnout
+amnesty;amnestie, milost
+appoint;jmenovat
+appreciate;ocenit, vážit si
+assemble;shromáždit, svolat
+assembly;konstrukce, montáž, shromáždění
+assess;odhadnout, ocenit, vyhodnotit, ohodnotit, posoudit
+author;autor, tvůrce, spisovatel, napsat
+authority;úřad, pravomoc, autorita
+burden;břímě, břemeno
+call;nazývat, volat, zavolat, výzva, svolat, nazvat, pojmenovat, hovor
+card;karta, průkaz, vizitka
+celebrity;celebrita, hvězda
+committee;komise
+creator;tvůrce, stvořitel
+demolish;zbourat, zdemolovat
+demonstration;demonstrace, ukázka
+demonstrator;demonstrátor, demonstrant
+disappearance;zmizení
+discontent;TODO, nespokojený, nespokojenost
+economic;ekonomický, hospodářský
+economy;ekonomika, hospodářství
+education;vzdělávání, vzdělání, školství
+envious;závistivý
+enviously;závistivě
+evaluate;ocenit, vyhodnotit, ohodnotit, posoudit, hodnotit
+expert;expert, odborník, znalec, odborný
+gang;skupina, gang, banda
+garbage;odpadky, smetí, odpad
+gathering;shromáždění, shromáždit
+goal;gól, účel, cíl, záměr, brána, branka
+god;bůh
+icon;idol, ikona
+identify;identifikovat, rozpoznat
+impact;dopad, účinek, vliv, dopadnout
+indication;známka, náznak, znamení
+investigate;vyšetřovat
+investigation;vyšetřování, šetření
+kidnap;únos, unést
+labrador;labrador
+latest;poslední, nejnovější
+leader;vůdce, lídr
+locate;najít, vypátrat, lokalizovat
+maker;tvůrce, stvořitel
+makeshift;provizorní, prozatímní
+memorial;památník, pomník
+motive;motiv
+neighbourhood;sousedství, čtvrť
+opposite;opak, protější, protilehlý, opačný
+outcry;pobouření, rozhořčení
+outrage;pobouření, rozhořčení
+panel;deska, porota, panel, tabule
+pick;vybrat si, sebrat, krumpáč, trsátko
+pirate;pirát, pirátský
+plot;spiknutí, zápletka, děj
+prime;hlavní, nejdůležitější, prvořadý, prvočíslo
+print;tisk, tisknout, otisknout, potisknout
+protest;protest, protestovat
+protester;protestující
+rally;shromáždění, shromáždit, zotavit se, zotavení
+rattle;chrastit, chrastítko, rachot, rachotit, řehtačka
+realise;uvědomovat si, uvědomit si, pochopit, chápat
+realize;pochopit, chápat, uvědomovat si, uvědomit si
+reform;reforma, reformovat
+religion;náboženství
+religious;náboženský, zbožný
+renew;obnovit
+scene;místo, dějiště, scéna
+serve;sloužit, podávat, servírovat
+sexually;pohlavně
+shout;křičet, volat, výkřik
+student;student
+suite;souprava, sada, apartmá
+tendency;tendence, sklon
+tent;stan
+terminal;nádraží, terminál
+tonight;dnes večer, dnes v noci
+tragic;tragický
+trash;odpadky, smetí, odpad, brak, kritizovat, rozmlátit, rozbít
+trigger;spustit, spoušť
+unable;neschopný
+union;unie, odbory, svaz
+update;aktualizace, aktualizovat
+vast;obrovský, ohromný, rozsáhlý, rozlehlý
+voter;volič
+wave;mávat, vlna
+wealth;bohatství, majetek
+writer;spisovatel, autor

@@ -1,0 +1,131 @@
+acid;kyselina
+aloud;nahlas, hlasitě
+audience;publikum, obecenstvo
+await;očekávat
+balance;balancovat, vyvažovat, vyrovnanost, zůstatek, rovnováha
+balanced;vyrovnaný, vyvážený
+belief;víra, důvěra
+berry;bobule
+blackboard;tabule
+block;kostka, kvádr, blokovat, blok, kebule
+bookshelf;police
+brake;brzda
+breath;dech
+briefs;spodky, slipy
+bulb;žárovka
+canvas;plátno, plachtovina
+carriage;kočár, kočárek, dopravné
+cell phone;mobilní telefon
+change;změna, změnit, změnit se, střídat, převléknout se, přestoupit, drobné
+cheat;podvod, podvádět, podvést
+chemical;chemický, chemikálie
+coincidence;náhoda
+collar;límec, límeček, zašít, sebrat
+colt;kolt, hříbě
+comfort;pohodlí, komfort, útěcha, utěšit
+compartment;přihrádka, prostor, kupé
+cork;korek, špunt, zátka
+cosmos;vesmír, kosmos
+cough;kašlat, zakašlat, kašel
+countryman;venkovan, krajan
+crush;rozdrtit, rozmačkat
+curable;vyléčitelný
+curtain;závěs, záclona, opona
+cushion;polštář, polštářek
+deceive;oklamat, podvést
+delete;vymazat, smazat
+digestion;trávení, zažívání
+disgust;znechucení, odpor
+distribution;distribuce, rozvoz
+economics;ekonomie
+electric;elektrický
+erase;vymazat, smazat, odstranit
+extension cord;prodlužovačka
+fatty;tučný, baculka, tlouštík, tlusťoch
+fertile;plodný, úrodný
+fiction;fikce, beletrie
+fluid;tekutina, kapalina, plynulý, tekutý
+frequent;častý, navštěvovat
+greeting;pozdrav
+handful;hrstka, pár
+hollow;dutý, dutina
+humor;humor
+humour;humor
+incoming;příchozí
+ink;inkoust, tetování, kérka
+introduce;představit, představit se, uvést
+jelly;želé, rosol
+leave;odejít, odjet, opustit, zanechat, dovolená
+liquid;tekutina, kapalina, tekutý
+mobile phone;mobilní telefon
+mobile;mobilní, pojízdný, pohyblivý, přenosný, mobil, mobilní telefon
+mouth;ústa, pusa, ústí
+nervousness;nervozita
+obedient;poslušný
+observation;pozorování
+obstruct;blokovat, překážet
+outgoing;odchozí
+panties;kalhotky
+pants;kalhoty, spodky, trenýrky
+paragraph;odstavec
+participant;účastník
+paste;vložit, pasta, nalepit
+piping;potrubí
+plug;zástrčka, zastrčit
+precaution;preventivní opatření, antikoncepce
+precisely;přesně
+prediction;předpověď
+pregnant;těhotná
+priceless;nevyčíslitelné hodnoty, k nezaplacení, k popukání
+printout;výtisk
+propose;navrhnout, požádat o ruku
+raccoon;mýval
+racoon;mýval
+radiator;topení
+rat;krysa
+recipe;recept
+recovery;zotavení
+recruit;branec, přijmout, odvedenec, odvést
+repetition;opakování
+reservation;výhrada, rezervace
+reserve;zarezervovat si, vyhradit si, zásoba, rezerva, rezervace
+rhythm;rytmus
+rub;masáž, masírovat, vetřít
+rubbish;odpad, blbost, odpadky, smetí, nekvalitní, mizerný, aušusový, hovadina, kravina, brak
+rundown;zchátralý, rozpadlý, utahaný
+scream;křičet, ječet, výkřik
+seaweed;mořská řasa, mořské řasy
+selection;výběr
+servant;sluha
+shift;posunout, posun, zvrat, přesunout, směna
+sight;památka, pamětihodnost
+silk;hedvábí, hedvábný
+skate;brusle, rejnok, bruslit
+slip;uklouznout, sklouznout, lístek
+sneeze;kýchnout, kýchnutí
+socket;zásuvka
+spectator;divák
+stationery;TODO, psací potřeby, papírnictví
+sticky;lepkavý, lepivý, problematický, nepříjemný
+stiff;tuhý, ztuhlý
+supplement;doplňek, příloha, příplatek
+swindle;podvod, podvést
+taken;obsazený
+tap;kohout, kohoutek, ťukat, klepat
+theory;teorie
+thread;vlákno, nit
+tile;obkládačka, taška, dlaždice
+tip;špička, hrot, tip, rada, spropitné
+translate;přeložit
+transparent;průhledný
+underpants;spodky, kalhotky
+verse;verš
+vocabulary;slovní zásoba
+whip;bič, překonat, předčit
+whistle;píšťalka, pískat si
+wool;vlna
+wordstock;slovní zásoba
+workshop;dílna, seminář
+worm;červ
+wound;zranění, rána, zranit, poranit
+yell;křičet, ječet

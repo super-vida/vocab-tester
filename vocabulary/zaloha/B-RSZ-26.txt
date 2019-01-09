@@ -1,0 +1,85 @@
+aisle;ulička, chodbička
+alarm;alarm, poplach, budík
+alley;ulička, průchod
+alleyway;ulička, průchod
+assistant;asistent, pomocník, pomocný
+attribute;vlastnost, atribut, přisuzovat, znak, rys
+breakdown;zhroucení, selhání, porucha, havárie, analýza, rozbor
+calendar;kalendář
+camera;fotoaparát, kamera
+cashier;pokladní
+checkout;pokladna
+chip;čip, kousek, žeton
+chips;hranolky, brambůrky, čipsy
+clerk;úředník
+clip;svorka, spona, připnout, zastřihnout, klip
+collapse;kolaps, zkolabovat, zřícení, sesutí, zřítit se, zhroucení, propadnout se
+collector;sběratel, sběrač, kolektor
+communicate;komunikovat, sdělit, oznámit
+conquer;dobýt, podrobit si
+console;utěšit, ovládací panel, konzola
+consumer;spotřebitel, spotřebitelský, spotřební
+corridor;chodba, chodbička, ulička, koridor
+coupon;kupon
+critic;recenzent, kritik
+digital;digitální
+driver;řidič, ovladač
+easier;lehčí, snazší
+elastic;pružný, elastický
+employ;zaměstnat, použít, využít
+flexible;ohebný, flexibilní
+footprint;stopa, šlépěj
+grocery;potraviny
+handbook;příručka, návod, manuál
+hint;nápověda, náznak
+humble;skromný, pokorný
+idea;nápad, představa, myšlenka
+identification;identifikace
+jeopardy;ohrožení, nebezpečí
+label;nálepka, štítek, značka, označit, visačka
+lane;ulička, silniční pruh, ulice, dráha
+leather;kůže, kožený, useň
+log;kláda, poleno, záznam, zápis, protokol, deník
+metal;kov, kovový
+mobile;mobilní, pojízdný, pohyblivý, přenosný, mobil, mobilní telefon
+modest;skromný
+movable;pohyblivý
+ownership;vlastnictví
+paperwork;administrativa, papírování
+passage;chodba, průchod, pasáž, úryvek, cesta, průjezd
+permission;povolení, svolení
+pin;špendlík
+plastic;plast, umělá hmota, plastový, umělý, platební karta, kreditka, falešný
+pocket;kapsa, kapesní
+possession;vlastnictví, majetek
+pretty;pěkný, hezký, zženštilý, dost, pěkně, pořádně, hodně
+property;majetek, vlastnictví, vlastnost, nemovitost
+real estate;nemovitosti, realitní
+realization;uvědomění si, uskutečnění, realizace
+realty;nemovitost
+reason;důvod, příčina
+reviewer;recenzent, kritik
+slash;lomítko, lomeno, seknout, říznout
+steep;strmý, příkrý
+sticker;nálepka, štítek
+sue;zažalovat, žalovat
+symbolic;symbolický
+tag;visačka, štítek, nálepka
+tap;kohout, kohoutek, ťukat, klepat
+term;termín, období, výraz, pojem
+theft;krádež
+theoretically;teoreticky
+trace;stopa, trocha, náznak
+transfer;přenést, převést, přesunout, přenos, přesun, přeložení, převelení, obtisk, převod
+triumph;vítězství, triumf, vyhrát, zvítězit
+triumphant;triumfální, vítězný
+tunnel;tunel, chodba
+unlikely;nepravděpodobný
+utilize;využít, použít
+victorious;vítězný
+victory;vítězství
+vision;vize, představa, vidina
+wallet;peněženka
+whatever;cokoliv, jakýkoliv, kterýkoliv
+whichever;jakýkoliv, kterýkoliv
+win;vyhrát, zvítězit, vítězství

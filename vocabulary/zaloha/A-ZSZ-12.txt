@@ -1,0 +1,224 @@
+about;o, ohledně, přibližně, asi, zhruba
+accommodation;ubytování
+advertisement;inzerát, reklama
+afraid;bojící se
+all;všechno, všichni, vše
+always;vždy, pořád, stále, vždycky
+angry;rozzlobený, naštvaný, rozčilený
+another;jiný, další, ještě jeden
+anyway;tak či onak, každopádně
+anywhere;kdekoliv
+appear;zdát se, objevit se, vypadat, ukázat se
+are;jsi, jste, jsou, jsme
+article;člen, článek
+awful;hrozný, strašný
+baby;dítě, miminko, dětský, kotě, lásko
+backup;záloha, záložní
+bar;bar, hospoda, prut, tyč, cihlička, tabulka, kostka, laťka
+bathtub;vana
+be;být
+beginner;začátečník
+beginning;začátek, počátek
+below;pod, dole, níže
+bird;pták, kočka, kost
+boat;člun, loď
+boil;vřít, vařit
+bold;troufalý, statečný, odvážný, smělý
+bottom;dno, spodek, spodní, dolní
+breakfast;snídaně
+brick;cihla
+buy;koupit, nakoupit, koupit si, koupě
+calm;klidný, poklidný, uklidnit, utišit
+celebration;oslava
+chance;šance, příležitost, náhoda
+cheap;levný, laciný
+child;dítě, dětský
+cinema;kino
+class;třída, hodina, přednáška
+client;klient, zákazník
+clock;hodiny
+coast;pobřeží
+coat;kabát
+coin;mince
+come;přijít, přijet
+comfort;pohodlí, komfort, útěcha, utěšit
+complex;složitý, komplexní, komplex
+consider;považovat, zvážit, uvažovat, zvažovat, uvážit, pokládat
+constitution;ústava, stanovy, konstituce
+conversation;konverzace
+country;země, venkovský, venkov, stát
+crazy;bláznivý, šílený, potrhlý
+cure;vyléčit, lék, léčba
+customer;zákazník, odběratel
+czech;český, čeština, Čech
+difficulty;obtížnost, problém, potíž
+dinner;večeře
+direction;směr, pokyn
+distribution;distribuce, rozvoz
+do;provést, vykonat
+downstairs;dole
+dragon;drak
+drink;pít, napít se, nápoj, pití
+dull;nudný, hloupý, tupý, nezáživný
+else;jiný
+employed;zaměstnaný
+end;konec, závěr, skončit
+english;angličtina, anglický
+envelope;obálka
+equal;stejný, rovný, rovnocenný
+fame;sláva
+feeling;pocit, tušení
+fill;nalít, naplnit, plnit
+fine;kvalitní, pokuta, pěkný, jemný, dobrý, drobný
+finish;dokončit, dodělat, konec, závěr, skončit
+following;následující, další, příští
+forever;navždy
+fragile;křehký
+free;zdarma, bezplatný, volný, svobodný
+good;dobrý, dobře, hodný, kvalitní
+grass;tráva
+grave;hrob
+gray;šedý
+grey;šedý
+grow;růst, vyrůst, narůstat
+habit;návyk, zvyk
+hard;tvrdý, pevný, obtížný, těžký
+hat;čepice, klobouk
+hello;ahoj
+her;její, jí, ji, ní
+hers;její
+high;vysoký, vysoko
+him;jeho, jemu, ním
+hit;udeřit, uhodit, narazit, zasáhnout, zásah, úder, praštit
+hobby;záliba, koníček
+home;domov, domů, doma, domácí
+hope;doufat, naděje
+hunger;hlad
+hurt;zranit, bolet, poranit, poranit se, zraněný, ublížit
+ice;led, ledový, zmrzlina
+if;zdali, zda, jestli
+injure;poranit, zranit, poranit se
+instantly;okamžitě, ihned, hned
+invention;vynález
+invitation;pozvánka
+is;je
+issue;problém, záležitost, vydat
+jump;skočit, vyskočit, skok, skákat
+kettle;konvice
+land;zem, půda, země, přistát, pozemek, pevnina
+language;jazyk
+large;velký, objemný, rozlehlý
+later;později, pozdější
+lesson;lekce, ponaučení
+lip;ret
+make;udělat, vyrobit, učinit
+makeup;nalíčení
+map;mapa, zmapovat
+market;trh, tržiště, tržnice, tržní
+me;mě
+meet;potkat, potkat se, seznámit se, setkat se
+memory;paměť, vzpomínka
+midnight;půlnoc
+milk;mléko, mléčný
+miracle;zázrak
+mistake;omyl, chyba, zaměnit, splést si
+mister;pan, pane
+misunderstanding;nedorozumění
+mode;způsob, režim
+nearly;skoro, téměř, málem
+newspaper;noviny
+nice;pěkný, hezký, příjemný, milý, hodný
+noon;poledne
+normal;normální, běžný, obvyklý, normála, kolmice
+now;nyní, teď, módní, trendy
+off;pryč, z
+oil;nafta, ropa, olej
+our;náš, naše
+ours;naše, náš
+over;přes
+package;balík
+paper;papír
+past;minulost, za, minulý
+pen;pero, psát, ohrádka, ohrada, lapák, basa, loch
+pencil;tužka
+phone;telefon
+pipe;trubka, trubice
+plan;plán, naplánovat
+playground;hřiště
+position;pozice, poloha, místo, umístit, umístění, postavení
+prepared;připravený
+present;přítomný, aktuální, dar, dárek, současný, současnost, předložit, předvést, prezentovat
+print;tisk, tisknout, otisknout, potisknout
+proposal;návrh, nabídka
+publish;vydat, publikovat, zveřejnit
+pupil;žák
+purpose;účel, smysl, záměr
+puzzle;hlavolam, hádanka, záhada
+queue;fronta, řada
+ray;paprsek, rejnok
+reader;čtenář, čtečka
+receive;dostat, obdržet, přijmout
+regret;litovat
+repair;opravit, spravit, spravovat, oprava
+reward;odměna, odměnit
+round;série, runda, kolo, kolem, okolo, kulatý
+row;řada
+schedule;plán, rozvrh, harmonogram, program, naplánovat
+seventeen;sedmnáct
+shift;posunout, posun, zvrat, přesunout, směna
+shopping centre;nákupní centrum
+show;ukázat, přehlídka, předvést, představení, projevovat, ukázat se
+shower;sprcha, sprchovat
+simple;prostý, jednoduchý
+sir;pane
+six;šest
+skirt;sukně
+smoke;kouřit, kouř, cigáro, žváro
+sock;ponožka
+something;něco, cosi
+space;prostor, plocha, mezera, vesmír, místo
+special;zvláštní, speciální
+spill;vylít, rozlít
+spread;rozložit, rozprostřít
+statue;socha
+status;stav, postavení
+step;krok, vkročit, schod, šlápnout
+stop;přestat, zanechat, zastavit, skončit, ustat, zastavit se
+stupid;hloupý, stupidní
+sudden;náhlý
+sun;slunce
+sweet;sladký, lahodný
+telephone;telefon
+thank;děkovat, poděkovat
+that;ten, to, tamten, tamto
+theater;divadlo
+theatre;divadlo
+theirs;jejich
+them;je, jim, nimi, nich
+then;tehdy, tenkrát, pak, potom, tedy
+thin;tenký
+thing;věc
+ticket;lístek, vstupenka, jízdenka, los
+tight;pevně, těsný, blízký, napjatý, opilý, přiléhavý
+tiny;drobný, nepatrný, maličký
+tip;špička, hrot, tip, rada, spropitné
+toward;k, ke, směrem k, směrem ke
+toy;hračka
+tradition;zvyk, tradice
+traveling;cestování
+travelling;cestování
+trouble;problém, potíž
+typical;typický
+umbrella;deštník
+up;nahoře
+upstairs;nahoře
+us;nás, námi, nám, my
+usual;obvyklý, běžný
+very;velice, moc, velmi
+video;video
+voice;hlas, vyjádřit
+vote;hlas, hlasovat, volit, hlasování
+who;kdo
+would;by, bychom, bych
+yet;ještě, dosud, už
+yours;tvůj, váš

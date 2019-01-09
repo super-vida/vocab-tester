@@ -1,0 +1,111 @@
+about;o, ohledně, přibližně, asi, zhruba
+absent;nepřítomný, chybějící
+account;účet, konto
+act;jednat, konat, činit, čin, hrát, předstírat, dějství, jednání, chovat se
+advantage;výhoda
+april;duben
+around;kolem, okolo
+attract;přitahovat
+bad;špatný, zlý
+billion;miliarda
+body;tělo
+borrow;vypůjčit si, půjčit si
+broad;široký
+cancel;zrušit
+carry;nosit, nést, dopravit, dopravovat
+catch;chytit, dopadnout, zádrhel, háček
+chat;povídat si, klábosit
+clothes;oblečení, oděv
+count;hrabě, počítat, počet
+create;vytvořit
+crowd;dav, zástup, lidi, banda, parta
+department;oddělení, úsek
+deserve;zasloužit si
+despite;navzdory
+destroy;zničit
+die;zemřít, umřít
+different;odlišný, rozdílný, jiný, různý
+direct;přímý
+director;ředitel, režisér, vedoucí
+double;dvojitý
+drop;klesat, pustit, upustit, položit, kapka, pokles, pád
+enemy;nepřítel, protivník, nepřátelský
+enter;vstoupit, vejít
+exercise;cvičit, cvičení, trénovat, procvičovat
+fail;selhat, neuspět
+fat;tlustý, tuk
+fit;záchvat, zdravý, fit, v kondici, pasovat
+flower;kvést, květ, květina
+flute;flétna
+foolish;bláznivý, hloupý, bláhový
+forget;zapomenout
+former;bývalý, dřívější, první jmenovaný
+gain;získat, nabýt, zisk
+game;hra, utkání
+gift;dárek, dar, darovat
+hair;vlas, vlasy, chlup
+here;zde, tady, tu
+history;dějiny, historie, minulost
+hit;udeřit, uhodit, narazit, zasáhnout, zásah, úder, praštit
+including;včetně
+inside;dovnitř, v, uvnitř, vnitřek
+insist;trvat
+item;předmět, položka
+job;zaměstnání, práce
+joy;radost, štěstí
+learn;učit se, naučit se
+living;bydlet, žít, živý
+lose;ztratit, prohrát
+might;mohl by, síla, moc
+monday;pondělí
+mountain;hora
+nevertheless;nicméně
+ninety;devadesát
+nobody;nikdo, nýmand
+obey;poslouchat
+object;namítat, předmět, objekt
+other;jiný, další
+our;náš, naše
+own;vlastní, svůj, vlastnit, mít
+page;strana, stránka
+pleased;potěšený, spokojený
+pound;libra
+record;záznam, zápis, zaznamenat, nahrávat, nahrát, natočit, rekord
+remain;zůstat
+ring;prsten, kruh, zvonit, zavolat, volat
+room;pokoj, místnost, prostor, místo
+safe;bez rizika
+scale;rozsah, škála, stupnice, šupina
+scared;vystrašený, vyděšený
+second;sekunda, vteřina, druhý, za druhé
+sense;smysl
+September;září
+september;září
+shoot;střílet, střelit, natočit
+sick;nemocný
+single;jediný, jednotlivý, svobodný
+smile;usmívat se, úsměv
+society;společnost, spolek
+solve;luštit, řešit, vyřešit
+special;zvláštní, speciální
+spell;hláskovat
+stage;scéna, pódium, úsek, etapa, fáze
+stick;strčit, hůl, přilepit, tyč, klacek
+story;příběh, podlaží, patro
+street;ulice, pouliční
+succeed;uspět, podařit se, zdařit se, obstát
+sure;jistý, určitě, jistě, jistý si
+taste;chuť, ochutnat
+terrified;vystrašený, vyděšený
+they;oni
+tour;zájezd, výprava, turné
+trillion;bilion
+true;opravdový, skutečný, pravý, pravdivý
+trust;důvěřovat, věřit, důvěra
+try;vyzkoušet, zkusit, pokusit se, snažit se
+turn;otočit, otočit se, obrátit, otáčet, zvrat, zatáčka
+unique;unikátní, jedinečný
+weak;slabý, chabý
+weight;hmotnost, váha
+which;který, jaký
+while;zatímco, když, kdežto

@@ -1,0 +1,129 @@
+abyss;propast
+alphabet;abeceda
+anorexia;nechutenství, anorexie
+ant;mravenec
+apricot;meruňka, meruňkový
+arise;vzejít, vyvstat
+arrogance;arogance, domýšlivost, namyšlenost
+asthma;astma
+atmosphere;atmosféra
+badger;jezevec
+ball;míč, koule, kulička
+bamboo;bambus
+barometer;tlakoměr, barometr
+bend;ohnout, ohýbat, ohýbat se, ohyb, záhyb, zatáčka
+brave;statečný, odvážný, udatný
+breast;hruď, ňadro, prs
+breed;chovat, rasa, plemeno, plodit
+cape;kápě, mys, kapuce
+cascade;kaskáda, vodopád
+cheek;tvář, drzost, troufalost
+cherry;třešeň, třešně
+childbirth;porod
+chin;brada
+commitment;závazek, oddanost, věrnost, povinnost
+conic;kuželovitý, kuželový, kónický
+conical;kuželovitý, kuželový, kónický
+cowardly;zbabělý
+cylindrical;válcový, válcovitý, cylindrický
+dignified;důstojný
+divorce;rozvod
+duke;vévoda
+egoist;sobec, egoista
+egoistical;sobecký, egoistický
+elephant;slon
+enterprising;podnikavý
+eyebrow;obočí
+feather;pero
+feel;cítit se, pocítit, cítit
+foggy;zamlžený, mlhavý, mlžný
+foot;noha, chodidlo, stopa, úpatí
+fraud;podvod, podvodník
+giraffe;žirafa
+goat;koza
+grandma;babička
+grape;víno
+groin;slabiny, třísla
+heatstroke;úžeh, úpal
+hero;hrdina
+heroine;hrdinka
+hesitant;váhavý
+hippopotamus;hroch
+hoe;motyka
+horse;kůň
+hound;lovecký pes, chrt, ohař
+indifferent;lhostejný
+insane;bláznivý, šílený, duševně chorý, nesmyslný
+insanity;šílenství, nepříčetnost, duševní choroba
+inwards;vnitřnosti, dovnitř
+isle;ostrov, ostrůvek
+jewel;šperk, klenot
+leap;skákat, skok, skočit, vyskočit
+liar;lhář
+liberty;svoboda, volnost
+lightning;blesk
+lily;lilie
+louse;veš
+lumber;dřevo, dříví
+medium;prostřední, střední
+membrane;blána, membrána
+moose;los
+muscle;sval
+nobility;šlechta, panstvo, aristokracie
+oldest;nejstarší
+orb;koule
+orphan;sirotek
+overcast;zataženo
+pain;bolest
+peanut;arašíd, burský oříšek, burák
+pepper;paprika, pepř
+placid;klidný, poklidný
+pool;bazén, louže, kulečník
+precipitation;srážky
+prince;princ
+princess;princezna
+puddle;louže
+rebellion;povstání, vzpoura
+rectangle;obdélník
+relation;vztah, relace, spojitost
+revolt;vzpoura, povstání
+rice;rýže
+riverside;břeh, poříčí
+rotation;rotace
+ruler;panovník, vládce, pravítko
+scissors;nůžky
+sclerosis;skleróza, kornatění
+select;vybrat, zvolit
+sensibility;citlivost
+shoulder;rameno, krajnice
+single;jediný, jednotlivý, svobodný
+slide;klouzat, klouzat se
+snake;had
+soil;půda, zemina
+sole;podrážka, výhradní, výluční, chodidlo
+sour cherry;višně
+spouse;manžel, manželka, choť, žena, muž
+squirrel;veverka
+stick;klacek, hůl, tyč, přilepit, strčit
+sting;píchnout, bodnout, žihadlo
+stomach;žaludek, břicho
+stop sign;stopka
+sunstroke;úžeh, úpal
+swear;přísahat, klít, nadávat
+swing;houpat, houpat se
+teeth;zuby
+thermometer;teploměr
+thunder;hrom, hřmít, zahřmění
+tie;pouto, kravata, svázat, přivázat, spoutat, remíza
+trunk;kmen, trup, kufr
+tuna fish;tuňák
+twentieth;dvacátý, dvacetina
+universe;vesmír, kosmos
+uprising;povstání, vzpoura
+vanilla;vanilka, vanilkový, obyčejný, tuctový, základní
+vegetable;zelenina
+volume;svazek, objem, hlasitost
+warning;varování, upozornění
+weatherman;meteorolog
+worthy;hodný, důstojný
+wrist;zápěstí

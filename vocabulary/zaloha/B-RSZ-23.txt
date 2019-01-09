@@ -1,0 +1,96 @@
+absolute;naprostý, úplný, absolutní
+administration;správa, administrativa
+alcohol;alkohol
+annual;roční, každoroční
+argue;hádat se, dohadovat se, přít se
+argument;argument, hádka, spor
+assure;ujistit
+automatic;automatický, samočinný
+avert;odvrátit
+balloon;balón, balónek
+bare;obnažit, holý, nahý
+bargain;smlouvat, dohadovat se, výhodná koupě
+biggest;největší
+bill;účet, faktura, zobák
+billionaire;miliardář
+boundary;hranice, mez
+budget;rozpočet, levný
+cabinet;skříň, skříňka, kabinet
+calm;klidný, poklidný, uklidnit, utišit
+citizen;občan
+communication;komunikace, spojení
+competence;kompetence, pravomoc
+congress;kongres, sjezd
+consume;spotřebovat, konzumovat
+convention;konvence, úmluva, zvyklost, sjezd, kongres
+cord;provázek, provaz, šňůra
+dealer;obchodník, překupník
+decay;hnít, rozkládat se, tlít
+decompose;rozkládat se, hnít, tlít
+deflect;odvrátit, odklonit, odrazit
+democrat;demokrat
+dispute;spor, přít se
+divert;odklonit, přesměrovat
+earnings;výdělek, výnos, příjem, mzda, zisk
+exceptional;mimořádný, výjimečný, vynikající
+excessive;nadměrný, přílišný, nepřiměřený, horentní, přemrštěný
+extend;prodloužit, natáhnout, protáhnout
+extraordinary;mimořádný, výjimečný, vynikající
+fake;falešný, nepravý, padělaný, podvrh, padělek, předstírat
+false;falešný, nepravý, nesprávný
+financial;finanční
+forge;padělat, kovat, kovárna, kout
+forged;padělaný, falešný
+frame;rám, rámeček, rámec, bouda, kostra
+gamble;hazard, risk, hrát, sázet, vsadit
+gambling;hazard
+gaze;civět, zírat
+household;domácnost
+humiliate;ponížit
+inability;neschopnost
+incompetence;neschopnost
+incorrect;nesprávný, chybný
+incorrectly;nesprávně, chybně
+instruct;nařídit, instruovat, školit
+internal;vnitřní, interní
+investigator;vyšetřovatel
+lengthten;prodloužit
+life;život, životní
+limit;limit, mez, omezení, omezit
+limitation;omezení
+line;čára, linie, linka, řada, provázek, provaz, šňůra, hláška
+locker;skříňka
+management;řízení, správa, vedení
+merchant;obchodník, kupec, obchodní
+navigator;navigátor
+negative;negativní, záporný, negativ
+nickname;přezdívka, přezdívat
+ongoing;probíhající
+outstanding;mimořádný, výjimečný, vynikající, nevyřízený, nezaplacený
+peer;civět, zírat, vrstevník
+pilot;pilot, pilotní
+precious;vzácný, cenný, drahý, milovaný
+preview;náhled, upoutávka
+profile;profil
+quarrel;hádka, hádat se
+reassure;ujistit
+reduction;snížení, redukce
+republican;republikán
+reroute;odklonit, přesměrovat
+restriction;omezení, restrikce
+robust;statný, odolný, robustní
+rot;hnít
+stagnant;stagnující
+store;sklad, skladiště, obchod, prodejna
+string;provázek, provaz, šňůra, řetěz, řetězec
+sturdy;statný, robustní, odolný
+suspect;podezřívat, podezřelý
+synthetic;syntetický, umělý
+teaser;hlavolam, upoutávka
+trader;obchodník
+trailer;upoutávka
+uncover;odkrýt, odhalit, obnažit
+unemployment;nezaměstnanost
+vital;nezbytný, životní, nepostradatelný
+wardrobe;skříň, šatník
+yearly;roční, každoroční

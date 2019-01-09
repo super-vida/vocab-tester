@@ -1,0 +1,109 @@
+achieve;dosáhnout, docílit
+again;znovu, opět
+agreement;dohoda, úmluva, smlouva, soulad, souhlas, ujednání
+announce;oznámit, zveřejnit, ohlásit, ohlašovat
+appear;zdát se, objevit se, vypadat, ukázat se
+attention;pozor, pozornost
+average;průměr, průměrný
+bedroom;ložnice
+belong;patřit, náležet
+birthday;narozeniny
+boil;vřít, vařit
+boring;nudný
+brave;udatný, odvážný, statečný
+careful;opatrný, pečlivý
+chance;šance, příležitost, náhoda
+choose;vybrat si, vybrat, zvolit si, zvolit
+clear;jasný, zřejmý
+climb;lézt, vylézt, stoupat, šplhat, výstup
+corner;roh, kout, koutek
+courage;odvaha, kuráž
+crazy;bláznivý, potrhlý, šílený
+device;zařízení, přístroj
+dig;kopat, hrabat, vykopat, milovat, žrát
+director;ředitel, režisér, vedoucí
+disappear;zmizet
+during;během, v průběhu
+earn;vydělat, zasloužit si
+either;buď, buďto
+entrance;vstup, vchod
+equal;stejný, rovný, rovnocenný
+estimate;odhadovat, odhad
+examine;prohlédnout si, vyzkoušet, prohlédnout, vyšetřit
+express;vyjádřit, výslovný
+fence;plot, oplocení, ohrada, šermovat
+flavour;příchuť, chuť
+fun;zábava, legrace
+gain;získat, nabýt, zisk
+glad;rád, potěšený
+green;zelený
+hard;tvrdý, pevný, obtížný, těžký
+have got;mít, vlastnit
+high;vysoký, vysoko
+hot;horký, rozpálený, skvělý, kradený, vyhlášený, fantastický, nejnovější, sexy, rajcovní
+huge;ohromný, obrovský
+hurt;zranit, bolet, poranit, poranit se, zraněný, ublížit
+idea;nápad, představa, myšlenka
+jail;vězení
+join;připojit se, spojit, spojit se
+key;klíč, klíčový
+lazy;líný, lenivý
+life;život, životní
+light;světlo, lehký, zapálit, světlý
+like;jako, mít rád
+lock;zamknout, uzamknout, zámek, lokna, kadeř
+lonely;osamělý, osamocený
+luck;štěstí
+lunch;oběd, obědvat
+mall;obchodní centrum, nákupní centrum
+meal;jídlo, pokrm
+mention;zmínit se, zmiňovat, zmínit
+moment;chvíle, okamžik, moment
+narrow;úzký, těsný, zúžit, zužovat se
+news;zprávy, novinky
+noisy;hlučný
+nowhere;nikde, nikam
+official;oficiální, úřední
+opportunity;příležitost, šance
+orange;oranžový, pomeranč
+outside;vnějšek, vně, venku
+path;cesta
+plane;letadlo
+please;prosím, potěšit, těšit
+popular;oblíbený, populární
+potato;brambor, brambora
+power;moc, síla, pravomoc
+profit;prospěch, zisk, profit, výnos
+prove;ukázat se, dokázat
+push;tlačit, strčit
+quarter;čtvrt, čtvrtina, čtvrť, čtvrtletí, kvartál
+quick;rychlý, rychle
+reply;odpovědět, odpověď
+ring;prsten, kruh, zvonit, zavolat
+roast;péct, upéct
+room;pokoj, místnost, prostor, místo
+say;říct, říci
+service;služba, servis, obsluha
+seven;sedm
+sharp;ostrý
+sorry;promiňte, pardon, ubohý
+step;krok, vkročit, schod, šlápnout
+stop;přestat, zanechat, zastavit, skončit, ustat, zastavit se
+suppose;předpokládat, myslet si, hádat
+talk;mluvit, povídat, povídat si
+then;tenkrát
+together;společně, spolu
+too;též, i, také, příliš
+tree;strom
+try;vyzkoušet, zkusit, pokusit se, pokus, snažit se
+two;dva, dvě
+unpleasant;nepříjemný
+useful;užitečný, praktický
+wait;čekat, počkat
+warn;varovat, upozornit
+water;voda
+wife;manželka, žena
+will;vůle, odhodlání
+wind;vítr
+wish;přání
+yet;ještě, dosud, už

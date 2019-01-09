@@ -1,0 +1,108 @@
+accuse;obvinit
+action;čin, akce, žaloba
+also;také, též
+although;ačkoliv, přestože, třebaže, i když
+among;mezi
+before;před
+behind;za
+between;mezi
+bite;kousnout, ukousnout, kousat, sousto, štvát
+bitter;hořký, trpký
+black;černý
+bring;přinést, přivézt
+case;případ, pouzdro, kufr
+centre;střed, centrum
+century;století
+concern;starost, obava
+connect;spojit, připojit, napojit, spojovat
+contain;obsahovat
+cook;uvařit, upéct, vařit, péct, kuchař
+cover;přikrývka, víko, krytí, přikrýt, úkryt, deka, pokrývat, krýt, pokrývka, krytka
+crime;zločin
+December;prosinec
+decorate;vyzdobit
+difficult;obtížný, těžký
+dirty;špinavý
+disadvantage;nevýhoda
+disease;nemoc, onemocnění, choroba
+draw;nakreslit, kreslit, tasit, remíza
+dress;oděv, šaty
+eat;jíst, sníst
+eighty;osmdesát
+even;vodorovný, vyrovnaný, sudý, dokonce, i
+evening;večer
+expensive;drahý
+experience;zkušenost, praxe, zažít, zážitek
+fall;padat, spadnout, podzim, vodopád, pád
+fifty;padesát
+finish;dokončit, dodělat, konec, závěr, skončit
+fire;oheň, požár, palba, vystřelit, střelit, střelba, propustit, vyhodit
+fix;upevnit, spravit, opravit, stanovit
+flat;byt, plochý
+floor;podlaha, podlaží, patro
+fog;mlha
+for;pro, k, na, protože
+force;donutit, síla, nutit
+ground;zem, podlaha, pozemní, území, základ
+guess;hádat, odhadovat, odhad, myslet si, předpokládat
+heal;zahojit se, vyléčit
+heavy;těžký
+immediately;okamžitě, ihned, hned, bezodkladně
+injure;poranit, zranit, poranit se
+insane;bláznivý, šílený, duševně chorý, nesmyslný
+little;malý, krátký, málo
+mad;šílený, potrhlý, naštvaný, rozzlobený, rozčilený
+matter;záležitost, věc, hmota, látka
+maybe;možná, snad
+measure;měřit, poměřovat, opatření, míra
+money;peníze
+most;většina, nanejvýš, nejvíce
+often;často
+once;jednou
+order;pořadí, pořádek, objednat, přikázat, nařídit, rozkaz, příkaz, objednávka
+party;slavit, oslava, strana, večírek
+perhaps;možná, snad
+pink;růžový, levičák, socan, bílej
+place;místo, náměstí, umístit, rozmístit
+plan;plán, naplánovat
+plant;rostlina, sázet, továrna, závod
+pleasure;potěšení, radost
+police;policie
+previous;předchozí, dřívější, předcházející
+price;cena, hodnota
+raise;zvednout, zvýšit
+rare;vzácný
+rate;rychlost, ohodnotit, sazba
+ready;připravený
+realise;uvědomovat si, uvědomit si, pochopit, chápat
+realize;uvědomovat si, uvědomit si, pochopit, chápat
+reasonable;rozumný
+recommend;doporučit
+remember;pamatovat si
+repeat;zopakovat, opakovat
+shake;třást, zatřást, otřes, třást se
+shape;podoba, tvar, forma
+shirt;košile, halenka
+sickness;nemoc, onemocnění, choroba, nevolnost
+skilled;šikovný, zručný, kvalifikovaný
+sleep;spát, spánek, spaní
+snow;sníh
+so;tedy, také, tak
+sometimes;někdy
+speak;mluvit
+specific;zvláštní, určitý
+spend;utratit
+suggestion;návrh
+suitcase;kufr
+Sunday;neděle
+support;podporovat, podpěra, podpora, podpořit
+thick;silný, tlustý, hloupý, natvrdlý, hustý
+though;ačkoliv, třebaže, i když
+time;načasovat, doba, čas
+trousers;kalhoty
+warm;teplý
+wear;nosit
+well;dobře, zdravý, studna
+woman;žena
+world;svět, zeměkoule
+wrap;balit, zabalit

@@ -1,0 +1,103 @@
+announce;oznámit, zveřejnit, ohlásit, ohlašovat
+appropriate;vhodný, příhodný
+blame;vinit, vina
+blind;slepý, nevidomý
+breach;porušení, porušit, trhlina
+bully;týrat, šikanovat
+bundle;balík, svazek
+campaign;kampaň
+casualty;oběť
+catalog;katalog
+catalogue;katalog
+cause;příčina, důvod, vyvolat, způsobit
+chain;řetěz, řetězec
+choir;sbor, chór
+circumstances;podmínky, okolnosti
+compensation;náhrada, odškodné, odškodnění
+conclude;uzavřít, usoudit
+condemn;odsoudit, zavrhnout
+conditions;podmínky, okolnosti
+considerably;značně
+contact;kontakt, kontaktovat, styk, dotyk
+convenient;vhodný, příhodný
+convention;konvence, úmluva, zvyklost, sjezd, kongres
+convict;odsoudit, trestanec
+criticize;kritizovat
+critique;kritika
+crucial;klíčový, zásadní
+custody;vazba
+damage;poškodit, poškození, škoda, újma
+define;stanovit, definovat
+diary;deník, diář
+discipline;disciplína, kázeň
+dreadful;otřesný, hrozný, strašný
+duty;služba, povinnost, clo
+emptiness;prázdnota
+episode;epizoda, díl
+erect;vztyčit, postavit, vzpřímený
+findings;zjištění, nález
+flag;vlajka, prapor
+fundamental;zásadní, základní
+generally;obecně
+greatly;velice, značně
+grief;smutek, zármutek, žal
+grieve;truchlit
+guilt;vina
+handcuffs;pouta
+handle;zvládnout, klika, držadlo, rukojeť, násada, zacházet
+humane;lidský, humánní
+humanity;lidstvo, lidskost
+ignore;ignorovat
+inflict;způsobit
+inhabit;obývat
+inhumane;nehumánní, nelidský
+inquire;ptát se, zeptat se, vyšetřovat
+inquiry;dotaz, otázka, vyšetřování
+insurgent;povstalec, vzbouřenec
+intercourse;styk, soulož
+interrogation;výslech
+intervene;zasáhnout, zakročit
+kick;kopnout
+knowledge;znalost, vědomost
+known;známý
+largely;převážně
+legal;právní
+loyalty;loajalita, oddanost, věrnost
+majority;většina
+mankind;lidstvo
+martial;válečný, bojový
+material;hmota, materiál, hmotný, materiální
+men;muži, mužstvo
+minimal;minimální
+mistreat;týrat, špatně zacházet
+mistreatment;týrání
+mob;dav, gang, banda
+mostly;převážně, hlavně
+multiple;mnohonásobný, mnohočetný, násobek
+obligation;povinnost, závazek
+occupied;obsazený
+outlaw;psanec
+perfect;bezvadný, dokonalý, perfektní
+perverse;zvrhlý, zvrácený, perverzní
+physical;tělesný, fyzický, hmotný, materiální
+pity;škoda, lítost, soucit
+prevent;předejít, zabránit
+procedure;postup, procedura
+programme;program, programovat
+properly;správně, pořádně
+query;dotaz, otázka, zeptat se, ptát se
+schedule;plán, rozvrh, harmonogram, program, naplánovat
+separate;oddělený, samostatný, oddělit
+shackles;pouta
+shame;stud, hanba, ostuda, škoda
+sorrow;smutek, zármutek, žal
+suitable;vhodný, příhodný
+tight;pevně, těsný, blízký, napjatý, opilý, přiléhavý
+tightly;těsně, pevně
+touch;dotknout se, dotyk, styk, sáhnout
+treaty;úmluva, dohoda, smlouva
+vacant;volný, prázdný
+violate;porušit
+violation;porušení, prohřešek
+void;prázdný, prázdnota
+volume;svazek, objem, hlasitost

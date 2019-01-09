@@ -1,0 +1,99 @@
+activity;činnost, aktivita
+adjoin;sousedit
+ahead;vpřed, vpředu
+ambition;ambice
+approval;souhlas, uznání
+border;hranice, hraničit
+carefully;opatrně
+chart;graf, schéma, diagram, zmapovat, mapa
+charter;charta, listina, charterový let, speciál
+club;klacek, klub, hůl, kyj, spolek
+coach;kouč, trenér, trénovat, autobus
+coherent;koherentní
+colony;kolonie
+commercial;komerční, reklama, obchodní
+composite;složený
+condolence;soustrast, kondolence
+condolences;soustrast, kondolence
+consult;konzultovat, poradit se
+consultation;porada, konzultace
+currently;momentálně, v současnosti
+czech;český, čeština, Čech
+deep;hluboký
+defence;obrana, obhajoba, ochrana
+degradation;ponížení, degradace, úpadek
+design;navrhnout, design, návrh, plán, nákres
+desperately;zoufale
+diagram;diagram, schéma
+disaster;neštěstí, pohroma, katastrofa
+disfavor;nemilost, nepřízeň
+disfavour;nemilost, nepřízeň
+disgrace;hanba, ostuda, nemilost, nepřízeň
+doctor;doktor, lékař
+ecological;ekologický
+ecosystem;ekosystém
+electricity;elektřina
+element;prvek
+energy;energie
+enormous;enormní, ohromný, obrovský
+era;éra, období
+european;evropský, Evropan
+exchange;vyměnit, směnit, výměna
+extent;rozsah, dosah
+fan;fanda, fanoušek
+feature;rys, znak, prvek
+flame;plamen
+flexibility;pružnost, ohebnost
+fold;přeložit, složit, ohyb, záhyb
+fully;zcela, úplně
+gather;shromáždit, shromáždit se
+glacial;ledovcový, ledový
+graph;graf
+gravity;gravitace, přitažlivost, závažnost
+height;výška
+hidden;schovaný, skrytý
+hockey;hokej
+honour;čest, pocta, vyznamenání, uctívat, ctít
+humiliation;ponížení
+ice;led, ledový, zmrzlina
+idol;idol
+jet;letadlo, tryskáč, tryska
+kilometre;kilometr
+kindergarten;školka
+marine;mariňák, loďstvo, mořský, námořní, lodní
+mile;míle
+mineral;minerál, minerální, nerost, nerostný
+natural;přírodní, přirozený, normální
+navy;loďstvo, námořnictvo
+nearby;blízko, blízký, nedaleký, nedaleko, poblíž
+nursery;jesle, školka
+overwhelming;ohromný, nesmírný
+passenger;cestující, pasažér
+pit;díra, jáma, propast, šachta
+player;hráč
+policeman;policista
+preschool;školka
+radio;rádio, rozhlas, vysílačka
+recover;zotavit se, uzdravit se
+rename;přejmenovat
+replica;replika, kopie
+resident;obyvatel
+respect;respekt, úcta, ohled, zřetel, dodržovat
+safety;bezpečnost
+scheme;schéma, intriky, intrikovat
+sea;moře, mořský
+seat;sedadlo, sídlo
+shortly;stručně, zanedlouho, brzy
+silence;ticho, umlčet
+similar;podobný
+song;píseň, písnička
+stadium;stadion, stadium
+storey;podlaží, patro
+surgery;operace, chirurgie, chirurgický zákrok
+survivor;přeživší
+sympathy;soucit, soustrast, souhlas
+tragedy;tragédie, neštěstí, katastrofa
+western;západní
+wreck;vrak, trosky, zničit
+wreckage;vrak, trosky
+wrong;špatný, nesprávný

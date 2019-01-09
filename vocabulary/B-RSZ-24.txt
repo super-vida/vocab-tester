@@ -1,0 +1,88 @@
+act;jednat, konat, činit, čin, hrát, předstírat, dějství, jednání, chovat se
+adequate;dostatečný, adekvátní, přiměřený
+ascend;stoupat
+Asian;asijský
+asian;asijský, asiat
+assurance;jistota, ujištění, příslib, slib
+asylum;útočiště, azyl, útulek, úkryt
+authorize;povolit, schválit, oprávnit
+bet;vsadit, sázet, vsadit se, sázka
+boathouse;loděnice
+call;nazývat, volat, zavolat, výzva, svolat, nazvat, pojmenovat, hovor
+capability;schopnost
+certainty;jistota
+climb;stoupat
+compass;kompas
+conference;konference, kongres
+construction;konstrukce, montáž, stavba
+contour;kontura
+cosmonaut;astronaut, kosmonaut
+cover;krýt, přikrýt, pokrývka, pokrývat, víko, úkryt, deka, přikrývka, krytí, krytka
+debate;debata, rozprava, diskuse
+delight;potěšení, radost
+descent;klesání, sestup, úpadek
+design;navrhnout, design, návrh, plán, nákres
+desire;touha, toužit, dychtit
+destructive;destruktivní, ničivý
+discount;sleva, zlevnit, rabat
+discussion;rozprava, diskuse, debata
+distribute;distribuovat, roznášet, rozvážet, rozmístit
+dock;dok, loděnice, přístav
+drawing;kresba, nákres, výkres, plán
+employment;zaměstnanost, zaměstnání
+enable;umožnit, oprávnit
+essential;zásadní, základní, nezbytný, hlavní, nepostradatelný
+fairness;spravedlnost
+federal;federální
+float;plavat, plovat, vznášet se, plout
+frankly;upřímně, přímo
+gamble;hazard, risk, hrát, sázet, vsadit
+harbor;ukrývat, skrývat, přístav
+harbour;přístav, ukrývat, skrývat
+historian;historik, dějepisec
+honestly;poctivě, čestně
+increase;zvýšit, zvýšení, vzestup
+indeed;opravdu, vskutku, skutečně
+insignificant;nedůležitý, bezvýznamný, nepodstatný
+invade;vpadnout, vtrhnout
+long;dlouhý, dlouho, toužit, dychtit
+loot;rabovat, drancovat, plenit, kořist, prachy
+name;jméno, nazvat, pojmenovat, název
+occupation;okupace, zaměstnání, povolání
+oppose;oponovat, odporovat
+organized;organizovaný
+outline;koncept, silueta, obrys, kontura, načrtnout, nastínit
+partial;částečný
+payment;platba, úhrada
+penalty;penalta, trest, postih
+place;náměstí, místo, umístit, rozmístit
+politician;politik
+port;levobok, přístav
+portrait;portrét
+provoke;provokovat, vyprovokovat, vyvolat
+radically;zásadně, radikálně
+raid;nájezd, přepadnout, vpadnout, razie, vtrhnout, zátah
+really;doopravdy, opravdu, vážně, vskutku, skutečně
+recognition;rozpoznání, uznání
+recognize;poznat, rozpoznat, uznávat
+refuge;útočiště, úkryt, útulek
+regularly;pravidelně
+rise;povstat, stoupání, zvednout se, stoupat, vstát, vzestup
+riverbank;nábřeží
+sail;plavit se, plachta, plavba, plout
+sanction;sankce, schválit, svolit, postih
+shelter;úkryt, útulek, přístřešek
+shipyard;loděnice
+silhouette;silueta
+sincerely;upřímně
+spaceman;astronaut, kosmonaut
+supply;dodávat, zásobovat, zásoba, nabídka
+surface;povrch, hladina, plocha, vynořit se
+truly;vskutku, skutečně, upřímně
+unimportant;nedůležitý, bezvýznamný, nepodstatný
+untold;nevyřčený, nevýslovný
+variety;různorodost, rozmanitost, typ, odrůda, druh
+verdict;rozsudek, verdikt
+wager;sázka, sázet, vsadit
+waterfront;nábřeží
+worth;cena

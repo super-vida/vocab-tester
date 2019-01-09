@@ -1,0 +1,106 @@
+Africian;Afričan, africký
+alive;naživu, živý
+amnesty;amnestie, milost
+application;žádost, přihláška, aplikace
+approach;přístup, přiblížit se, oslovit
+ask;ptát se, žádat, zeptat se, požádat, prosit
+assault;útok, útočný, napadnout, útočit, zaútočit, přepadení
+asset;majetek, přínos
+atrocity;krutost, zvěrstvo
+attach;připevnit, připojit, upevnit, přiložit, nasadit
+attacker;útočník
+ban;zakázat, zákaz
+biology;biologie
+blindness;slepota
+bullet;kulka, střela, náboj
+bump;vrazit, narazit
+captivity;zajetí, věznění
+cease;přestat, ustat
+cell;buňka, cela
+civilian;civilista, civilní
+clone;klon, klonovat
+closely;těsně
+colourful;barevný, pestrý, pestrobarevný
+combination;kombinace, spojení, propojení
+confirmation;potvrzení
+consist;skládat se, sestávat
+coordination;koordinace
+crackdown;zásah, zátah
+criticism;kritika
+date;datum, termín, rande, schůzka, datovat
+deadly;smrtelný, smrtící
+death;smrt
+detail;detail, podrobnost, popsat
+detain;zadržet
+detainee;zadržený
+detention;vazba, věznění
+engulf;pohltit, zachvátit
+enhance;zlepšit, vylepšit
+entity;entita
+explosive;výbušnina, trhavina
+federation;federace
+flow;proudit, téci, proud, tok, téct
+gun;puška, střelná zbraň, pistole
+gunfire;palba, střelba
+highlight;melír, zdůraznit, poukázat, hlavní zpráva
+holy;svatý, posvátný
+immediate;okamžitý
+incident;incident, případ
+invalid;neplatný, invalida
+league;liga, spolek
+mark;známka, značit, znak, značka, označit
+medical;lékařský, zdravotní
+meeting;mítink, schůze, porada, setkání, zasedání
+militant;ozbrojenec, bojovný, militantní
+ministry;ministerstvo
+mission;mise, úkol, poslání
+negotiation;jednání, vyjednávání
+normally;normálně, obvykle
+observatory;pozorovatelna, hvězdárna, observatoř
+operation;akce, operace, chod, provoz
+organization;organizace
+partnership;partnerství, spolupráce
+peaceful;mírový, pokojný
+power;moc, síla, pravomoc
+prisoner;vězeň, trestanec
+province;provincie
+publicly;veřejně
+pursue;pronásledovat, věnovat se, stíhat, snažit se
+quote;citát, nabídka
+quotes;uvozovky
+real;skutečný, pravý, opravdový
+regime;režim, životospráva
+reject;odmítnout, zmetek
+residential;bytový, obytný
+restrict;omezit
+review;posoudit, recenze, posouzení, zhodnocení, kritika, recenzovat, zopakovat si, zkontrolovat
+rifle;puška
+sacred;svatý, posvátný
+sanction;sankce, schválit, svolit, postih
+scoundrel;lotr, darebák
+seize;popadnout, chytit, zabavit, uchvátit, zkonfiskovat
+self-control;sebekontrola
+separately;odděleně
+shell;škeble, skořápka, ulita, mušle, náboj, patrona, granát, lastura, krunýř
+snaky;hadí
+spokesman;mluvčí
+spokeswoman;mluvčí
+spray;sprška, sprej, rozprašovač
+stamp;známka, razítko
+stolen;kradený
+supplies;zásoby
+table;stůl, stolek, tabule
+tank;tank, nádrž, lapák, basa
+target;cíl, zaměřit se, terč
+terrorist;terorista
+topic;téma, námět
+torture;týrání, mučení, mučit, týrat
+treatment;léčba, ošetření, úprava, léčení
+truck;nákladní vagón, kamión, náklaďák
+unilateral;jednostranný
+valid;platný
+violence;násilí
+volume;svazek, objem, hlasitost
+waste;mrhat, odpad, plýtvat
+welcome;uvítání, vítat
+wire;drát

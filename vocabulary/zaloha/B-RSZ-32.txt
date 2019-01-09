@@ -1,0 +1,125 @@
+aeroplane;letadlo
+affection;náklonnost, láska
+airplane;letadlo
+almighty;všemohoucí, všemocný, ohromný
+aluminium;hliník
+aluminum;hliník
+aroma;aroma, vůně
+backwards;dozadu
+beggar;žebrák
+billiards;kulečník
+biscuit;sušenka, suchar
+bizarre;bizarní, divný
+boiler;bojler, kotel
+boot;bota, kufr, vykopnout
+cake;koláč, dort
+can;moci, umět, moct, konzerva, plechovka, toaleta, basa, lapák, loch, zadek
+check;účet
+cheesy;sýrový, aušusový, trapný, laciný, neupřímný
+chick;kuřátko, ptáče, kost, kotě
+clan;klan, rod
+climb;lézt, vylézt, stoupat, šplhat, výstup
+contemporary;současný, soudobý
+continent;světadíl, kontinent
+cookie;sušenka
+cool;chladný, studený, vychladnout, super, skvělý, bezva, hustý
+crawl;plazit se, lézt, kraul
+creep;lézt, úchyl, plížit se, patolízal, plazit se
+delicious;lahodný, chutný
+deranged;šílený, vyšinutý
+deviant;deviant, úchyl
+doubt;pochybovat
+drug addict;narkoman
+drugstore;lékárna
+dull;nudný, hloupý, tupý, nezáživný
+dynasty;rod, dynastie
+easily;snadno
+endeavor;úsilí, snaha
+endeavour;snaha, úsilí
+entry;záznam, vstup, zápis, položka, vchod
+eraser;guma
+evil;zlý, zlo
+evolution;vývoj, evoluce
+family;rodina, rod, příbuzní, příbuzenstvo
+fashion;móda, módní
+flee;uprchnout, utéct, prchat, utíkat
+flood;záplava, potopa, povodeň
+follow;následovat, sledovat, řídit se
+forecast;předpověď, předpovědět, předpovídat, prognóza
+forge;padělat, kovat, kovárna, kout
+fruity;ovocný, teplý, oplzlý, přihřátý, bláznivý
+fry;smažit, potěr, spálit
+gesture;gesto
+greatness;důležitost, velikost, význam
+harm;ublížit, poškodit, škoda, újma
+hot dog;párek v rohlíku
+hotdog;párek v rohlíku
+hue;odstín
+idle;lenivý, nečinný
+illustration;ukázka, ilustrace
+importance;význam, důležitost, významnost
+inactive;nečinný
+instructor;instruktor, školitel
+jacket;bunda
+joke;vtip, žert
+lace;tkanička, zavázat si, zavázat
+lacing;tkanička, výprask
+land;zem, půda, země, přistát, pozemek, pevnina
+leap;skákat, skok, skočit, vyskočit
+licence;povolení, licence
+market;trh, tržiště, tržnice, tržní
+marketplace;tržiště, trh, tržnice
+mart;tržnice, tržiště, trh
+marvellous;úžasný, báječný
+mediocre;průměrný
+minuscule;nepatrný, maličký
+miserable;ubohý, nešťastný
+missing;chybějící
+mix-up;zmatek, přehmat
+monster;příšera, nestvůra, obluda, zrůda
+moustache;knír
+needed;potřebný
+oath;přísaha, slib
+pajamas;pyžamo
+parasite;parazit, cizopasník, příživník
+pervert;zvrhlík, úchyl
+pharmacy;lékárna
+pie;koláč, dort
+pole;hůl, tyč, stožár, sloup, kůl, pól
+pony;poník, tahák
+pool;bazén, louže, kulečník
+pornography;pornografie
+purpose;záměr
+pyjamas;pyžamo
+qualified;kvalifikovaný
+rubber;guma
+rule;pravidlo, předpis, vládnout, válet, být nejlepší, být boží
+rundown;zchátralý, rozpadlý, utahaný
+sack;pytel, vak, vyhodit, propustit, vyhazov
+sad;smutný, nešťastný
+scope;rozsah, rámec
+sea lion;lachtan
+seal;pečeť, tuleň, zapečetit, lachtan
+sensational;senzační
+shade;odstín
+significance;důležitost, význam, významnost
+skilled;šikovný, zručný, kvalifikovaný
+sled;sáně, sáňky, sáňkovat
+sledge;sáně, sáňky, sáňkovat
+sniper;ostřelovač, odstřelovač
+splendid;skvělý, báječný
+spouse;choť, manžel, žena, muž, manželka
+spring;jaro, pružina, vyskočit
+staff;berla, notová osnova, hůl, personál
+struggle;usilovat, zápas, zápasit
+swear;přísahat, nadávat, klít
+taste;chuť, ochutnat
+tennis shoes;tenisky
+tin;konzerva, plechovka, cín, cínový
+trained;trénovaný, vyškolený, kvalifikovaný
+trainer;trenér
+trainers;tenisky
+unhappy;nešťastný, smutný
+urge;naléhat
+voice;hlas, vyjádřit
+written;psaný, písemný

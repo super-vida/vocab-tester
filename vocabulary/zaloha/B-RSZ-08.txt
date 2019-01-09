@@ -1,0 +1,135 @@
+ambitious;ctižádostivý, ambiciózní
+ancestor;předek
+angle;úhel
+apathy;apatie, netečnost, otupělost
+ape;opice, lidoop, hovado
+aristocrat;aristokrat, šlechtic
+armpit;podpaží
+arrogant;arogantní
+assessment;hodnocení, posouzení, odhad, posudek, zhodnocení, vyhodnocení
+attraction;přitažlivost
+backbone;páteř
+baptism;křest, křtiny
+beaver;bobr
+bloom;kvést, květ
+bond;slepit, pouto, svazek, vazba, dluhopis
+breeze;vánek, vanout, větřík, brnkačka, hračka
+burn;pálit, shořet, hořet, popálenina, spálit
+butterfly;motýl
+button;tlačítko
+cane;rákos
+chalk;křída
+cliff;útes, skála
+coal;uhlí
+cobra;kobra
+comet;kometa
+cone;kužel, šiška
+crayfish;rak
+crow;vrána, kokrhat
+cruel;krutý
+cylinder;válec
+defend;bránit, chránit, hájit, obhajovat
+delicacy;lahůdka, jemnost, šetrnost
+divorce;rozvod
+dolphin;delfín
+drill;vrtačka, vrtat, rutina, zavedený postup
+egg;vejce
+emperor;císař
+engagement;zásnuby, závazek
+enthusiastic;nadšený
+essence;esence, podstata, základ
+evil;zlý, zlo
+faint;omdlít
+fair;spravedlivý, dobrý, fér, krásný, výstava, veletrh
+faithful;věrný, loajální
+falcon;sokol
+flood;povodeň, potopa, záplava
+florist;květinář
+forearm;předloktí
+forsake;opustit, zanechat, zříct se
+friendly;přátelský, milý, kamarádský
+frozen;zmrzlý
+fur;srst
+gentle;něžný, šetrný, mírný
+germ;bakterie, mikrob
+glamour;kouzlo, půvab
+globe;glóbus, zeměkoule
+gnat;komár
+grind;brousit, mlít, šprt, dřít, rutina, nuda, dřina
+ground;zem, podlaha, území, pozemní, základ
+gunpowder;střelný prach
+harm;ublížit, poškodit, škoda, újma
+hawk;jestřáb
+hazelnut;lískový ořech, oříškový
+heel;pata, podpatek
+honest;čestný, poctivý
+honeymoon;svatební cesta, líbánky
+incaution;nepozornost
+inconsiderate;bezohledný
+inlaid;vykládaný
+irresolute;nerozhodný, váhavý
+irritating;dráždivý, protivný, otravný
+kidney;ledvina
+lake;jezero
+lightness;světlost, světelnost, jasnost
+marble;mramor, kulička
+marriage;svatba, manželství
+means;prostředky
+middle;střed, střední, prostřední, prostředek
+mill;mlít, mlýn
+noble;šlechtic, ušlechtilý, urozený
+oath;přísaha, slib
+octopus;chobotnice
+panther;panter, levhart
+paralysis;paralýza, ochrnutí, obrna
+pear;hruška
+petal;okvětní lístek
+pill;prášek, tabletka, pilulka
+pond;rybník, jezírko
+prejudice;předpojatost, předsudky, zaujatost
+prism;hranol
+pry bar;páčidlo
+pup;štěně
+purity;čistota, čirost, neposkvrněnost
+ratio;poměr
+relationship;vztah
+relative;příbuzný, relativní
+sand;písek
+satellite;družice, satelit
+seagull;racek
+seal;tuleň, lachtan, pečeť, zapečetit
+see;vidět, uvidět, spatřit, rozumět
+series;řada, série, seriál, řetězec
+shark;žralok
+shovel;lopata, lopatka
+sibling;sourozenec
+skeleton;kostlivec, chcípák, vyžle, kostra
+snowstorm;sněžná bouře
+solar;sluneční
+sole;podrážka, výhradní, výluční, chodidlo
+spare;náhradní, přebytečný, nadbytečný
+sparing;šetrný
+spin;rotace, točit se, otáčet se
+spine;páteř, hřbet
+spit;plivat, slina
+spring;jaro, pružina, vyskočit
+stab;bodnout, pobodat
+stork;čáp
+storm;bouře, bouřka
+stride;kráčet
+stub;pahýl, pařez
+sunflower;slunečnice
+tangerine;mandarinka
+thigh;stehno
+tiger;tygr
+tip;špička, hrot, tip, rada, spropitné
+twelfth;dvanáctý
+unconscious;v bezvědomí, bezvědomý
+unconsciousness;bezvědomí
+understand;rozumět, pochopit, chápat
+upright;vzpřímený, kolmý
+vulture;sup
+waist;pas, opasek
+widowed;ovdovělý
+windstorm;vichřice
+worse;horší

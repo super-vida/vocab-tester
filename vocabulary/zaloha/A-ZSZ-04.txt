@@ -1,0 +1,109 @@
+above;nad, výše
+account;účet, konto
+active;aktivní, činný
+after;po, potom
+afternoon;odpoledne
+agree;souhlasit, svolit
+alone;sám, samotný, osamělý
+also;také, též
+anybody;někdo, kdokoliv
+bank;banka, břeh
+beat;bít, zbít, mlátit, předstihnout, unavený
+beware;pozor
+bored;znuděný
+both;oba, obě
+breathe;dýchat, vanout, vát
+bridge;most
+building;stavba, budova
+busy;zaneprázdněný
+capable;schopný
+care;starat se, péče, pečovat, opatrnost
+change;změna, změnit, změnit se, střídat, převléknout se, přestoupit, drobné
+chase;pronásledovat, hon, lov, lovit, honit
+close;zavřít, uzavřít, blízký, těsně
+company;společnost, podnik, firma, podnikový, firemní
+complete;naprostý, úplný, dokončit, dodělat
+computer;počítač
+concern;starost, obava
+confess;přiznat, přiznat se
+confirm;potvrdit, ověřit
+cry;plakat, brečet, křičet, volat, výkřik
+dare;troufat si
+deposit;uložit, záloha, naleziště, vklad
+discover;objevit, odhalit
+do;udělat, dělat, činit, učinit
+ever;někdy, vždycky
+everyone;každý, všichni
+examination;zkouška, vyšetření, prohlídka
+eye;oko
+feel;cítit se, pocítit, cítit
+fine;kvalitní, pokuta, pěkný, jemný, dobrý, drobný
+fire;oheň, požár, palba, vystřelit, střelit, střelba, propustit, vyhodit
+first;první, nejprve
+fit;záchvat, zdravý, fit, v kondici, pasovat
+foreign;zahraniční, cizí
+from;z, od
+general;generál, celkový, obecný
+good;dobrý, dobře, hodný, kvalitní
+great;velký, skvělý, úžasný, skvěle
+guitar;kytara
+happen;stát se, přihodit se
+hide;skrýt se, zatajit, schovat, skrýt
+house;dům, domek, rod
+important;důležitý, významný
+impression;dojem
+inform;oznámit, informovat
+injury;zranění, poranění
+listen;poslouchat
+man;člověk, muž
+march;březen
+mention;zmínit se, zmiňovat, zmínit
+million;milión
+mistake;omyl, chyba, zaměnit, splést si
+morning;ráno, dopoledne
+much;velmi, hodně, moc, mnoho
+music;hudba, muzika
+never;nikdy
+nothing;nic
+odd;lichý
+parent;rodič
+part;část, kus, díl, součást, součástka
+people;lidé, národ, lid
+perhaps;možná, snad
+person;osoba, člověk
+poor;chudý, chabý, ubohý
+postpone;odložit, oddálit
+practice;praxe, postup, cvičení, trénink
+prepare;připravit
+prison;vězení
+read;přečíst, číst, načíst
+recent;nedávný, poslední
+report;oznámit, ohlásit, nahlásit
+rest;zbytek, odpočívat, odpočinek
+ride;jet, jezdit, kára, auťák, svezení
+rose;růže, růžový
+run;běžet, utíkat, běh, průběh, chod, vést
+salary;plat, mzda, výdělek
+same;stejný, shodný
+satisfied;spokojený
+see;vidět, uvidět, spatřit, rozumět
+short;krátký, malý, nakrátko
+soon;brzy, zanedlouho
+success;úspěch
+surround;obklopit, obehnat, obklíčit
+task;úkol, úloha
+tea;čaj
+thirteen;třináct
+those;tamty, tamti
+till;dokud, do
+ugly;ošklivý, odporný, ohavný
+until;dokud, do
+varied;pestrý, rozmanitý, různorodý
+various;různý
+view;stanovisko, názor, prohlédnout si, nahlížet, pohled, výhled
+visit;navštívit, návštěva, navštěvovat
+wage;mzda, plat
+walk;chodit, jít, procházka
+weather;počasí
+wednesday;středa
+win;vyhrát, zvítězit, vítězství
