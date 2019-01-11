@@ -11,7 +11,7 @@
       <property name="javax.persistence.jdbc.url" value="jdbc:sqlite:vocab.sqlite" />
       <property name="javax.persistence.jdbc.user" value="" />
       <property name="javax.persistence.jdbc.password" value="" />
-      <property name="hibernate.show_sql" value="true" />
+      <property name="hibernate.show_sql" value="false" />
       <property name="format_sql" value="true" />
       <property name="hibernate.dialect" value="com.enigmabridge.hibernate.dialect.SQLiteDialect" />
     </properties>
