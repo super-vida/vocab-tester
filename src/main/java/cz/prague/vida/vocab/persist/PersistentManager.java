@@ -3,6 +3,7 @@ package cz.prague.vida.vocab.persist;
 import static cz.prague.vida.vocab.VocabLogger.LOGGER;
 
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 import java.util.logging.Level;
@@ -393,6 +394,28 @@ public class PersistentManager {
 			q.setParameter("date", date);
 			q.executeUpdate();
 			em.getTransaction().commit();
+		}
+		catch (PersistenceException e) {
+			LOGGER.log(Level.SEVERE, "error", e);
+			em.getTransaction().rollback();
+		}
+		finally {
+			em.close();
+		}
+
+	}
+	
+	public void updateOldLessons() {
+		EntityManager em = getEntityManager();
+		try {
+			em.getTransaction().begin();
+			Query q = em.createNamedQuery(Lesson.QUERY_UPDATE_OLD_LESSONS);
+			Calendar cal = Calendar.getInstance();
+			cal.add(Calendar.DAY_OF_YEAR, -90);
+			q.setParameter("time", cal.getTime());
+			int updated = q.executeUpdate();
+			em.getTransaction().commit();
+			LOGGER.log(Level.INFO, "Updated old lessons :" + updated);
 		}
 		catch (PersistenceException e) {
 			LOGGER.log(Level.SEVERE, "error", e);

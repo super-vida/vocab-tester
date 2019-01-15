@@ -121,7 +121,7 @@ public class VocabController implements Initializable {
 		checkCorrectCountColumn.setCellValueFactory(new PropertyValueFactory<LessonCheck, String>("correctCount"));
 		checkPercentColumn.setCellValueFactory(new PropertyValueFactory<LessonCheck, String>("percentage"));
 		checkDurationtColumn.setCellValueFactory(new PropertyValueFactory<LessonCheck, String>("durationFormated"));
-
+		PersistentManager.getInstance().updateOldLessons();
 		refreshLessons();
 		List<LessonGroup> lessonGroups = PersistentManager.getInstance().getAllLessonGroups();
 		List<Object> groupNames = new ArrayList<>();
@@ -165,7 +165,7 @@ public class VocabController implements Initializable {
 
 	private Text getTestText() {
 		Text text = new Text(standardTestMode ? vocabHolder.getCurrentTestWord().getWord1().getText() : vocabHolder.getCurrentTestWord().getWord2().getText());
-		text.setFont(Font.font(25));
+		text.setFont(Font.font(19));
 		text.setFill(javafx.scene.paint.Color.BLUE);
 		return text;
 	}

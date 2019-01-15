@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.FlowPane?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.prague.vida.vocab.VocabController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.prague.vida.vocab.VocabController">
 
 		<top>
 				<MenuBar layoutY="-1.0" prefHeight="30.0" prefWidth="858.0">
@@ -67,20 +67,21 @@
 						<children>
 								<VBox alignment="TOP_CENTER" prefHeight="300.0" prefWidth="630.0" spacing="20.0">
 										<children>
-												<!-- TextArea fx:id="labelTestWord" editable="false" prefHeight="300" style="-fx-text-fill: blue; -fx-text-alignment: center;" stylesheets="@vocab.css" wrapText="true"> <font> <Font size="25.0" /> </font> </TextArea -->
-												<TextFlow fx:id="labelTestWord" style="-fx-text-fill: blue;" textAlignment="CENTER">
+												<!-- TextArea fx:id="labelTestWord" editable="false" prefHeight="300" style="-fx-text-fill: blue; -fx-text-alignment: center;" stylesheets="@vocab.css" wrapText="true"> <font> <Font size="16.0" /> </font> </TextArea -->
+												<TextFlow fx:id="labelTestWord" style="-fx-text-fill: blue" textAlignment="CENTER">
 														<VBox.margin>
 																<Insets />
 														</VBox.margin>
+                           
 												</TextFlow>
 												<Label fx:id="labelResult" style="-fx-text-fill:green">
 														<font>
-																<Font size="25.0" />
+																<Font size="16.0" />
 														</font>
 												</Label>
 												<TextField fx:id="textFieldTranslation" alignment="CENTER" onKeyReleased="#textFieldTranslationKeyReleased" promptText="překlad">
 														<font>
-																<Font size="25.0" />
+																<Font size="16.0" />
 														</font>
 														<VBox.margin>
 																<Insets left="60.0" right="60.0" />
@@ -90,20 +91,20 @@
 
 												<GridPane alignment="CENTER" hgap="10.0">
 														<children>
-																<Label style="-fx-text-fill: black;-fx-font-size:16" text="Celkový počet slovíček v lekci:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
-																<Label fx:id="lessonTotalCountLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-																<Label style="-fx-text-fill: black;-fx-font-size:16" text="Zodpovězeno správně v tomto testu:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
-																<Label fx:id="lessonTotalCorrectLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-																<Label style="-fx-text-fill: black;-fx-font-size:16" text="Úspěšnost slovíčka v tomto testu:" GridPane.columnIndex="0" GridPane.rowIndex="3" />
-																<Label fx:id="wordLessonLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="3" />
-																<Label style="-fx-text-fill: black;-fx-font-size:16" text="Celkový počet úspěšných odpovědí z historie:" GridPane.columnIndex="0" GridPane.rowIndex="4" />
-																<Label fx:id="wordTotalCorrectLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="4" />
-																<Label style="-fx-text-fill: black;-fx-font-size:16" text="Celkový počet neúspěšných odpovědí z historie:" GridPane.columnIndex="0" GridPane.rowIndex="5" />
-																<Label fx:id="wordTotalIncorrectLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="5" />
-																<Label style="-fx-text-fill: black;-fx-font-size:16" text="Čas poslední úspěšné odpovědi:" GridPane.columnIndex="0" GridPane.rowIndex="6" />
-																<Label fx:id="lastCorrectAnswerLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="6" />
-																<Label style="-fx-text-fill: black;-fx-font-size:16" text="Čas poslední neúspěšné odpovědi:" GridPane.columnIndex="0" GridPane.rowIndex="7" />
-																<Label fx:id="lastIncorrectAnswerLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+																<Label style="-fx-text-fill: black;-fx-font-size:12" text="Celkový počet slovíček v lekci:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+																<Label fx:id="lessonTotalCountLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+																<Label style="-fx-text-fill: black;-fx-font-size:12" text="Zodpovězeno správně v tomto testu:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+																<Label fx:id="lessonTotalCorrectLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+																<Label style="-fx-text-fill: black;-fx-font-size:12" text="Úspěšnost slovíčka v tomto testu:" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+																<Label fx:id="wordLessonLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+																<Label style="-fx-text-fill: black;-fx-font-size:12" text="Celkový počet úspěšných odpovědí z historie:" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+																<Label fx:id="wordTotalCorrectLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+																<Label style="-fx-text-fill: black;-fx-font-size:12" text="Celkový počet neúspěšných odpovědí z historie:" GridPane.columnIndex="0" GridPane.rowIndex="5" />
+																<Label fx:id="wordTotalIncorrectLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+																<Label style="-fx-text-fill: black;-fx-font-size:12" text="Čas poslední úspěšné odpovědi:" GridPane.columnIndex="0" GridPane.rowIndex="6" />
+																<Label fx:id="lastCorrectAnswerLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+																<Label style="-fx-text-fill: black;-fx-font-size:12" text="Čas poslední neúspěšné odpovědi:" GridPane.columnIndex="0" GridPane.rowIndex="7" />
+																<Label fx:id="lastIncorrectAnswerLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="7" />
 														</children>
 														<columnConstraints>
 																<ColumnConstraints />
@@ -125,10 +126,10 @@
 												</GridPane>
 										</children>
 										<VBox.margin>
-												<Insets bottom="30.0" top="50.0" />
+												<Insets bottom="20.0" top="20.0" />
 										</VBox.margin>
 								</VBox>
-								<TableView fx:id="lessonCheckTableView" prefHeight="500.0" prefWidth="200.0">
+								<TableView fx:id="lessonCheckTableView" prefHeight="500.0"  minHeight="90.0" prefWidth="200.0" minWidth="200.0">
 										<columns>
 												<TableColumn fx:id="checkTimeColumn" prefWidth="130.0" style="-fx-alignment: CENTER;" text="Čas přezkoušení" />
 												<TableColumn fx:id="checkTotalCountColumn" prefWidth="130.0" style="-fx-alignment: CENTER;" text="Celkem slovíček" />
@@ -139,14 +140,14 @@
 								</TableView>
 								<GridPane alignment="BOTTOM_CENTER" hgap="10.0">
 										<children>
-												<Label style="-fx-text-fill: black;-fx-font-size:16" text="Počet lekcí:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
-												<Label fx:id="lessonCountLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-												<Label style="-fx-text-fill: black;-fx-font-size:16" text="Celkový počet slovíček ve slovníku:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
-												<Label fx:id="wordTotalVocabularyLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-												<Label style="-fx-text-fill: black;-fx-font-size:16" text="Počet unikátních slovíček ve slovníku:" GridPane.columnIndex="0" GridPane.rowIndex="3" />
-												<Label fx:id="wordTotalDistincVocabularyLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="3" />
-												<Label style="-fx-text-fill: black;-fx-font-size:16" text="Celkový počet naučených slovíček ze slovníku:" GridPane.columnIndex="0" GridPane.rowIndex="4" />
-												<Label fx:id="wordTotalVocabularyCorrectLabel" style="-fx-font-size:16" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+												<Label style="-fx-text-fill: black;-fx-font-size:12" text="Počet lekcí:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+												<Label fx:id="lessonCountLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+												<Label style="-fx-text-fill: black;-fx-font-size:12" text="Celkový počet slovíček ve slovníku:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+												<Label fx:id="wordTotalVocabularyLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+												<Label style="-fx-text-fill: black;-fx-font-size:12" text="Počet unikátních slovíček ve slovníku:" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+												<Label fx:id="wordTotalDistincVocabularyLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+												<Label style="-fx-text-fill: black;-fx-font-size:12" text="Celkový počet naučených slovíček ze slovníku:" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+												<Label fx:id="wordTotalVocabularyCorrectLabel" style="-fx-font-size:12" GridPane.columnIndex="1" GridPane.rowIndex="4" />
 										</children>
 										<columnConstraints>
 												<ColumnConstraints />

@@ -10,12 +10,18 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import org.hibernate.annotations.NamedQueries;
+import org.hibernate.annotations.NamedQuery;
+
 /**
  * The Class Lesson.
  */
 @Entity
 @Table(name = "LESSON")
+@NamedQueries(value = { @NamedQuery(name = Lesson.QUERY_UPDATE_OLD_LESSONS, query = "update Lesson ls set ls.correctCount = 0 where ls.correctCount > 0 and ls.checkTime < :time")})
 public class Lesson implements Serializable {
+	
+	public static final String QUERY_UPDATE_OLD_LESSONS = "lesson.query.updateOldLessons";
 
 	private static final long serialVersionUID = 1L;
 	@Id
