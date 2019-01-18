@@ -51,7 +51,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib</classpathPrefix>
-              <mainClass>cz.prague.vida.vocab.VocabTester</mainClass>
+              <mainClass>cz.prague.vida.vocab.Main</mainClass>
             </manifest>
           </archive>
         </configuration>
