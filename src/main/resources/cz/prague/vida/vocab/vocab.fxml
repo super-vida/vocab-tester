@@ -54,6 +54,7 @@
 										<children>
 												<Button mnemonicParsing="false" onAction="#deleteLesson" text="Smazat lekci" />
 												<Button mnemonicParsing="false" onAction="#editLesson" text="Editovat lekci" />
+                                                <Button mnemonicParsing="false" onAction="#printLesson" text="Vytisknout lekci" />
 												<Button mnemonicParsing="false" onAction="#newLesson" text="Nová lekce" />
 												<Button mnemonicParsing="false" onAction="#newLessonFromFile" text="Nová lekce ze souboru" />
 												<Button mnemonicParsing="false" onAction="#checkLesson" text="Testovat lekci" />

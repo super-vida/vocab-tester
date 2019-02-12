@@ -453,6 +453,32 @@ public class VocabController implements Initializable {
 			LOGGER.log(Level.SEVERE, "", e);
 		}
 	}
+	
+	/**
+	 * Edits the lesson.
+	 */
+	@FXML
+	public void printLesson() {
+		try {
+			Lesson editedLesson = getSelectedLesson();
+			if (editedLesson == null) {
+				return;
+			}
+			FXMLLoader loader = new FXMLLoader(getClass().getResource("print_lesson.fxml"));
+			Parent root = loader.load();
+			PrintLessonController controller = loader.<PrintLessonController> getController();
+			controller.initLesson(editedLesson);
+			Stage stage = new Stage();
+			stage.setTitle("Tisk lekce");
+			stage.setScene(new Scene(root, 550, 850));
+			stage.showAndWait();
+			refreshLessons();
+			fillTotalVocabStats();
+		}
+		catch (Exception e) {
+			LOGGER.log(Level.SEVERE, "", e);
+		}
+	}
 
 	@FXML
 	public void exitProgram() {

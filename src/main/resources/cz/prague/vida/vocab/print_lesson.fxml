@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="10.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.prague.vida.vocab.PrintLessonController">
+  <children>
+    <HBox alignment="CENTER" prefHeight="10.0" prefWidth="200.0" spacing="10.0">
+      <children>
+        <Label text="Label" />
+        <TextField prefWidth="200.0" fx:id="lessonNameTextField" />
+      </children>
+      <VBox.margin>
+        <Insets />
+      </VBox.margin>
+    </HBox>
+    <TextArea fx:id="tableView" prefHeight="900.0" prefWidth="550.0">
+     
+    </TextArea>
+   
+  </children>
+   <padding>
+      <Insets bottom="10.0" top="10.0" />
+   </padding>
+</VBox>
