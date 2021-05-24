@@ -5,7 +5,7 @@
 
    
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
-    <properties>
+    <!--properties>
       <property name="hibernate.archive.autodetection" value="class, hbm" />
       <property name="javax.persistence.jdbc.driver" value="org.sqlite.JDBC" />
       <property name="javax.persistence.jdbc.url" value="jdbc:sqlite:vocab.sqlite" />
@@ -14,6 +14,19 @@
       <property name="hibernate.show_sql" value="false" />
       <property name="format_sql" value="true" />
       <property name="hibernate.dialect" value="com.enigmabridge.hibernate.dialect.SQLiteDialect" />
+    </properties-->
+
+    <properties>
+      <property name="javax.persistence.jdbc.driver" value="org.h2.Driver" />
+      <property name="javax.persistence.jdbc.url"    value="jdbc:h2:P:/vida/vocab-tester/vocab;AUTO_SERVER=TRUE" />
+      <property name="javax.persistence.jdbc.user" value="sa" />
+      <property name="javax.persistence.jdbc.password" value="" />
+
+      <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
+      <!--property name="hibernate.hbm2ddl.auto" value="create-drop" /-->
+      <property name="show_sql" value="true"/>
+      <property name="hibernate.temp.use_jdbc_metadata_defaults" value="false"/>
     </properties>
+
   </persistence-unit>
 </persistence>

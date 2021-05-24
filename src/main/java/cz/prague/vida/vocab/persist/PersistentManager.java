@@ -1,12 +1,12 @@
 package cz.prague.vida.vocab.persist;
 
-import static cz.prague.vida.vocab.VocabLogger.LOGGER;
+//import static cz.prague.vida.vocab.VocabLogger.LOGGER;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
-import java.util.logging.Level;
+//import java.util.logging.Level;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -19,10 +19,12 @@ import cz.prague.vida.vocab.entity.LessonCheck;
 import cz.prague.vida.vocab.entity.LessonGroup;
 import cz.prague.vida.vocab.entity.Word;
 import cz.prague.vida.vocab.entity.WordGroup;
+import lombok.extern.slf4j.Slf4j;
 
 /**
  * The Class PersistentManager.
  */
+@Slf4j
 public class PersistentManager {
 
 	private static final String PERSISTENCE_UNIT_NAME = "vocab";
@@ -78,7 +80,7 @@ public class PersistentManager {
 			em.getTransaction().commit();
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "Error while persist", e);
+			log.error("Error while persist", e);
 			em.getTransaction().rollback();
 
 		}
@@ -105,7 +107,7 @@ public class PersistentManager {
 			}
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "Error while findLesson", e);
+			log.error( "Error while findLesson", e);
 		}
 		finally {
 			em.close();
@@ -146,7 +148,11 @@ public class PersistentManager {
 	 * @return the word total correct count
 	 */
 	public long getWordTotalCorrectCount() {
-		return processCount("select sum(correctCount) from Lesson l");
+		try {
+			return processCount("select sum(correctCount) from Lesson l");
+		} catch (Exception e) {
+			return 0;
+		}
 	}
 
 	/**
@@ -161,10 +167,10 @@ public class PersistentManager {
 		try {
 			Query q = em.createQuery(query);
 			Long bd = (Long) q.getSingleResult();
-			return bd.longValue();
+			return bd != null ? bd.longValue() : 0;
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "Error while process count", e);
+			log.error( "Error while process count", e);
 		}
 		finally {
 			em.close();
@@ -185,7 +191,7 @@ public class PersistentManager {
 			return q.getResultList();
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "Error while get all lessons", e);
+			log.error( "Error while get all lessons", e);
 		}
 		finally {
 			em.close();
@@ -209,7 +215,7 @@ public class PersistentManager {
 			return q.getResultList();
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "Error while get lesson history", e);
+			log.error( "Error while get lesson history", e);
 		}
 		finally {
 			em.close();
@@ -230,7 +236,7 @@ public class PersistentManager {
 			return q.getResultList();
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "Error while get all lesson groups", e);
+			log.error( "Error while get all lesson groups", e);
 		}
 		finally {
 			em.close();
@@ -343,7 +349,7 @@ public class PersistentManager {
 			em.getTransaction().commit();
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "Error while delete lesson", e);
+			log.error( "Error while delete lesson", e);
 			em.getTransaction().rollback();
 		}
 		finally {
@@ -370,7 +376,7 @@ public class PersistentManager {
 			em.getTransaction().commit();
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "Error while  delete word group", e);
+			log.error( "Error while  delete word group", e);
 			em.getTransaction().rollback();
 		}
 		finally {
@@ -396,7 +402,7 @@ public class PersistentManager {
 			em.getTransaction().commit();
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "error", e);
+			log.error( "error", e);
 			em.getTransaction().rollback();
 		}
 		finally {
@@ -415,10 +421,10 @@ public class PersistentManager {
 			q.setParameter("time", cal.getTime());
 			int updated = q.executeUpdate();
 			em.getTransaction().commit();
-			LOGGER.log(Level.INFO, "Updated old lessons :" + updated);
+			log.debug("Updated old lessons :" + updated);
 		}
 		catch (PersistenceException e) {
-			LOGGER.log(Level.SEVERE, "error", e);
+			log.error( "error", e);
 			em.getTransaction().rollback();
 		}
 		finally {
@@ -432,11 +438,11 @@ public class PersistentManager {
 	 */
 	public void close() {
 		if (entityManager != null && entityManager.isOpen()) {
-			LOGGER.info("Closing entity manager...");
+			log.info("Closing entity manager...");
 			entityManager.close();
 		}
 		if (factory != null && factory.isOpen()) {
-			LOGGER.info("Closing factory...");
+			log.info("Closing factory...");
 			factory.close();
 		}
 

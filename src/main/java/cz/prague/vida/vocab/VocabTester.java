@@ -1,7 +1,5 @@
 package cz.prague.vida.vocab;
 
-import static cz.prague.vida.vocab.VocabLogger.LOGGER;
-
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Cursor;
@@ -60,10 +58,12 @@ import javax.swing.text.StyledDocument;
 import cz.prague.vida.vocab.persist.PersistentManager;
 import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.player.Player;
+import lombok.extern.slf4j.Slf4j;
 
 /**
  * The Class VocabTester.
  */
+@Slf4j
 public class VocabTester extends JFrame {
 
 	private static final long serialVersionUID = 1L;
@@ -346,7 +346,7 @@ public class VocabTester extends JFrame {
 							}
 						}
 						catch (Exception e1) {
-							LOGGER.info(e1.getMessage());
+							log.info(e1.getMessage());
 							labelResult.setCursor(new Cursor(Cursor.DEFAULT_CURSOR));
 						}
 					}

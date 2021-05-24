@@ -1,6 +1,5 @@
 package cz.prague.vida.vocab;
 
-import static cz.prague.vida.vocab.VocabLogger.LOGGER;
 
 import java.io.IOException;
 import java.net.URL;
@@ -34,10 +33,12 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.scene.text.TextFlow;
 import javafx.stage.Stage;
+import lombok.extern.slf4j.Slf4j;
 
 /**
  * The Class VocabController.
  */
+@Slf4j
 public class VocabController implements Initializable {
 
 	@FXML
@@ -109,7 +110,7 @@ public class VocabController implements Initializable {
 	 */
 	@Override
 	public void initialize(URL location, ResourceBundle resources) {
-		LOGGER.info("init");
+		log.info("init");
 		name.setCellValueFactory(new PropertyValueFactory<Lesson, String>("name"));
 		totalCount.setCellValueFactory(new PropertyValueFactory<Lesson, String>("totalCount"));
 		correctCount.setCellValueFactory(new PropertyValueFactory<Lesson, String>("correctCount"));
@@ -135,7 +136,7 @@ public class VocabController implements Initializable {
 			vocabConfig.init();
 		}
 		catch (IOException e) {
-			LOGGER.log(Level.SEVERE, "", e);
+			log.error("", e);
 		}
 		textFieldTranslation.setBorder(Border.EMPTY);
 		fillTotalVocabStats();
@@ -321,7 +322,7 @@ public class VocabController implements Initializable {
 			}
 			labelResult.setText(testedWord.getWord2().getText());
 		}
-		else if (standardTestMode && testedWord.getWord2().getText().toLowerCase().startsWith(textFieldTranslation.getText().toLowerCase())) {
+		else if (standardTestMode && testedWord.getWord2().getText().toLowerCase().startsWith(textFieldTranslation.getText().toLowerCase()) && textFieldTranslation.getText().length() <= testedWord.getWord2().getText().length()) {
 			textFieldTranslation.setStyle("-fx-text-fill:black;");
 		}
 		else if (!standardTestMode && checkIfTranslationMatchWholeWord(testedWord)) {
@@ -401,7 +402,7 @@ public class VocabController implements Initializable {
 			fillTotalVocabStats();
 		}
 		catch (Exception e) {
-			LOGGER.log(Level.SEVERE, "", e);
+			log.error( "", e);
 		}
 
 	}
@@ -424,7 +425,7 @@ public class VocabController implements Initializable {
 			fillTotalVocabStats();
 		}
 		catch (Exception e) {
-			LOGGER.log(Level.SEVERE, "", e);
+			log.error( "", e);
 		}
 	}
 
@@ -450,7 +451,7 @@ public class VocabController implements Initializable {
 			fillTotalVocabStats();
 		}
 		catch (Exception e) {
-			LOGGER.log(Level.SEVERE, "", e);
+			log.error( "", e);
 		}
 	}
 	
@@ -476,7 +477,7 @@ public class VocabController implements Initializable {
 			fillTotalVocabStats();
 		}
 		catch (Exception e) {
-			LOGGER.log(Level.SEVERE, "", e);
+			log.error( "", e);
 		}
 	}
 
@@ -498,7 +499,7 @@ public class VocabController implements Initializable {
 			stage.showAndWait();
 		}
 		catch (Exception e) {
-			LOGGER.log(Level.SEVERE, "", e);
+			log.error( "", e);
 		}
 	}
 
